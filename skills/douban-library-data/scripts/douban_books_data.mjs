@@ -2,7 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { inferBookCategory } from "./book_category_rules.mjs";
 
-const METADATA_KEYS = ["作者", "国籍", "译者", "出版社", "出版年", "ISBN", "页数", "装帧", "定价", "原作名", "评分", "评分人数"];
+const METADATA_KEYS = ["作者", "国籍", "译者", "出版社", "出版年", "ISBN", "页数", "装帧", "定价", "原作名", "评分", "评分人数", "内容简介"];
 const args = process.argv.slice(2);
 
 const input = argValue("--input");
@@ -220,8 +220,6 @@ async function fetchBook(row) {
     id: subjectId,
     title,
     category,
-    frontmatterCategory: category,
-    originalCategory: category,
   };
 
   assignIfPresent(book, "作者", authorParts["作者"]);
@@ -236,6 +234,7 @@ async function fetchBook(row) {
   assignIfPresent(book, "原作名", fieldFromInfo(html, "原作名"));
   assignIfPresent(book, "评分", rating.score);
   assignIfPresent(book, "评分人数", rating.count);
+  assignIfPresent(book, "内容简介", intro);
   return book;
 }
 
@@ -252,8 +251,6 @@ function cleanBook(book) {
     id: book.id,
     title: book.title,
     category: book.category,
-    frontmatterCategory: book.frontmatterCategory,
-    originalCategory: book.originalCategory,
   };
   for (const key of METADATA_KEYS) assignIfPresent(next, key, book[key]);
   return next;
@@ -272,7 +269,6 @@ function mergeBooks(existingData, fetchedBooks) {
       merged.push(cleanBook({
         ...fresh,
         category: existing.category || fresh.category,
-        originalCategory: existing.originalCategory || fresh.originalCategory,
       }));
       seen.add(existing.id);
     } else {

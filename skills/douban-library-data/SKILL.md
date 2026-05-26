@@ -7,7 +7,7 @@ description: Fetch Douban Reading book subject pages and update a library shelf 
 
 Use this skill to collect Douban Reading book metadata and write `books-data.js`.
 
-This is adapted from the Douban Book MD workflow, but it does not create `.md` files. It fetches `book.douban.com/subject/<id>/` pages, extracts metadata, infers a category, and writes JavaScript data for the category manager page.
+This is adapted from the Douban Book MD workflow, but it does not create `.md` files. It fetches `book.douban.com/subject/<id>/` pages, extracts metadata and 内容简介, infers a category, and writes JavaScript data for the category manager page.
 
 ## Workflow
 
@@ -70,8 +70,6 @@ Each book includes:
   id,
   title,
   category,
-  frontmatterCategory,
-  originalCategory,
   作者,
   国籍,
   译者,
@@ -83,11 +81,12 @@ Each book includes:
   定价,
   原作名,
   评分,
-  评分人数
+  评分人数,
+  内容简介
 }
 ```
 
-Missing fields are omitted. Do not add the old `file` field. Do not add legacy aliases such as `author`, `rating`, or `ratingCount` unless the target app explicitly requires them.
+Missing fields are omitted. Do not add `frontmatterCategory` or `originalCategory`; the web app derives category-change state from its initial `category` values and localStorage. Do not add the old `file` field. Do not add legacy aliases such as `author`, `rating`, or `ratingCount` unless the target app explicitly requires them.
 
 ## Category Rules
 
