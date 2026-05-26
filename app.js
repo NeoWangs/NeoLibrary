@@ -1,8 +1,9 @@
 const STORAGE_KEY = "douban-category-manager-state-v1";
 const RAIL_STORAGE_KEY = "douban-category-manager-rail-visible-v1";
-const BOOK_METADATA_KEYS = ["作者", "国籍", "译者", "出版社", "出版年", "ISBN", "页数", "装帧", "定价", "原作名", "评分", "评分人数"];
+const BOOK_METADATA_KEYS = ["作者", "国籍", "译者", "原作名", "出版社", "出版年", "ISBN", "页数", "装帧", "定价", "评分", "评分人数", "内容简介"];
 
 const initialData = window.BOOK_CATEGORY_DATA ?? { categories: [], books: [] };
+const initialCategoryById = new Map(initialData.books.map((book) => [book.id, book.category]));
 let books = clone(initialData.books).map(cleanBook);
 let categories = [...initialData.categories];
 let activeCategories = new Set();
@@ -20,6 +21,9 @@ const els = {
   importJsonInput: document.querySelector("#importJsonInput"),
   resetBtn: document.querySelector("#resetBtn"),
   toggleRailBtn: document.querySelector("#toggleRailBtn"),
+  bookDialog: document.querySelector("#bookDialog"),
+  bookDialogBody: document.querySelector("#bookDialogBody"),
+  bookDialogClose: document.querySelector("#bookDialogClose"),
   bookCount: document.querySelector("#bookCount"),
   categoryCount: document.querySelector("#categoryCount"),
   changedCount: document.querySelector("#changedCount"),
@@ -44,15 +48,13 @@ els.exportJsonBtn.addEventListener("click", () => {
 });
 
 els.exportTsvBtn.addEventListener("click", () => {
-  const header = ["书名", "subject_id", "原分类", "当前分类", "分类内排序", "frontmatter分类", ...BOOK_METADATA_KEYS];
+  const header = ["书名", "subject_id", "当前分类", "分类内排序", ...BOOK_METADATA_KEYS];
   const orderById = categoryOrderById();
   const rows = books.map((book) => [
     book.title,
     book.id,
-    book.originalCategory,
     book.category,
     orderById.get(book.id),
-    book.frontmatterCategory,
     ...BOOK_METADATA_KEYS.map((key) => metadataText(book[key])),
   ]);
   download("douban-category-updates.tsv", [header, ...rows].map((row) => row.map(tsvCell).join("\t")).join("\n") + "\n", "text/tab-separated-values");
@@ -93,6 +95,10 @@ els.resetBtn.addEventListener("click", () => {
 });
 
 els.toggleRailBtn.addEventListener("click", () => setRailVisible(document.body.classList.contains("rail-hidden")));
+els.bookDialogClose.addEventListener("click", closeBookDialog);
+els.bookDialog.addEventListener("click", (event) => {
+  if (event.target === els.bookDialog) closeBookDialog();
+});
 
 function hydrate() {
   const saved = localStorage.getItem(STORAGE_KEY);
@@ -124,7 +130,7 @@ function setRailVisible(visible, { persist = true } = {}) {
 
 function render() {
   const visibleBooks = books.filter(matchesQuery);
-  const changed = books.filter((book) => book.category !== book.originalCategory);
+  const changed = books.filter(hasCategoryChange);
   const grouped = groupByCategory(visibleBooks);
   const categoryList = orderedCategories();
   const renderedCategories = activeCategories.size === 0
@@ -227,23 +233,14 @@ function categoryPanel(category, items) {
 }
 
 function bookCard(book) {
-  const changed = book.category !== book.originalCategory;
   const rating = bookRating(book) ? `<span class="rating-pill">${escapeHtml(bookRating(book))}</span>` : "";
-  const changedChip = changed ? `<span class="chip changed-mark">${escapeHtml(book.originalCategory)} -> ${escapeHtml(book.category)}</span>` : "";
-  const fmChip = book.frontmatterCategory && book.frontmatterCategory !== book.category
-    ? `<span class="chip">属性 ${escapeHtml(book.frontmatterCategory)}</span>`
-    : "";
-  const metaRow = fmChip || changedChip
-    ? `<div class="card-meta">${fmChip}${changedChip}</div>`
-    : "";
 
-  return `<div class="book-card ${changed ? "has-change" : ""}" draggable="true" data-id="${escapeAttr(book.id)}">
+  return `<div class="book-card" draggable="true" role="button" tabindex="0" data-id="${escapeAttr(book.id)}" aria-label="查看《${escapeAttr(book.title)}》详情">
     <div class="book-main">
       <a class="book-title" href="https://book.douban.com/subject/${escapeAttr(book.id)}/" target="_blank" rel="noreferrer">${escapeHtml(book.title)}</a>
       <span class="inline-chip">${escapeHtml(book.id)}</span>
       ${rating}
     </div>
-    ${metaRow}
   </div>`;
 }
 
@@ -296,7 +293,9 @@ function bindDragEvents() {
   });
 
   els.board.querySelectorAll(".book-card").forEach((card) => {
+    let movedDuringDrag = false;
     card.addEventListener("dragstart", (event) => {
+      movedDuringDrag = true;
       card.classList.add("is-dragging");
       event.dataTransfer.setData("application/x-book-id", card.dataset.id);
       event.dataTransfer.setData("text/plain", card.dataset.id);
@@ -322,6 +321,19 @@ function bindDragEvents() {
       els.board.querySelectorAll(".is-drop-after").forEach((item) => item.classList.remove("is-drop-after"));
       els.board.querySelectorAll(".is-drop-target").forEach((item) => item.classList.remove("is-drop-target"));
       els.categoryNav.querySelectorAll(".nav-item").forEach(clearNavDropClasses);
+      window.setTimeout(() => {
+        movedDuringDrag = false;
+      }, 0);
+    });
+    card.addEventListener("click", (event) => {
+      if (event.target.closest("a")) return;
+      if (movedDuringDrag) return;
+      openBookDialog(card.dataset.id);
+    });
+    card.addEventListener("keydown", (event) => {
+      if (event.key !== "Enter" && event.key !== " ") return;
+      event.preventDefault();
+      openBookDialog(card.dataset.id);
     });
   });
 
@@ -338,6 +350,89 @@ function bindDragEvents() {
       moveBook(id, list.dataset.category);
     });
   });
+}
+
+function openBookDialog(id) {
+  const book = books.find((item) => item.id === id);
+  if (!book) return;
+
+  els.bookDialogBody.innerHTML = bookDialogContent(book);
+  if (typeof els.bookDialog.showModal === "function") {
+    els.bookDialog.showModal();
+  } else {
+    els.bookDialog.setAttribute("open", "");
+  }
+}
+
+function closeBookDialog() {
+  if (typeof els.bookDialog.close === "function") {
+    els.bookDialog.close();
+  } else {
+    els.bookDialog.removeAttribute("open");
+  }
+}
+
+function bookDialogContent(book) {
+  const { rows, synopsis } = bookDetailContent(book);
+  const doubanUrl = `https://book.douban.com/subject/${encodeURIComponent(book.id)}/`;
+  const ratingCount = metadataText(book["评分人数"]);
+  const rating = bookRating(book)
+    ? `<span class="detail-rating"><strong>${escapeHtml(bookRating(book))}</strong>${ratingCount ? `<small>${escapeHtml(ratingCount)} 人</small>` : ""}</span>`
+    : "";
+  const isbn = metadataText(book["ISBN"]);
+
+  return `<article class="book-detail">
+    <header class="detail-hero">
+      <div>
+        <div class="detail-kicker">Book Detail</div>
+        <h1 id="bookDialogTitle">${escapeHtml(book.title)}</h1>
+        <div class="detail-badges">
+          <span class="detail-badge">${escapeHtml(book.id)}</span>
+          ${isbn ? `<span class="detail-badge">ISBN ${escapeHtml(isbn)}</span>` : ""}
+        </div>
+      </div>
+      ${rating}
+    </header>
+    <div class="detail-body">
+      <dl class="detail-list">
+        ${rows.map(({ label, value }) => `<div>
+          <dt>${escapeHtml(label)}</dt>
+          <dd>${escapeHtml(metadataText(value) || "—")}</dd>
+        </div>`).join("")}
+      </dl>
+      <section class="detail-synopsis">
+        <h2>内容简介</h2>
+        <p>${escapeHtml(synopsis || "暂无")}</p>
+      </section>
+    </div>
+    <a class="detail-link" href="${escapeAttr(doubanUrl)}" target="_blank" rel="noreferrer">打开豆瓣页面</a>
+  </article>`;
+}
+
+function bookDetailContent(book) {
+  const optionalCompactKeys = new Set(["译者", "原作名"]);
+  const hiddenKeys = new Set(["国籍", "ISBN", "评分", "评分人数", "内容简介"]);
+  const baseRows = [
+    ...BOOK_METADATA_KEYS
+      .filter((key) => !hiddenKeys.has(key))
+      .map((key) => [key, key === "作者" ? authorWithNationality(book) : book[key]]),
+  ];
+  const shownKeys = new Set(["title", "id", "category", ...BOOK_METADATA_KEYS]);
+  const extraRows = Object.entries(book)
+    .filter(([key]) => !shownKeys.has(key))
+    .map(([key, value]) => [key, value]);
+
+  const rows = [...baseRows, ...extraRows]
+    .filter(([label, value]) => !optionalCompactKeys.has(label) || metadataText(value))
+    .map(([label, value]) => ({ label, value }));
+  return { rows, synopsis: metadataText(book["内容简介"]) };
+}
+
+function authorWithNationality(book) {
+  const author = metadataText(book["作者"]);
+  const nationality = metadataText(book["国籍"]);
+  if (!author || !nationality) return author;
+  return `${author} [${nationality}]`;
 }
 
 function addCategory() {
@@ -462,10 +557,8 @@ function exportPayload() {
     books: books.map((book) => ({
       id: book.id,
       title: book.title,
-      originalCategory: book.originalCategory,
       category: book.category,
       order: orderById.get(book.id),
-      frontmatterCategory: book.frontmatterCategory,
       ...metadataPayload(book),
     })),
   };
@@ -490,13 +583,17 @@ function orderedCategories() {
   return unique([...categories, ...books.map((book) => book.category)]);
 }
 
+function hasCategoryChange(book) {
+  const initialCategory = initialCategoryById.get(book.id);
+  return Boolean(initialCategory && book.category !== initialCategory);
+}
+
 function matchesQuery(book) {
   if (!query) return true;
   return [
     book.title,
     book.id,
     book.category,
-    book.frontmatterCategory,
     ...BOOK_METADATA_KEYS.map((key) => metadataText(book[key])),
   ].some((value) => String(value ?? "").toLowerCase().includes(query));
 }
@@ -537,7 +634,6 @@ function mergeSavedBooks(savedBooks) {
     if (!savedBook?.id) continue;
     const fresh = freshById.get(savedBook.id);
     const book = cleanBook(fresh ? { ...fresh, category: savedBook.category || fresh.category } : savedBook);
-    if (fresh) book.originalCategory = fresh.originalCategory;
     seen.add(savedBook.id);
     merged.push(book);
   }
@@ -550,12 +646,8 @@ function mergeSavedBooks(savedBooks) {
 }
 
 function cleanBook(book) {
-  const next = { ...book };
-  delete next.file;
-  delete next.author;
-  delete next.rating;
-  delete next.ratingCount;
-  return next;
+  const allowedKeys = new Set(["id", "title", "category", ...BOOK_METADATA_KEYS]);
+  return Object.fromEntries(Object.entries(book).filter(([key]) => allowedKeys.has(key)));
 }
 
 function metadataPayload(book) {

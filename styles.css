@@ -49,7 +49,8 @@ button:hover,
 
 button:focus-visible,
 input:focus-visible,
-.import-btn:focus-within {
+.import-btn:focus-within,
+.book-card:focus-visible {
   outline: 2px solid var(--focus);
   outline-offset: 2px;
 }
@@ -512,11 +513,6 @@ input {
   line-height: 1.35;
 }
 
-.changed-mark {
-  border-color: var(--accent-2);
-  color: var(--accent-2);
-}
-
 .empty {
   display: grid;
   place-items: center;
@@ -525,6 +521,233 @@ input {
   border: 1px dashed var(--line);
   background: rgba(236, 231, 220, 0.45);
   font-size: 12px;
+}
+
+.book-dialog {
+  width: min(720px, calc(100vw - 24px));
+  max-height: min(760px, calc(100vh - 24px));
+  border: 0;
+  background:
+    linear-gradient(135deg, rgba(255, 253, 248, 0.96), rgba(245, 242, 234, 0.98)),
+    var(--panel);
+  color: var(--ink);
+  padding: 0;
+  box-shadow:
+    0 0 0 1px rgba(31, 35, 40, 0.18),
+    0 0 0 8px rgba(255, 253, 248, 0.68),
+    0 28px 84px rgba(22, 21, 18, 0.3);
+  overflow: visible;
+}
+
+.book-dialog::backdrop {
+  background:
+    linear-gradient(90deg, rgba(31, 35, 40, 0.12) 1px, transparent 1px),
+    linear-gradient(0deg, rgba(31, 35, 40, 0.1) 1px, transparent 1px),
+    rgba(31, 35, 40, 0.36);
+  background-size: 24px 24px;
+  backdrop-filter: blur(2px);
+}
+
+.dialog-shell {
+  position: relative;
+  max-height: inherit;
+  overflow: auto;
+  border: 2px solid rgba(31, 35, 40, 0.88);
+  background:
+    linear-gradient(90deg, rgba(31, 35, 40, 0.03) 1px, transparent 1px),
+    linear-gradient(0deg, rgba(31, 35, 40, 0.025) 1px, transparent 1px),
+    rgba(255, 253, 248, 0.94);
+  background-size: 18px 18px;
+}
+
+.dialog-close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  z-index: 2;
+  display: grid;
+  place-items: center;
+  width: 30px;
+  min-width: 30px;
+  min-height: 30px;
+  border: 1px solid rgba(31, 35, 40, 0.28);
+  border-radius: 50%;
+  background: rgba(255, 253, 248, 0.86);
+  box-shadow: 0 8px 18px rgba(38, 35, 28, 0.12);
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 1;
+}
+
+.dialog-close:hover {
+  background: var(--ink);
+  color: var(--panel);
+  border-color: var(--ink);
+}
+
+.book-detail {
+  padding: 14px;
+}
+
+.detail-hero {
+  position: relative;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 12px;
+  align-items: start;
+  min-height: 0;
+  padding: 14px 48px 14px 16px;
+  border: 1px solid rgba(31, 35, 40, 0.16);
+  background:
+    linear-gradient(115deg, rgba(15, 118, 110, 0.16), rgba(184, 74, 43, 0.08) 52%, rgba(255, 253, 248, 0.8)),
+    #ebe4d8;
+  box-shadow: inset 4px 0 0 var(--accent);
+}
+
+.detail-kicker {
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.detail-hero h1 {
+  margin: 4px 0 8px;
+  font-size: clamp(22px, 4vw, 34px);
+  line-height: 1.12;
+  overflow-wrap: anywhere;
+  max-width: 22ch;
+}
+
+.detail-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.detail-badge,
+.detail-rating {
+  display: inline-grid;
+  place-items: center;
+  border: 1px solid rgba(31, 35, 40, 0.16);
+  background: rgba(255, 253, 248, 0.72);
+  padding: 3px 7px;
+  color: #4e5761;
+  font-size: 12px;
+  font-weight: 800;
+  line-height: 1.25;
+}
+
+.detail-rating {
+  position: relative;
+  z-index: 1;
+  min-width: 48px;
+  min-height: 48px;
+  border: 2px solid rgba(15, 118, 110, 0.48);
+  background: rgba(255, 253, 248, 0.9);
+  color: var(--accent);
+  box-shadow: 4px 4px 0 rgba(15, 118, 110, 0.14);
+}
+
+.detail-rating strong {
+  font-size: 22px;
+  line-height: 1;
+}
+
+.detail-rating small {
+  margin-top: 2px;
+  color: #5f6871;
+  font-size: 10px;
+  font-weight: 800;
+  line-height: 1;
+  white-space: nowrap;
+}
+
+.detail-body {
+  display: grid;
+  grid-template-columns: minmax(180px, 0.35fr) minmax(0, 1fr);
+  gap: 16px;
+  align-items: start;
+  margin: 12px 0;
+}
+
+.detail-list {
+  display: grid;
+  gap: 0;
+  margin: 0;
+  padding: 2px 0;
+  border-top: 1px solid rgba(216, 213, 205, 0.92);
+}
+
+.detail-list div {
+  display: grid;
+  grid-template-columns: 58px minmax(0, 1fr);
+  gap: 8px;
+  align-items: baseline;
+  min-width: 0;
+  padding: 6px 0;
+  border-bottom: 1px solid rgba(216, 213, 205, 0.72);
+}
+
+.detail-list dt,
+.detail-synopsis h2 {
+  color: var(--muted);
+  font-size: 10px;
+  font-weight: 800;
+}
+
+.detail-list dt {
+  margin: 0;
+}
+
+.detail-list dd {
+  margin: 0;
+  font-size: 13px;
+  line-height: 1.35;
+  overflow-wrap: anywhere;
+}
+
+.detail-synopsis {
+  min-width: 0;
+  max-height: 292px;
+  overflow: auto;
+  border-left: 3px solid rgba(15, 118, 110, 0.32);
+  padding: 2px 0 2px 14px;
+}
+
+.detail-synopsis h2 {
+  margin: 0 0 6px;
+  line-height: 1.2;
+}
+
+.detail-synopsis p {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.75;
+  overflow-wrap: anywhere;
+  white-space: pre-line;
+}
+
+.detail-link {
+  display: inline-grid;
+  place-items: center;
+  min-height: 34px;
+  border: 1px solid #0b5f59;
+  background: var(--accent);
+  color: white;
+  padding: 0 12px;
+  font-size: 12px;
+  font-weight: 800;
+  text-decoration: none;
+  box-shadow: 5px 5px 0 rgba(31, 35, 40, 0.14);
+  transition: transform 140ms ease, box-shadow 140ms ease, background 140ms ease;
+}
+
+.detail-link:hover {
+  background: #0b5f59;
+  box-shadow: 3px 3px 0 rgba(31, 35, 40, 0.18);
+  transform: translate(2px, 2px);
 }
 
 @media (max-width: 860px) {
@@ -564,5 +787,46 @@ input {
   .board {
     column-width: auto;
     column-count: 1;
+  }
+
+  .book-detail {
+    padding: 10px;
+  }
+
+  .detail-hero {
+    grid-template-columns: 1fr;
+    gap: 8px;
+    min-height: 0;
+    padding: 12px 42px 12px 12px;
+  }
+
+  .detail-rating {
+    justify-self: start;
+    min-width: 44px;
+    min-height: 44px;
+    font-size: 20px;
+  }
+
+  .detail-body {
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+
+  .detail-list div {
+    grid-template-columns: 52px minmax(0, 1fr);
+  }
+
+  .detail-synopsis {
+    max-height: 240px;
+    border-left: 0;
+    border-top: 3px solid rgba(15, 118, 110, 0.32);
+    padding: 10px 0 0;
+  }
+}
+
+@media (max-width: 520px) {
+  .detail-list div {
+    grid-template-columns: 1fr;
+    gap: 2px;
   }
 }
