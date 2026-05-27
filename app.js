@@ -1,6 +1,6 @@
 const STORAGE_KEY = "douban-category-manager-state-v1";
 const RAIL_STORAGE_KEY = "douban-category-manager-rail-visible-v1";
-const BOOK_METADATA_KEYS = ["作者", "国籍", "译者", "原作名", "出版社", "出版年", "ISBN", "页数", "装帧", "定价", "评分", "评分人数", "内容简介"];
+const BOOK_METADATA_KEYS = ["作者", "国籍", "译者", "原作名", "出版社", "出版年", "ISBN", "页数", "装帧", "定价", "评分", "评分人数", "内容简介", "封面图片"];
 
 const initialData = window.BOOK_CATEGORY_DATA ?? { categories: [], books: [] };
 const initialCategoryById = new Map(initialData.books.map((book) => [book.id, book.category]));
@@ -380,6 +380,12 @@ function bookDialogContent(book) {
     ? `<span class="detail-rating"><strong>${escapeHtml(bookRating(book))}</strong>${ratingCount ? `<small>${escapeHtml(ratingCount)} 人</small>` : ""}</span>`
     : "";
   const isbn = metadataText(book["ISBN"]);
+  const coverImage = metadataText(book["封面图片"]);
+  const cover = coverImage
+    ? `<figure class="detail-cover">
+        <img src="${escapeAttr(coverImage)}" alt="${escapeAttr(`${book.title} 封面`)}" loading="lazy">
+      </figure>`
+    : "";
 
   return `<article class="book-detail">
     <header class="detail-hero">
@@ -394,12 +400,15 @@ function bookDialogContent(book) {
       ${rating}
     </header>
     <div class="detail-body">
-      <dl class="detail-list">
-        ${rows.map(({ label, value }) => `<div>
-          <dt>${escapeHtml(label)}</dt>
-          <dd>${escapeHtml(metadataText(value) || "—")}</dd>
-        </div>`).join("")}
-      </dl>
+      <div class="detail-side${cover ? " has-cover" : ""}">
+        ${cover}
+        <dl class="detail-list">
+          ${rows.map(({ label, value }) => `<div>
+            <dt>${escapeHtml(label)}</dt>
+            <dd>${escapeHtml(metadataText(value) || "—")}</dd>
+          </div>`).join("")}
+        </dl>
+      </div>
       <section class="detail-synopsis">
         <h2>内容简介</h2>
         <p>${escapeHtml(synopsis || "暂无")}</p>
@@ -411,7 +420,7 @@ function bookDialogContent(book) {
 
 function bookDetailContent(book) {
   const optionalCompactKeys = new Set(["译者", "原作名"]);
-  const hiddenKeys = new Set(["国籍", "ISBN", "评分", "评分人数", "内容简介"]);
+  const hiddenKeys = new Set(["国籍", "ISBN", "评分", "评分人数", "内容简介", "封面图片"]);
   const baseRows = [
     ...BOOK_METADATA_KEYS
       .filter((key) => !hiddenKeys.has(key))

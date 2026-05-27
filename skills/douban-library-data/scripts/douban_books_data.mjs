@@ -2,7 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { inferBookCategory } from "./book_category_rules.mjs";
 
-const METADATA_KEYS = ["作者", "国籍", "译者", "出版社", "出版年", "ISBN", "页数", "装帧", "定价", "原作名", "评分", "评分人数", "内容简介"];
+const METADATA_KEYS = ["作者", "国籍", "译者", "出版社", "出版年", "ISBN", "页数", "装帧", "定价", "原作名", "评分", "评分人数", "内容简介", "封面图片"];
 const args = process.argv.slice(2);
 
 const input = argValue("--input");
@@ -133,6 +133,14 @@ function getRatingParts(html) {
   };
 }
 
+function getCoverImage(html) {
+  const mainPic = html.match(/<div id="mainpic"[\s\S]*?<img[^>]+src="([^"]+)"/i)?.[1];
+  if (mainPic) return decodeHtml(mainPic).trim();
+
+  const ogImage = html.match(/<meta\s+property="og:image"\s+content="([^"]*)"/i)?.[1];
+  return ogImage ? decodeHtml(ogImage).trim() : "";
+}
+
 function getIntro(html) {
   const allIntro = html.match(/<span class="all hidden">[\s\S]*?<div class="intro">([\s\S]*?)<\/div>[\s\S]*?<\/span>/i);
   if (allIntro) return stripTags(allIntro[1]);
@@ -204,6 +212,7 @@ async function fetchBook(row) {
   }
 
   const intro = getIntro(html);
+  const coverImage = getCoverImage(html);
   const rating = getRatingParts(html);
   const authorParts = expandAuthors(fieldFromInfo(html, "作者"));
   const category = inferBookCategory({
@@ -235,6 +244,7 @@ async function fetchBook(row) {
   assignIfPresent(book, "评分", rating.score);
   assignIfPresent(book, "评分人数", rating.count);
   assignIfPresent(book, "内容简介", intro);
+  assignIfPresent(book, "封面图片", coverImage);
   return book;
 }
 
