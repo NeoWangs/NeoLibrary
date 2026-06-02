@@ -2,13 +2,15 @@ const STORAGE_KEY = "douban-category-manager-state-v1";
 const RAIL_STORAGE_KEY = "douban-category-manager-rail-visible-v1";
 const BOOK_METADATA_KEYS = ["作者", "国籍", "译者", "原作名", "出版社", "出版年", "ISBN", "页数", "装帧", "定价", "评分", "评分人数", "内容简介", "封面图片"];
 
-const initialData = window.BOOK_CATEGORY_DATA ?? { categories: [], books: [] };
+const initialData = window.BOOK_CATEGORY_DATA ?? { appTitle: "藏书阁", categories: [], books: [] };
+let appTitle = metadataText(initialData.appTitle) || "藏书阁";
 const initialCategoryById = new Map(initialData.books.map((book) => [book.id, book.category]));
 let books = clone(initialData.books).map(cleanBook);
 let categories = [...initialData.categories];
 let activeCategories = new Set();
 let ratingSortedCategories = new Set();
 let query = "";
+let navClickTimer = 0;
 
 const els = {
   board: document.querySelector("#board"),
@@ -24,12 +26,14 @@ const els = {
   bookDialog: document.querySelector("#bookDialog"),
   bookDialogBody: document.querySelector("#bookDialogBody"),
   bookDialogClose: document.querySelector("#bookDialogClose"),
+  appTitle: document.querySelector("#appTitle"),
   bookCount: document.querySelector("#bookCount"),
   categoryCount: document.querySelector("#categoryCount"),
   changedCount: document.querySelector("#changedCount"),
 };
 
 hydrate();
+applyAppConfig();
 hydrateRail();
 render();
 
@@ -72,6 +76,8 @@ els.importJsonInput.addEventListener("change", async (event) => {
   });
   const importedOrder = importedBooks.map((book) => String(book.id ?? "")).filter(Boolean);
   const order = new Map(importedOrder.map((id, index) => [id, index]));
+  const importedTitle = metadataText(payload.appTitle).trim();
+  if (importedTitle) setAppTitle(importedTitle, { save: false });
   books = merged.sort((a, b) => {
     const aOrder = order.has(a.id) ? order.get(a.id) : Number.MAX_SAFE_INTEGER;
     const bOrder = order.has(b.id) ? order.get(b.id) : Number.MAX_SAFE_INTEGER;
@@ -84,6 +90,7 @@ els.importJsonInput.addEventListener("change", async (event) => {
 });
 
 els.resetBtn.addEventListener("click", () => {
+  appTitle = metadataText(initialData.appTitle) || "藏书阁";
   books = clone(initialData.books).map(cleanBook);
   categories = [...initialData.categories];
   activeCategories = new Set();
@@ -91,6 +98,7 @@ els.resetBtn.addEventListener("click", () => {
   query = "";
   els.searchInput.value = "";
   localStorage.removeItem(STORAGE_KEY);
+  applyAppConfig();
   render();
 });
 
@@ -99,6 +107,7 @@ els.bookDialogClose.addEventListener("click", closeBookDialog);
 els.bookDialog.addEventListener("click", (event) => {
   if (event.target === els.bookDialog) closeBookDialog();
 });
+els.appTitle?.addEventListener("dblclick", startAppTitleEdit);
 
 function hydrate() {
   const saved = localStorage.getItem(STORAGE_KEY);
@@ -106,6 +115,7 @@ function hydrate() {
   try {
     const state = JSON.parse(saved);
     if (Array.isArray(state.books) && Array.isArray(state.categories)) {
+      appTitle = metadataText(state.appTitle) || appTitle;
       books = mergeSavedBooks(state.books);
       categories = unique([...state.categories, ...books.map((book) => book.category)]);
     }
@@ -117,6 +127,47 @@ function hydrate() {
 function hydrateRail() {
   const visible = localStorage.getItem(RAIL_STORAGE_KEY);
   setRailVisible(visible !== "false", { persist: false });
+}
+
+function applyAppConfig() {
+  document.title = appTitle;
+  if (els.appTitle) els.appTitle.textContent = appTitle;
+}
+
+function setAppTitle(nextTitle, { save = true } = {}) {
+  const normalized = metadataText(nextTitle).trim();
+  if (!normalized) return;
+  appTitle = normalized;
+  applyAppConfig();
+  if (save) persist();
+}
+
+function startAppTitleEdit() {
+  if (!els.appTitle || document.querySelector(".app-title-input")) return;
+
+  const input = document.createElement("input");
+  input.className = "app-title-input";
+  input.type = "text";
+  input.value = appTitle;
+  input.setAttribute("aria-label", "应用标题");
+  els.appTitle.replaceWith(input);
+  input.focus();
+  input.select();
+
+  let finished = false;
+  const finish = (save) => {
+    if (finished) return;
+    finished = true;
+    input.replaceWith(els.appTitle);
+    if (save) setAppTitle(input.value);
+    else applyAppConfig();
+  };
+
+  input.addEventListener("blur", () => finish(true));
+  input.addEventListener("keydown", (event) => {
+    if (event.key === "Enter") finish(true);
+    if (event.key === "Escape") finish(false);
+  });
 }
 
 function setRailVisible(visible, { persist = true } = {}) {
@@ -155,15 +206,25 @@ function renderNav(categoryList) {
     const active = category === "全部" ? activeCategories.size === 0 : activeCategories.has(category);
     const draggable = category === "全部" ? "" : ` draggable="true"`;
     return `<button class="nav-item ${active ? "is-active" : ""}" type="button" data-category="${escapeAttr(category)}"${draggable}>
-      <span>${escapeHtml(category)}</span>
+      <span class="nav-name">${escapeHtml(category)}</span>
       <span class="nav-count">${count}</span>
     </button>`;
   }).join("");
 
   els.categoryNav.querySelectorAll(".nav-item").forEach((button) => {
+    button.addEventListener("dblclick", (event) => {
+      event.preventDefault();
+      event.stopPropagation();
+      window.clearTimeout(navClickTimer);
+      startCategoryEdit(button);
+    });
     button.addEventListener("click", (event) => {
-      selectCategory(button.dataset.category, event.metaKey || event.ctrlKey);
-      render();
+      const additive = event.metaKey || event.ctrlKey;
+      window.clearTimeout(navClickTimer);
+      navClickTimer = window.setTimeout(() => {
+        selectCategory(button.dataset.category, additive);
+        render();
+      }, 160);
     });
     button.addEventListener("dragstart", (event) => {
       const category = button.dataset.category;
@@ -225,7 +286,7 @@ function categoryPanel(category, items) {
         <div class="category-title">${escapeHtml(category)}<span class="category-count">（${items.length} 本）</span></div>
       </div>
       <button class="rating-sort-btn ${isRatingSorted ? "is-active" : ""}" type="button" data-category="${escapeAttr(category)}" title="${sortLabel}" aria-label="${sortLabel}" draggable="false">
-        <span>评分</span>
+        <span>排序</span>
       </button>
     </header>
     <div class="book-list" data-category="${escapeAttr(category)}">${cards}</div>
@@ -388,7 +449,8 @@ function bookDialogContent(book) {
     : "";
 
   return `<article class="book-detail">
-    <header class="detail-hero">
+    <header class="detail-hero${cover ? " has-cover" : ""}">
+      ${cover}
       <div>
         <div class="detail-kicker">Book Detail</div>
         <h1 id="bookDialogTitle">${escapeHtml(book.title)}</h1>
@@ -396,12 +458,12 @@ function bookDialogContent(book) {
           <span class="detail-badge">${escapeHtml(book.id)}</span>
           ${isbn ? `<span class="detail-badge">ISBN ${escapeHtml(isbn)}</span>` : ""}
         </div>
+        <a class="detail-link" href="${escapeAttr(doubanUrl)}" target="_blank" rel="noreferrer">打开豆瓣页面</a>
       </div>
       ${rating}
     </header>
     <div class="detail-body">
-      <div class="detail-side${cover ? " has-cover" : ""}">
-        ${cover}
+      <div class="detail-side">
         <dl class="detail-list">
           ${rows.map(({ label, value }) => `<div>
             <dt>${escapeHtml(label)}</dt>
@@ -414,7 +476,6 @@ function bookDialogContent(book) {
         <p>${escapeHtml(synopsis || "暂无")}</p>
       </section>
     </div>
-    <a class="detail-link" href="${escapeAttr(doubanUrl)}" target="_blank" rel="noreferrer">打开豆瓣页面</a>
   </article>`;
 }
 
@@ -450,6 +511,60 @@ function addCategory() {
   categories = unique([...categories, category]);
   activeCategories = new Set([category]);
   els.newCategoryInput.value = "";
+  persist();
+  render();
+}
+
+function startCategoryEdit(button) {
+  const category = button.dataset.category;
+  if (!category || category === "全部" || document.querySelector(".category-name-input")) return;
+
+  const input = document.createElement("input");
+  input.className = "category-name-input";
+  input.type = "text";
+  input.value = category;
+  input.setAttribute("aria-label", "分类名称");
+  button.replaceWith(input);
+  input.focus();
+  input.select();
+
+  let finished = false;
+  const finish = (save) => {
+    if (finished) return;
+    finished = true;
+    if (save) renameCategory(category, input.value);
+    else render();
+  };
+
+  input.addEventListener("blur", () => finish(true));
+  input.addEventListener("keydown", (event) => {
+    if (event.key === "Enter") finish(true);
+    if (event.key === "Escape") finish(false);
+  });
+}
+
+function renameCategory(category, nextName) {
+  const next = metadataText(nextName).trim();
+  if (!next || next === "全部" || next === category || orderedCategories().includes(next)) {
+    render();
+    return;
+  }
+
+  categories = orderedCategories().map((item) => item === category ? next : item);
+  for (const book of books) {
+    if (book.category === category) book.category = next;
+  }
+
+  if (activeCategories.has(category)) {
+    activeCategories.delete(category);
+    activeCategories.add(next);
+  }
+
+  if (ratingSortedCategories.has(category)) {
+    ratingSortedCategories.delete(category);
+    ratingSortedCategories.add(next);
+  }
+
   persist();
   render();
 }
@@ -562,6 +677,7 @@ function exportPayload() {
   const orderById = categoryOrderById();
   return {
     exportedAt: new Date().toISOString(),
+    appTitle,
     categories: orderedCategories(),
     books: books.map((book) => ({
       id: book.id,
@@ -585,7 +701,7 @@ function categoryOrderById() {
 }
 
 function persist() {
-  localStorage.setItem(STORAGE_KEY, JSON.stringify({ categories, books }));
+  localStorage.setItem(STORAGE_KEY, JSON.stringify({ appTitle, categories, books }));
 }
 
 function orderedCategories() {

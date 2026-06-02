@@ -58,10 +58,13 @@ The script writes:
 ```js
 window.BOOK_CATEGORY_DATA = {
   generatedAt,
+  appTitle,
   categories,
   books
 };
 ```
+
+Preserve top-level personalization fields such as `appTitle` when updating an existing `books-data.js`.
 
 Each book includes:
 

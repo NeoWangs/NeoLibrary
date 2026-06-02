@@ -338,11 +338,17 @@ for (const [index, row] of selectedRows.entries()) {
 
 const books = mergeBooks(existingData, fetchedBooks);
 const categories = categoriesFor(existingData, books);
+const outputData = {
+  ...existingData,
+  generatedAt: new Date().toISOString(),
+  categories,
+  books,
+};
 
 fs.mkdirSync(path.dirname(outPath), { recursive: true });
 fs.writeFileSync(
   outPath,
-  `window.BOOK_CATEGORY_DATA = ${JSON.stringify({ generatedAt: new Date().toISOString(), categories, books }, null, 2)};\n`,
+  `window.BOOK_CATEGORY_DATA = ${JSON.stringify(outputData, null, 2)};\n`,
   "utf8",
 );
 

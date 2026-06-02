@@ -1,5 +1,6 @@
 window.BOOK_CATEGORY_DATA = {
   "generatedAt": "2026-05-27T01:27:08.884Z",
+  "appTitle": "开过头先生的藏书阁",
   "categories": [
     "传记",
     "儿童",
