@@ -1,5 +1,6 @@
 const STORAGE_KEY = "douban-category-manager-state-v1";
 const RAIL_STORAGE_KEY = "douban-category-manager-rail-visible-v1";
+const LAYOUT_STORAGE_KEY = "douban-category-manager-layout-v1";
 const BOOK_METADATA_KEYS = ["作者", "国籍", "译者", "原作名", "出版社", "出版年", "ISBN", "页数", "装帧", "定价", "评分", "评分人数", "内容简介", "封面图片"];
 
 const initialData = window.BOOK_CATEGORY_DATA ?? { appTitle: "藏书阁", categories: [], books: [] };
@@ -9,6 +10,7 @@ let books = clone(initialData.books).map(cleanBook);
 let categories = [...initialData.categories];
 let activeCategories = new Set();
 let ratingSortedCategories = new Set();
+let layoutMode = "list";
 let query = "";
 let navClickTimer = 0;
 
@@ -30,11 +32,13 @@ const els = {
   bookCount: document.querySelector("#bookCount"),
   categoryCount: document.querySelector("#categoryCount"),
   changedCount: document.querySelector("#changedCount"),
+  layoutButtons: document.querySelectorAll(".layout-btn"),
 };
 
 hydrate();
 applyAppConfig();
 hydrateRail();
+hydrateLayout();
 render();
 
 els.searchInput.addEventListener("input", (event) => {
@@ -103,6 +107,9 @@ els.resetBtn.addEventListener("click", () => {
 });
 
 els.toggleRailBtn.addEventListener("click", () => setRailVisible(document.body.classList.contains("rail-hidden")));
+els.layoutButtons.forEach((button) => {
+  button.addEventListener("click", () => setLayoutMode(button.dataset.layout));
+});
 els.bookDialogClose.addEventListener("click", closeBookDialog);
 els.bookDialog.addEventListener("click", (event) => {
   if (event.target === els.bookDialog) closeBookDialog();
@@ -127,6 +134,11 @@ function hydrate() {
 function hydrateRail() {
   const visible = localStorage.getItem(RAIL_STORAGE_KEY);
   setRailVisible(visible !== "false", { persist: false });
+}
+
+function hydrateLayout() {
+  const saved = localStorage.getItem(LAYOUT_STORAGE_KEY);
+  setLayoutMode(saved === "spine" ? "spine" : "list", { persist: false, rerender: false });
 }
 
 function applyAppConfig() {
@@ -177,6 +189,19 @@ function setRailVisible(visible, { persist = true } = {}) {
   els.toggleRailBtn.setAttribute("aria-label", label);
   els.toggleRailBtn.setAttribute("aria-expanded", String(visible));
   if (persist) localStorage.setItem(RAIL_STORAGE_KEY, String(visible));
+}
+
+function setLayoutMode(nextMode, { persist = true, rerender = true } = {}) {
+  layoutMode = nextMode === "spine" ? "spine" : "list";
+  els.board.classList.toggle("is-spine", layoutMode === "spine");
+  els.board.classList.toggle("is-list", layoutMode !== "spine");
+  els.layoutButtons.forEach((button) => {
+    const active = button.dataset.layout === layoutMode;
+    button.classList.toggle("is-active", active);
+    button.setAttribute("aria-pressed", String(active));
+  });
+  if (persist) localStorage.setItem(LAYOUT_STORAGE_KEY, layoutMode);
+  if (rerender) render();
 }
 
 function render() {
@@ -295,14 +320,25 @@ function categoryPanel(category, items) {
 
 function bookCard(book) {
   const rating = bookRating(book) ? `<span class="rating-pill">${escapeHtml(bookRating(book))}</span>` : "";
+  const author = metadataText(book["作者"]).trim();
+  const spineStyle = layoutMode === "spine" ? ` style="${spineStyleVars(book)}"` : "";
 
-  return `<div class="book-card" draggable="true" role="button" tabindex="0" data-id="${escapeAttr(book.id)}" aria-label="查看《${escapeAttr(book.title)}》详情">
+  return `<div class="book-card" draggable="true" role="button" tabindex="0" data-id="${escapeAttr(book.id)}"${spineStyle} aria-label="查看《${escapeAttr(book.title)}》详情">
     <div class="book-main">
       <a class="book-title" href="https://book.douban.com/subject/${escapeAttr(book.id)}/" target="_blank" rel="noreferrer">${escapeHtml(book.title)}</a>
       <span class="inline-chip">${escapeHtml(book.id)}</span>
       ${rating}
+      ${author ? `<span class="book-author">${escapeHtml(author)}</span>` : ""}
     </div>
   </div>`;
+}
+
+function spineStyleVars(book) {
+  const seed = hashText(`${book.id}:${book.title}`);
+  const hue = seed % 360;
+  const height = 126 + (seed % 54);
+  const width = 32 + (seed % 18);
+  return `--spine-hue:${hue};--spine-height:${height}px;--spine-width:${width}px`;
 }
 
 function bindDragEvents() {
@@ -785,6 +821,14 @@ function metadataText(value) {
 
 function bookRating(book) {
   return metadataText(book["评分"]);
+}
+
+function hashText(value) {
+  let hash = 0;
+  for (let index = 0; index < value.length; index += 1) {
+    hash = (hash * 31 + value.charCodeAt(index)) >>> 0;
+  }
+  return hash;
 }
 
 function unique(values) {
