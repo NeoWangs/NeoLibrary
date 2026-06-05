@@ -301,6 +301,11 @@ function categoryPanel(category, items) {
   const sorted = booksForCategoryView(category, items);
   const isRatingSorted = ratingSortedCategories.has(category);
   const sortLabel = isRatingSorted ? "恢复原顺序" : "按评分排序";
+  const deleteButton = items.length === 0
+    ? `<button class="delete-category-btn" type="button" data-category="${escapeAttr(category)}" title="删除空分类" aria-label="删除空分类 ${escapeAttr(category)}" draggable="false">
+        <span>删除</span>
+      </button>`
+    : "";
   const cards = sorted.length > 0
     ? sorted.map(bookCard).join("")
     : `<div class="empty">空</div>`;
@@ -310,9 +315,12 @@ function categoryPanel(category, items) {
       <div>
         <div class="category-title">${escapeHtml(category)}<span class="category-count">（${items.length} 本）</span></div>
       </div>
+      <div class="category-actions">
+        ${deleteButton}
       <button class="rating-sort-btn ${isRatingSorted ? "is-active" : ""}" type="button" data-category="${escapeAttr(category)}" title="${sortLabel}" aria-label="${sortLabel}" draggable="false">
         <span>排序</span>
       </button>
+      </div>
     </header>
     <div class="book-list" data-category="${escapeAttr(category)}">${cards}</div>
   </article>`;
@@ -321,11 +329,12 @@ function categoryPanel(category, items) {
 function bookCard(book) {
   const rating = bookRating(book) ? `<span class="rating-pill">${escapeHtml(bookRating(book))}</span>` : "";
   const author = metadataText(book["作者"]).trim();
+  const title = bookDisplayTitle(book);
   const spineStyle = layoutMode === "spine" ? ` style="${spineStyleVars(book)}"` : "";
 
-  return `<div class="book-card" draggable="true" role="button" tabindex="0" data-id="${escapeAttr(book.id)}"${spineStyle} aria-label="查看《${escapeAttr(book.title)}》详情">
+  return `<div class="book-card" draggable="true" role="button" tabindex="0" data-id="${escapeAttr(book.id)}"${spineStyle} aria-label="查看《${escapeAttr(title)}》详情">
     <div class="book-main">
-      <a class="book-title" href="https://book.douban.com/subject/${escapeAttr(book.id)}/" target="_blank" rel="noreferrer">${escapeHtml(book.title)}</a>
+      <a class="book-title" href="https://book.douban.com/subject/${escapeAttr(book.id)}/" target="_blank" rel="noreferrer">${escapeHtml(title)}</a>
       <span class="inline-chip">${escapeHtml(book.id)}</span>
       ${rating}
       ${author ? `<span class="book-author">${escapeHtml(author)}</span>` : ""}
@@ -334,14 +343,50 @@ function bookCard(book) {
 }
 
 function spineStyleVars(book) {
-  const seed = hashText(`${book.id}:${book.title}`);
+  const title = bookDisplayTitle(book);
+  const seed = hashText(`${book.id}:${title}`);
   const hue = seed % 360;
-  const height = 126 + (seed % 54);
-  const width = 32 + (seed % 18);
-  return `--spine-hue:${hue};--spine-height:${height}px;--spine-width:${width}px`;
+  const titleUnits = verticalTextUnits(title);
+  const titleColumns = Math.min(3, Math.max(1, Math.ceil(titleUnits / 9)));
+  const titleFontSize = spineTitleFontSize(titleUnits);
+  const baseHeight = 128 + (seed % 24);
+  const titleHeight = 78 + Math.ceil(titleUnits / titleColumns) * titleFontSize * 1.08;
+  const height = Math.round(Math.min(190, Math.max(baseHeight, titleHeight)));
+  const titleWidth = titleColumns === 1
+    ? 22
+    : Math.ceil(titleColumns * 16);
+  const width = Math.max(32 + (seed % 8) + (titleColumns - 1) * 14, titleWidth + 12);
+  return `--spine-hue:${hue};--spine-height:${height}px;--spine-width:${width}px;--title-width:${titleWidth}px;--title-font-size:${titleFontSize}px`;
+}
+
+function verticalTextUnits(value) {
+  return [...metadataText(value).replace(/\s+/g, "")].length;
+}
+
+function spineTitleFontSize(titleUnits) {
+  if (titleUnits > 30) return 8.5;
+  if (titleUnits > 24) return 9.5;
+  if (titleUnits > 18) return 11;
+  return 14;
+}
+
+function bookDisplayTitle(book) {
+  return metadataText(book.title);
 }
 
 function bindDragEvents() {
+  els.board.querySelectorAll(".delete-category-btn").forEach((button) => {
+    button.addEventListener("click", (event) => {
+      event.stopPropagation();
+      deleteEmptyCategory(button.dataset.category);
+    });
+    button.addEventListener("pointerdown", (event) => event.stopPropagation());
+    button.addEventListener("dragstart", (event) => {
+      event.preventDefault();
+      event.stopPropagation();
+    });
+  });
+
   els.board.querySelectorAll(".rating-sort-btn").forEach((button) => {
     button.addEventListener("click", (event) => {
       event.stopPropagation();
@@ -356,7 +401,7 @@ function bindDragEvents() {
 
   els.board.querySelectorAll(".category-header").forEach((header) => {
     header.addEventListener("dragstart", (event) => {
-      if (event.target.closest(".rating-sort-btn")) return;
+      if (event.target.closest(".rating-sort-btn, .delete-category-btn")) return;
       header.classList.add("is-dragging");
       event.dataTransfer.setData("application/x-category", header.dataset.category);
       event.dataTransfer.effectAllowed = "move";
@@ -472,6 +517,7 @@ function closeBookDialog() {
 function bookDialogContent(book) {
   const { rows, synopsis } = bookDetailContent(book);
   const doubanUrl = `https://book.douban.com/subject/${encodeURIComponent(book.id)}/`;
+  const title = bookDisplayTitle(book);
   const ratingCount = metadataText(book["评分人数"]);
   const rating = bookRating(book)
     ? `<span class="detail-rating"><strong>${escapeHtml(bookRating(book))}</strong>${ratingCount ? `<small>${escapeHtml(ratingCount)} 人</small>` : ""}</span>`
@@ -480,7 +526,7 @@ function bookDialogContent(book) {
   const coverImage = metadataText(book["封面图片"]);
   const cover = coverImage
     ? `<figure class="detail-cover">
-        <img src="${escapeAttr(coverImage)}" alt="${escapeAttr(`${book.title} 封面`)}" loading="lazy">
+        <img src="${escapeAttr(coverImage)}" alt="${escapeAttr(`${title} 封面`)}" loading="lazy">
       </figure>`
     : "";
 
@@ -489,7 +535,7 @@ function bookDialogContent(book) {
       ${cover}
       <div>
         <div class="detail-kicker">Book Detail</div>
-        <h1 id="bookDialogTitle">${escapeHtml(book.title)}</h1>
+        <h1 id="bookDialogTitle">${escapeHtml(title)}</h1>
         <div class="detail-badges">
           <span class="detail-badge">${escapeHtml(book.id)}</span>
           ${isbn ? `<span class="detail-badge">ISBN ${escapeHtml(isbn)}</span>` : ""}
@@ -634,6 +680,15 @@ function toggleRatingSort(category) {
     next.add(category);
   }
   ratingSortedCategories = next;
+  render();
+}
+
+function deleteEmptyCategory(category) {
+  if (!category || books.some((book) => book.category === category)) return;
+  categories = orderedCategories().filter((item) => item !== category);
+  activeCategories.delete(category);
+  ratingSortedCategories.delete(category);
+  persist();
   render();
 }
 
