@@ -36,6 +36,16 @@ node --check app.js
 node --check skills/douban-library-data/scripts/douban_books_data.mjs
 ```
 
+## Store Cover Images Locally
+
+For a deployable shelf that does not depend on external image hotlinking, download the cover URLs already collected in `books-data.js` and rewrite their references to Git-tracked local assets:
+
+```bash
+node skills/douban-library-data/scripts/download_cover_images.mjs --data books-data.js --out-dir assets/covers --concurrency 6
+```
+
+The script names each file after its Douban subject ID (for example, `assets/covers/1084336.jpg`) and updates that book's `封面图片` value to `./assets/covers/<id>.<ext>`. Run it after importing new book metadata to add their cover images to the repository.
+
 ## Options
 
 - `--input FILE`: TSV input. The script finds the first `https://book.douban.com/subject/<id>/` cell in each data row.

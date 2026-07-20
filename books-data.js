@@ -43,7 +43,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.9",
       "评分人数": "1035",
       "内容简介": "这是一本有自传色彩的小说，一部心灵史诗。保尔和冬妮亚之间产生了朦胧的爱情，可是他俩却属于不同的阶层，后来终于分手，保尔参加了红军。从此，无论是一天发起十七次冲锋去攻占一个城堡，还是在身患伤寒的情况下踩着寒冷彻骨的烂泥去修建小铁路，无论是在与达雅姑娘的友谊和爱情中遍尝甜酸苦辣，还是在布尔什维克党同托洛茨基派的斗争中徘徊摸索，保尔都咬着牙关挺了过来……无数的磨练使保尔变得成熟又坚强！小说既再现了与白军较量的血雨腥风，又展示了社会主义建设的热火朝天，同时还饱含激情地描写了红军战士谢廖沙、丽达等的甜蜜爱情与崇高理想。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s1800876.jpg"
+      "封面图片": "./assets/covers/1119908.jpg"
     },
     {
       "id": "34884901",
@@ -60,7 +60,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.7",
       "评分人数": "737",
       "内容简介": "《独自上场》是网球名将李娜的自传，讲述李娜30年的人生故事。\n\n与众不同的成才之路、跌宕起伏的赛场传奇、不离不弃的爱情誓言、以及那些不为人知的酸甜苦辣。当然，还有李娜站在荣誉巅峰的人生感悟。\n\n这本书，带你穿越媒体和赛场，认识更加真实的李娜。此次2019年全新修订，除了增加了108页全新内容，更在图书传记中，创新性地加入了手写批注形式，读者可以通过李娜的回顾，看见她是如何评价和思考成长中的自己，还有遇到的那些人、那些事。\n\n新版《独自上场》在收录图片上更是一举收录了国内外媒体及李娜本人提供的一些全新照片，通过这些图片影像，我们能更加贴近地重温李娜的赛场英姿，窥见生活中她的成长痕迹。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s33537244.jpg"
+      "封面图片": "./assets/covers/34884901.jpg"
     },
     {
       "id": "11632947",
@@ -79,7 +79,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.4",
       "评分人数": "374",
       "内容简介": "•历经两百余年而不衰的励志奇书，改变无数人命运的美国精神读本《富兰克林自传》。\n\n•卡耐基、拿破仑•希尔和曼狄诺推崇的成功楷模\n\n《富兰克林自传》是美国迄今为止最重要、读者最多的自传作品之一，无论从自传的角度还是从美国思想史的角度来看，都具有划时代的意义。富兰克林以拉家常的方式，把自己成功的经验和失败的教训娓娓道来，整部自传在通俗易懂的叙述中不时会有睿智和哲理的火花，开创了美国传记文学的优良传统，使自传成为一种新的文学体裁。《富兰克林自传》是在读者如饥似渴的等待中出版的，一经问世被一抢而光。世界各地的青年人都希望学习富兰克林成功的秘诀，他们把这部书当成“人生指导”读物。\n\n若想在尸骨已朽之时尚不被人忘记，要么写点值得一读的东西，要么做些值得一写的事情。\n\n——本杰明•富兰克林\n\n在我的一生中，能让我佩服的人有三位，第一位是本杰明•富兰克林；第二位也是本杰明•富兰克林；第三位还是本杰明•富兰克林。\n\n——乔治•华盛顿\n\n富兰克林生下来时比我们中最穷的人还要穷，但他具有不以自己穷困为耻的勇气，并凭借这勇气成为他生活的时代和国家中最伟大和最出色的人。\n\n——托马斯•杰斐逊",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s24516812.jpg"
+      "封面图片": "./assets/covers/11632947.jpg"
     },
     {
       "id": "24862255",
@@ -98,7 +98,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.2",
       "评分人数": "43",
       "内容简介": "两度“普利策奖”得主大卫•赫伯特•唐纳德的《林肯传》真实地再现了美国历史上最伟大的总统之一林肯的一生。林肯出身贫寒，没有受过正规的学校教育，从政之路遭遇过无数次的失败，但锤炼了他高尚的品格和坚强的意志。在南方奴隶主挑起的南北战争中，林肯凭借自己非凡的毅力和决心履行了自己的职责：恢复联邦、废除奴隶制。林肯再次即将连任总统之时，遭到暗杀，整个美国陷入了深深的悲痛中。人们一直缅怀着这位伟大的总统，直至今日。\n\n大卫•赫伯特•唐纳德的《林肯传》是美国最权威，最广为流传的林肯的权威传记，卓越地再现了这位总统从名不见经传到政治巅峰的历程。《林肯传》是《纽约时报》畅销书，美国优秀畅销书，一部不朽的经典。美国总统比尔•克林顿盛赞这《林肯传》启迪智慧，振奋人心，是他最爱读的书！",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s26841779.jpg"
+      "封面图片": "./assets/covers/24862255.jpg"
     },
     {
       "id": "30382558",
@@ -115,7 +115,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.1",
       "评分人数": "162",
       "内容简介": "这是一本回忆性质的随笔集。从作者1935年懵懂出生，到1997年62岁耳顺之年，从哈尔滨到北京，到上海，后去台湾，求学、参军、办刊、获罪、坐牢、隐居、复出，这些往事的回忆。体现作者对人生的思考、独立的思想。\n\n笑傲江湖、卓而不群、横睨一世的李敖，其大起大落的人生经历，堪称一则现代的传奇。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s34390234.jpg"
+      "封面图片": "./assets/covers/30382558.jpg"
     },
     {
       "id": "31250013",
@@ -134,7 +134,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.4",
       "评分人数": "62",
       "内容简介": "《特斯拉自传》是尼古拉·特斯拉一部亲笔撰写的自传，在书中，他亲述了其1000多项伟大发明的过程与心路，客观而深刻地展示了自己传奇的一生，并揭开了爱迪生将其视为较大劲敌背后的真相。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s33837128.jpg"
+      "封面图片": "./assets/covers/31250013.jpg"
     },
     {
       "id": "27144820",
@@ -153,7 +153,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.8",
       "评分人数": "907",
       "内容简介": "一个单独的决断——行动或不行动、行动过早或过迟——这样的时刻都会对世世代代产生不可挽回的影响，决定着一个人的生死、决定着一个民族的存亡，甚至决定着整个人类的命运。这种充满戏剧性和命运攸关的时刻在个人的一生中和在历史的进程中都十分难得；这种时刻往往只集中发生在某一天、某一小时甚至常常只发生在某一分钟，但它们的决定性影响却超越时间。\n\n茨威格从极其不同的时代和地区回顾了若干个这样一些群星闪耀的时刻——它们宛若星辰一般永远散射着清辉，普照着终将消逝的黑夜。\n\n三联增订版的《人类的群星闪耀时》，将是国内迄今为止的最新版本，即将历史时刻特写从原来的12个增加到14个，所涉及的历史人物分别是西塞罗和“一战”时美国总统伍德罗•威尔逊。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s29549072.jpg"
+      "封面图片": "./assets/covers/27144820.jpg"
     },
     {
       "id": "36246525",
@@ -172,7 +172,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "6.8",
       "评分人数": "565",
       "内容简介": "《人类群星闪耀时》是奥地利作家斯蒂芬·茨威格的传世杰作，通过截取穆罕默德二世、拿破仑、歌德等伟人光芒闪耀的时刻，来展现它们对一个人的生死、一个民族的存亡甚至整个人类的命运的影响。群星闪耀的时刻并不经常出现，但毫无疑问，在我们的时代，它即将来临。茨威格用它那崇高、炽热的文字描绘出群星闪耀的时刻，而这些时刻也因他而绽放出更加璀璨夺目的光彩。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s34415079.jpg"
+      "封面图片": "./assets/covers/36246525.jpg"
     },
     {
       "id": "36672955",
@@ -192,7 +192,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.8",
       "评分人数": "11946",
       "内容简介": "《我看见的世界》既是李飞飞的个人史，也是一部波澜壮阔、跌宕起伏的人工智能发展史。\n\n在这本书里，李飞飞回忆了自己从底层移民成长到顶尖科学家的经历。她度过了困顿艰辛的青少年时代，但对科学的热爱不断激励着她持续追寻人生的“北极星”，并最终走进科学的殿堂。\n\n当李飞飞和家人努力适应在美国的生活时，恰逢现代人工智能开始不断取得突破。她不断开启新的科学征程，并确立了自己在计算机视觉领域的科学使命，取得了非凡的成就。在这本书里，她详细记录了这些重大时刻的关键细节。同时，李飞飞也对未来人工智能的发展方向提出了自己的判断和警醒，核心就是“以人为本”，让人工智能真正推动人类的发展，而不是成为威胁。\n\n这本书既是对重大科学突破幕后的精彩窥探，也是一位女性用好奇心和勇气突破人生困境的故事。它不仅证明了即使是最技术性的学术研究也需要激情，更加表明永不停歇的好奇心可以激发无尽的科技创新。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s35047860.jpg"
+      "封面图片": "./assets/covers/36672955.jpg"
     },
     {
       "id": "27615361",
@@ -212,7 +212,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.4",
       "评分人数": "22932",
       "内容简介": "《昨日的世界》是奥地利作家斯特凡•茨威格创作的自传体文学作品,写于1939年至1941年间，是茨威格在临终前被迫流亡的日子里完成的。在茨威格离世以后，于1942年在斯德哥尔摩出版。\n\n在这部作品里，茨威格把个人命运与时代融为一体，通过自己所经历的人与事，展示了他生活过的城市和国家的文化生活风貌，记录了从第一次世界大战前夜到第二次世界大战时动荡的欧洲社会，描述了他与一些世界闻名的诗人、作家、雕塑家、音乐家交往的情景，批露了世界文化名人鲜为人知的生活轶事，同时穿插了作者各种细腻的心迹。茨威格从出生的城市维也纳和自己的犹太家庭写起，一直写到1939年9月已满60岁的时候，时值第二次世界大战爆发，他认为，这是“我们这些六十岁人的时代彻底结束”。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s29786716.jpg"
+      "封面图片": "./assets/covers/27615361.jpg"
     },
     {
       "id": "6512188",
@@ -229,7 +229,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.0",
       "评分人数": "3501",
       "内容简介": "Based on more than forty interviews with Jobs conducted over two years—as well as interviews with more than a hundred family members, friends, adversaries, competitors, and colleagues—Walter Isaacson has written a riveting story of the roller-coaster life and searingly intense personality of a creative entrepreneur whose passion for perfection and ferocious drive revolutionized six industries: personal computers, animated movies, music, phones, tablet computing, and digital publishing.\n\nAt a time when America is seeking ways to sustain its innovative edge, and when societies around the world are trying to build digital-age economies, Jobs stands as the ultimate icon of inventiveness and applied imagination. He knew that the best way to create value in the twenty-first century was to connect creativity with technology. He built a company where leaps of the imagination were combined with remarkable feats of engineering.\n\nAlthough Jobs cooperated with this book, he asked for no control over what was written nor even the right to read it before it was published. He put nothing off-limits. He encouraged the people he knew to speak honestly. And Jobs speaks candidly, sometimes brutally so, about the people he worked with and competed against. His friends, foes, and colleagues provide an unvarnished view of the passions, perfectionism, obsessions, artistry, devilry, and compulsion for control that shaped his approach to business and the innovative products that resulted.\n\nDriven by demons, Jobs could drive those around him to fury and despair. But his personality and products were interrelated, just as Apple’s hardware and software tended to be, as if part of an integrated system. His tale is instructive and cautionary, filled with lessons about innovation, character, leadership, and values.",
-      "封面图片": "https://img2.doubanio.com/view/subject/s/public/s6978281.jpg"
+      "封面图片": "./assets/covers/6512188.jpg"
     },
     {
       "id": "20424526",
@@ -249,7 +249,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.4",
       "评分人数": "87241",
       "内容简介": "邓小平深刻影响了中国历史和世界历史的走向，也改变了每一个当代中国人的命运。解读邓小平的政治生涯及其行为逻辑，就是解读当代中国，解读个人命运背后的历史变局。\n\n哈佛大学傅高义教授倾十年心力完成的巨著《邓小平时代》，是对邓小平跌宕起伏的一生以及中国惊险崎岖的改革开放之路的全景式描述。作者以丰富的史料、国内外重要的研究成果、档案资料和为数众多的独家访谈为基础，对邓小平个人性格及执政风格进行了深层分析，并对中国改革开放史进行了完整而独到的阐释。全书人物、事件众多，既有对毛泽东、周恩来、邓小平、陈云等人相互关系的细致解读，又有对三中全会、权力过渡、中美建交、政改试水、经济特区、一国两制、九二南巡等重大事件和决策的深入分析。全书持论严谨、脉络清晰、观点鲜明、叙述生动，力图使人物言行符合历史情境，对改革开放的历史进程亦时有独特看法，引人深思，被誉为邓小平研究“纪念碑式”的著作。\n\n读懂《邓小平时代》，读懂这段历史，读懂“仍然生活在邓小平时代”的我们自己的现在和未来。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s24516687.jpg"
+      "封面图片": "./assets/covers/20424526.jpg"
     },
     {
       "id": "1139360",
@@ -266,7 +266,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.6",
       "评分人数": "38764",
       "内容简介": "这部选集包括了毛泽东同志在中国革命各个时期中的重要著作，是按照中国共产党成立后所经历的各个历史时期并且按照著作年月次序而编辑的。本卷包括第一次国内革命战争时期和第二次国内革命战争时期的著作。",
-      "封面图片": "https://img2.doubanio.com/view/subject/s/public/s1106951.jpg"
+      "封面图片": "./assets/covers/1139360.jpg"
     },
     {
       "id": "7054801",
@@ -289,7 +289,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.6",
       "评分人数": "811",
       "内容简介": "美国前总统理查德·尼克松结识了二次大战后世界上几乎所有的重要领导人，他对这些影响世界历史的人物进行了栩栩如生的描述。在本书中，我们能看到中国传奇式的领导人——毛泽东、周恩来，以及到台湾后的蒋介石；美国的对手——赫鲁暁夫和勃列日涅夫；新日本的共同缔造者——美国五星级上将麦克阿瑟和日本战后第一任首相吉田茂；我们了解到注重公开形象的戴高乐又是一位极为重视家庭生活的人；我们探知到德国前辈总理阿登纳务实却又有些理想主义的哲学；而我们读到丘吉尔轶事时，又感到兴味盎然；尼克松还向我们介绍了南欧、非洲、亚洲、澳大利亚以及中东等国家卓越而富有个性的领导人。此外，他对领袖应有的素质及人民对领袖的要求，以及他们为什么能成功，他们又为什么会失败，做了透彻的解析。本书所表达是一位曾经执掌过政权，深切体会过掌权甘苦的人的见识。他知道领导者所拥有的令人敬畏的潜力，他们可以制造历史的灾难，他们也可以推动历史的进步。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s7654406.jpg"
+      "封面图片": "./assets/covers/7054801.jpg"
     },
     {
       "id": "35292726",
@@ -309,7 +309,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.8",
       "评分人数": "869",
       "内容简介": "自1969年在贝尔实验室的阁楼上诞生以来，Unix操作系统的发展远远超出其创造者们的想象。它带动了许多创新软件的开发，影响了无数程序员，改变了整个计算机技术的发展轨迹。\n\n本书不但书写Unix的历史，而且记录作者的回忆，一探Unix的起源，试图解释什么是Unix，Unix是如何产生的，以及Unix为何如此重要。除此之外，本书以轻松的口吻讲述了一群在贝尔实验室工作的发明天才的有趣往事，探秘他们如何从传说中走出来，就地显现极客真面目。本书中每一个精彩故事都是鲜为人知却又值得传播的宝贵资源。\n\n本书是为对计算机或相关历史感兴趣的人编写的，虽然它包括一部分技术相关的资料，但读者不需要有太多的专业技术背景，就可以欣赏Unix背后的思想，了解它的重要性。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s33795206.jpg"
+      "封面图片": "./assets/covers/35292726.jpg"
     },
     {
       "id": "35370545",
@@ -332,7 +332,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.3",
       "评分人数": "759",
       "内容简介": "凭借知识和激情，一个人能够达到怎样的高度？\n\n◎编辑推荐\n\n“新传记”开创者埃米尔·路德维希版的代表作。\n\n上外德语系教授根据1931年德国Rowohlt出版社定本直译。\n\n埃米尔·路德维希版的《拿破仑传》是拿破仑传记中的经典作品。埃米尔凭借《歌德传》成名，但以《拿破仑传》享誉世界。\n\n该书1925年首版后，很快由Eden and Cedar Paul译成英文，该英译本在1927年美国“非虚构类畅销书排行榜”上位列第二。\n\n埃米尔·路德维希首创将史实描写与文学创作相结合的传记写作方式，开创了传记写作的新流派“新传记派”。\n\n拿破仑是所有热血青年的榜样——理想远大、学识渊博、精力充沛、积极勤奋；\n\n拿破仑是所有热血青年的教训——忘记初心、迷失自我、狂妄自大、不知敬畏。\n\n每个热血青年都应该读读拿破仑，因为恐怕再没比拿破仑更好的学习样本了。\n\n◎内容简介\n\n拿破仑代表一个时代，被称为一代“军事巨人”，同时也是一个伟大的政治天才。作者通过翔实的史料，将拿破仑的伟大魅力和历史功过真实生动地展现在读者面前。史实与细致入微的心理刻画，以及栩栩如生的人物描写的完美结合使本书兼具文学性与可读性。\n\n本书是根据德文原文翻译出版，是一部忠实于原著的译本。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s33874923.jpg"
+      "封面图片": "./assets/covers/35370545.jpg"
     },
     {
       "id": "35199067",
@@ -349,7 +349,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.8",
       "评分人数": "74",
       "内容简介": "《李永乐老师给孩子讲物理》是“国民老师”、人大附中金牌物理教师李永乐的代表作，融入了作者10余年教育智慧结晶，是送给3-10岁孩子的10堂科学思维课。\n\n“国际物理奥赛金牌教练”李永乐，10余年人大附中从教经历，数百名学生考入清华北大，10余位学生获得物理竞赛金牌。李老师发挥专业特长，历时3年，精心策划、撰写、设计，联合优秀插画师和动画师，为孩子呈现了这部高水准物理启蒙书。\n\n本套书全10册，分别为《力学》《热学》《光学》《振动和波》《电磁学》《流体力学》《原子结构与原子核》《光学史》《相对论》《量子力学》，用孩子自己的语言、喜欢的漫画，系统、科学地讲述了物理学知识，图文并茂，广受小读者和家长欢迎，也得到了专家和网友的好评。人大附中联合总校名誉校长刘彭芝更是评价为“新时代的启蒙与养正优秀读物”。",
-      "封面图片": "https://img2.doubanio.com/view/subject/s/public/s33724121.jpg"
+      "封面图片": "./assets/covers/35199067.jpg"
     },
     {
       "id": "36925079",
@@ -361,7 +361,7 @@ window.BOOK_CATEGORY_DATA = {
       "ISBN": "9787516537107",
       "页数": "288",
       "评分人数": "评价人数不足",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s34884165.jpg"
+      "封面图片": "./assets/covers/36925079.jpg"
     },
     {
       "id": "26758080",
@@ -379,7 +379,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.2",
       "评分人数": "2245",
       "内容简介": "【内容简介】\n\n1934年12月13日，《父与子》的第一个连环漫画故事《糟糕的家庭作业》，在《柏林画报》刊载问世。这本长篇连环漫画溢满了卜劳恩对三岁儿子克里斯蒂安的爱子之情，可以说是世界上流传最广的亲情漫画。\n\n每一幅作品，都充满了生活的智慧与幽默，把人与人之间朴实纯真的情感表现得淋漓尽致，深沉而真挚，深入人心，表达了人类永恒的情感。第三帝国时期，战火不断，硝烟弥漫，令人窒息的白色恐怖笼罩整个国家，《父与子》犹如荒漠中的一片人性绿洲，温暖了德国。\n\n整本漫画没有一句对话，却通俗易懂，引人发笑。《父与子》早在20 世纪30 年代就传入我国，当时连鲁迅、丰子恺等大家都推崇备至。\n\n1944年，奥塞尔在给妻子的遗书中写道：“……我为德国而画……还望把他（克里斯蒂安） 抚养成人。带着幸福的微笑，我去了。”\n\n【编辑推荐】\n\n80周年纪念德文原版全本收录（Südverlag GmbH）\n\n清新全彩珍藏大开本，超越市面上目前所有的彩色版\n\n送父与子亲子互动填色卡一套",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s28606419.jpg"
+      "封面图片": "./assets/covers/26758080.jpg"
     },
     {
       "id": "1102403",
@@ -397,7 +397,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.7",
       "评分人数": "12999",
       "内容简介": "故事从一个小学4年级学生大雄开始。大雄并不是个非常优秀的学生，像不少小孩子一样，他在学校里成绩平平，也没有其他的什么长处。有一天，大雄打开自己的课桌，一只猫型机器人突然从抽屉里跳了出来，而这就是哆啦A梦。它是由大雄的后代从22世纪里给送来的，目的是帮助大雄解决许多他暂时无法解决的问题，并且尽可能地满足大雄的愿望。整个故事围绕着大雄和哆啦A梦这两个主角展开。\n\n哆拉A梦的故事将孩子们带进了一个奇妙的、极富幻想力的世界，也正因此，哆拉A梦能够作为一个长青的形像，伴随了几代少年儿童的成长。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s2555673.jpg"
+      "封面图片": "./assets/covers/1102403.jpg"
     },
     {
       "id": "31199088",
@@ -408,7 +408,7 @@ window.BOOK_CATEGORY_DATA = {
       "ISBN": "9787568026314",
       "定价": "19.30元",
       "评分人数": "目前无人评价",
-      "封面图片": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif"
+      "封面图片": "./assets/covers/31199088.gif"
     },
     {
       "id": "1467519",
@@ -428,7 +428,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.9",
       "评分人数": "2362",
       "内容简介": "总目录\n\n第一册\n\n[阿拉伯]伊本·穆加发——卡里来和笛木乃 、 教士和鼬鼠(绘画：谭小勇)\n\n鸽子（绘画：江健文）\n\n[阿拉伯]一千零一夜——辛巴达航海历险记（绘画：梁平波）\n\n阿里巴巴和四十大盗（绘画：庞邦本 庞 超）\n\n[法]阿希-季浩——狐狸列那的故事(绘画：谭小勇 谭小平)\n\n[德]拉斯伯——敏豪生奇游记（绘画：钱贵荪 金 骋）\n\n[法]沙尔·贝洛——睡美人（绘画：王重为）\n\n仙女、 一簇发里盖（绘画：刘 健）\n\n小拇指（绘画：陶文杰）\n\n穿靴子的猫（绘画：候春洋）\n\n[法]博蒙夫人——美人和怪兽（绘画：胡曰龙）\n\n[德]霍夫曼——咬核桃小人和老鼠国王（绘画：钱定华 楼东山）\n\n-------------------------------------------------------------------------\n\n第二册\n\n[德]格林兄弟——白雪公主（绘画：高 燕）\n\n青蛙王子（绘画：李全华）\n\n布勒门镇的音乐家（绘画：王鸿翔）\n\n灰姑娘（绘画：高 燕）\n\n小红帽、 勇敢的小裁缝 、莴苣（绘画：冀维静）\n\n[德]威廉·豪夫——小穆克（绘画：陈为明）\n\n一个出卖心的人（绘画：陆元林）\n\n[俄]亚历山大·普希金——渔夫和金鱼的故事（绘画：赵隆义）\n\n[丹麦]安徒生——丑小鸭（绘画：段 蓝）\n\n卖火柴的小女孩 、豌豆上的公主（绘画：冀维静）\n\n坚定的锡兵（绘画：潘 含）\n\n野天鹅（绘画：李新华）\n\n皇帝的新装（绘画：凌云志）\n\n夜莺（绘画：徐 夏）\n\n海的女儿（绘画：张定华）\n\n[俄]波戈列利斯基——黑母鸡（绘画：万昌平）\n\n[捷克]聂姆佐娃——三株金苹果树（绘画：王重为）\n\n[罗马尼亚]伊昂·克里昂格——小猪的故事（绘画：张昭济）\n\n[美]霍桑——女妖头（绘画：杨 杰 家 澎）\n\n[法]保罗·缪塞——风先生和雨太太（绘画：刘文沪 冬 鑫）\n\n-------------------------------------------------------------------------\n\n第三册\n\n[英]查理·金斯莱——水孩子（绘画：张新国 张秋敏）\n\n[英]刘易士·卡罗尔——艾丽丝漫游奇境记（绘画：尚 飞 晓 勇）\n\n[法]爱德华·拉布莱依——牧人总督（绘画：张卫民）\n\n[美]乔尔·钱德勒·哈里斯——白兔和他的敌人（绘画：诸侠军 何 侠）\n\n[意]卡洛·科罗狄——木偶奇遇记（绘画：王重义 王重圭）\n\n[法]阿纳托尔·法朗士——蜜蜂公主（绘画：夏书玉 夏 征）\n\n[英]奥斯卡·王尔德——自私的巨人（绘画：王鸿翔）\n\n快乐王子（绘画：梁培龙）\n\n[瑞典]塞里玛·拉盖洛夫——尼尔斯奇游记（绘画：王 建 梁 平）\n\n-------------------------------------------------------------------------\n\n第四册\n\n[美]莱曼·弗兰克·鲍姆——绿野仙踪（绘画：黄云松 乐 伊）\n\n[俄]迦尔洵——旅行的蛙（绘画：车 进）\n\n[英]詹姆斯·巴利——彼得·潘（绘画：钱逸敏 马方路）\n\n[英]肯尼思·格雷厄姆——柳林风声（绘画：曾佑玮 张广庆）\n\n[比利时]梅特林克原著 莱勃伦克改写——青鸟（绘画：王 烈 扬 榛）\n\n[英]约翰·罗斯金——金河王（绘画：王鸣泉）\n\n[日]小川未明——红蜡烛和人鱼姑娘（绘画：姚延林）\n\n远方传来的雷声（绘画：张 健）\n\n月夜和眼镜（绘画：裘兆平）\n\n[苏联]高尔基——小叶夫塞的奇遇（绘画：魏新燕）\n\n[乌拉圭]奥拉西奥·基罗加——鳄鱼之战 、大乌龟（绘画：董小明）\n\n[英]休·约·罗夫丁——多立德医生的冒险故事（绘画：徐 瑜 徐 畅）\n\n[英]艾伦·亚历山大·米尔恩——小熊历险记（绘画：周宪彻）\n\n[捷克]卡雷尔·恰佩克——邮递员的童话 、流浪汉的童话（绘画：余东东）\n\n-------------------------------------------------------------------------\n\n第五册\n\n[保加利亚]埃林·彼林——扬·比比扬历险记（绘画：丘 玮 丘 斌）\n\n[法]马塞尔·艾梅——会搔耳朵的猫（绘画：戎念竹）\n\n鹿子和猎犬（绘画：王鸣泉）\n\n[英]帕梅拉·林登·特拉弗斯——玛丽·波平斯阿姨（绘画：涤 江 琴 月）\n\n[苏联]阿列克谢·托尔斯泰——布拉基诺历险记（绘画：朱植人 魏新燕）\n\n[美]爱尔温·布鲁克斯·怀特——小老鼠斯图亚特（绘画：张昌洵 张毅清）\n\n夏洛的网（绘画：魏天定）\n\n[捷克]约瑟夫·拉达——聪明的小狐狸（绘画：车 进）\n\n[苏联]卡达耶夫——七色花（绘画：何 侠）\n\n[法]圣-埃克絮佩利——小王子（绘画：张 帆）\n\n[美]以萨克·辛格——拉比智斗女妖（绘画：崔玉豹）\n\n[印度]克里希南·钱达尔——倒长的树（绘画：维 明 之 川 力 力）\n\n-------------------------------------------------------------------------\n\n第六册\n\n[瑞典]阿斯特里德·林格伦——长袜子皮皮（绘画：王金泰）\n\n小飞人（绘画：孙达明）\n\n[日]坪田让治——狐狸和葡萄（绘画：姚延林）\n\n[芬兰]托夫·扬森——精灵帽（绘画：关守信 岭 岭）\n\n[俄]克拉夫靖斯奇——一个戈比的故事（绘画：姜启才）\n\n[英]克利弗·刘易斯——纳尼亚神魔国之魔橱（绘画：孙 愚）\n\n[意]罗大里——洋葱头历险记（绘画：峭 崚 金 戈 肖 晨）\n\n假话国历险记（绘画：董小明 王小明）\n\n天上掉下来的大蛋糕（绘画：靳 斌 迟京华）\n\n不肯长大的小泰莱莎（绘画：张定华）\n\n北极的一棵紫罗兰（绘画：裘兆明）\n\n-------------------------------------------------------------------------\n\n第七册\n\n[日]滨田广介——红鬼的眼泪（绘画：励国仪）\n\n[法]贝阿特丽·白克——“公主怨”鸟（绘画：江健文）\n\n空心树（绘画：大 川）\n\n小熊星 、蒂丽玲河 、月光宝剑（绘画：钱继伟 郑凯军）\n\n[苏联]尼古拉·尼·诺索夫——小无知和他的朋友历险记（绘画：川 石 南 为）\n\n[巴西]蒙特伊鲁·洛巴图——小狐狸（绘画：颜志强）\n\n没有尾巴的小鸡（绘画：江健文）\n\n豹和兔子（绘画：夏 炎）\n\n[挪威]土尔皮仑·埃格纳——豆蔻镇的居民和强盗（绘画：王桂保）\n\n[意]卡尔维诺——金丝鸟王子（绘画：周文庆）\n\n小鹅（绘画：李全华）\n\n幸福人的衬衣（绘画：姜启才）\n\n[澳大利亚]莱斯利·里斯——小脚趾水中旅行记（绘画：王庆余）\n\n[德]奥特利特·普雷斯勒——小魔女（绘画：雪 秋 邓 兵）\n\n大盗贼（绘画：赵一宁）\n\n-------------------------------------------------------------------------\n\n第八册\n\n[日]松谷美代子——龙子太郎（绘画：曾成金）\n\n[爱沙尼亚]恩诺·拉乌德——小矮人的奇遇（绘画：王祖民）\n\n[美]乔治·塞尔登——蟋蟀奇遇记（绘画：叶乃飞 毛秀君）\n\n[以色列]露丝·芙尔——不愿开花的秋海棠（绘画：励国仪）\n\n蟋蟀、蚯蚓、蝴蝶和蚂蚁（绘画：王鸿翔）\n\n野东西 （绘画：张卫民）\n\n[英]罗尔德·达尔——小詹姆和大仙桃（绘画：郑凯军 郑 诃）\n\n[日]中川李枝子——大狼（绘画：裘兆明）\n\n[美]奥力佛·巴特沃司——奇异的蛋（绘画：朱植人 魏新燕）\n\n[英]琼·艾肯——面包房里的猫（绘画：姚延林）\n\n雨滴项链（绘画：魏新燕）\n\n[奥地利]克里斯蒂娜·内斯特林格——康拉德（绘画：岷 杉 立 德 大 军）\n\n[德]米夏埃尔·爱恩德——嫫嫫（绘画：王惟震）",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s2812330.jpg"
+      "封面图片": "./assets/covers/1467519.jpg"
     },
     {
       "id": "27088678",
@@ -447,7 +447,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.5",
       "评分人数": "24",
       "内容简介": "《小王子》既是写给大人也是写给孩子的美妙童话，它是一部有关爱和责任的寓言。每个人都可以在书中读出属于自己的感受和体会，也可以在这里得到启示。作品用孩子式的眼光、浅显天真的语言写出人类的孤独寂，用温馨、真挚的情感表达出对真善美的讴歌；字里行间充满诗意的忧郁、淡淡的哀愁，彰显出语言的魅力、思想的高度。它伴随一代又一代孩子的成长，引发一代又一代成人的感悟。\n\n“我”因飞机故障迫降到撒哈拉沙漠上,碰巧遇到一名来自外星的小人儿——小王子。通过与小王子的交流,“我”了解到他所居住的星球的奇特情况以及他在太空中的奇遇:他分别拜访了国王的、爱虚荣人的、酒鬼的、商人的、点灯人的、地理学家的星球,最后来到了巨大的地球。在地球上他又遇到了蛇、玫瑰花、狐狸、扳道工、商贩等等,由此他明白了生活的道理和生命的本质……",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s29494816.jpg"
+      "封面图片": "./assets/covers/27088678.jpg"
     },
     {
       "id": "36505796",
@@ -465,7 +465,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.9",
       "评分人数": "65",
       "内容简介": "本套小王子共包括三个版本：\n\n👑Gallimard出版社1946年出版的法文平装复刻版\n\n1943年4月，美国Reynal & Hitchcock出版社同时出版了《小王子》的法语版和英语版。在作者的祖国法国，直到第二次大战结束后，才由Gallimard出版社出版了法文版。\n\n本套《小王子》中的法文版为原版复刻版，基于法国Gallimard出版社于1946年出版的法文平装版，开本、尺寸与原本一模一样。此版本现存稀少，值得收藏。\n\n👑1943年英文翻译版\n\n1943年4月，由美国作家凯瑟琳·伍兹（Katherine Woods）翻译的英文版《小王子》，与法文版同时在纽约出版。\n\n这不仅是《小王子》初次翻译成英文，也是至今为止的经典英文译本。\n\n伍德近乎“诗意”的英文翻译长期以来一直受到几代《小王子》爱好者的钦佩，因为她的作品保留了圣-埃克苏佩里的作品讲故事的精神和魅力。\n\n👑知名插画师三乖重新上色的红蓝版\n\n本套《小王子》中，英文版和法文版的插图为作者圣-埃克苏佩里绘制的原版彩图。中文版则邀请知名插画师三乖，用红蓝铅笔为插图重新上色。\n\n👑“六年前，”安东尼·德写道，“我独自一人在撒哈拉沙漠迫降，离救援地点有一千英里远，我必须自己修理引擎，而我的饮用水只能维持几天。第一天早上，我被一个温柔而坚定的声音吵醒，声音说：‘请给我画一只羊。’”他就这样遇到了小王子，并在接下来的日子里一点一点地了解了小王子的奇怪历 史。\n\n小王子独自住在一个比房子大不了多少的小星球上。他拥有三座火山，其中两座活火山、一座死火山——尽管人们从来没有听说过火山。他还拥有一朵花，和银河系中任何一朵花都不一样，非常美丽，无比骄傲。正是这种骄傲破坏了小王子所在世界的宁静，使他开始了旅行，并最终把他带到地球。在地球，他终于从一只狐狸那里学会了什么是生活中真正重要的秘密。\n\n为了保存对小王子的记忆，圣-埃克苏佩里创作了大约四十幅水彩画，其内容异想天开、细致入微。每一个都是故事的重要组成部分。\n\n人类创作的数不清的故事中，有一些故事在某种程度上，以某种方式永远地改变了读者的世界。本书所讲的故事就是其中之一。",
-      "封面图片": "https://img2.doubanio.com/view/subject/s/public/s34619161.jpg"
+      "封面图片": "./assets/covers/36505796.jpg"
     },
     {
       "id": "26941417",
@@ -485,7 +485,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.7",
       "评分人数": "326",
       "内容简介": "安托万·德·圣埃克苏佩里所著的《小王子（精）》是一本足以让人永葆童心的不朽经典，被全球亿万读者誉为值得收藏的书。\n\n遥远星球上的小王子，与美丽而骄傲的玫瑰吵架负气出走，在各星球漫游中，小王子遇到了傲慢的国王、酒鬼、惟利是图的商人，死守教条的地理学家，后来来到地球上，试图找到治愈孤独和痛苦的良方。\n\n这时，他遇到一只奇怪的狐狸，于是奇妙而令人惊叹的事情发生了……\n\n本书犹如透亮的镜子，照出了荒唐的成人世界。她在提醒我们，只有爱，才是高的哲学，才是我们活下去的理由。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s29237816.jpg"
+      "封面图片": "./assets/covers/26941417.jpg"
     },
     {
       "id": "20443559",
@@ -504,7 +504,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.1",
       "评分人数": "48273",
       "内容简介": "《小王子》是一本足以让人永葆童心的不朽经典，被全球亿万读者誉为非常值得收藏的书。\n\n遥远星球上的小王子，与美丽而骄傲的玫瑰吵架负气出走，在各星球漫游中，小王子遇到了傲慢的国王、酒鬼、惟利是图的商人，死守教条的地理学家，最后来到地球上，试图找到治愈孤独和痛苦的良方。\n\n这时，他遇到一只奇怪的狐狸，于是奇妙而令人惊叹的事情发生了……\n\n《小王子》犹如透亮的镜子，照出了荒唐的成人世界。她在提醒我们，只有爱，才是最高的哲学，才是我们活下去的唯一理由。”",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s28317563.jpg"
+      "封面图片": "./assets/covers/20443559.jpg"
     },
     {
       "id": "22134224",
@@ -521,7 +521,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.6",
       "评分人数": "57",
       "内容简介": "Prepare to be spellbound by Jim Kay's dazzling full-colour illustrations in this stunning new edition of J.K. Rowling's Harry Potter and the Chamber of Secrets. Breathtaking scenes, dark themes and unforgettable characters - including Dobby and Gilderoy Lockhart - await inside this fully illustrated edition. With paint, pencil and pixels, award-winning illustrator Jim Kay conjures the wizarding world as we have never seen it before. Fizzing with magic and brimming with humour, this inspired reimagining will captivate fans and new readers alike, as Harry and his friends, now in their second year at Hogwarts School of Witchcraft and Wizardry, seek out a legendary chamber and the deadly secret that lies at its heart .\n\nThe Dursleys were so mean and hideous that summer that all Harry Potter wanted was to get back to the Hogwarts School for Witchcraft and Wizardry. But just as he's packing his bags, Harry receives a warning from a strange, impish creature named Dobby who says that if Harry Potter returns to Hogwarts, disaster will strike.\n\nAnd strike it does. For in Harry's second year at Hogwarts, fresh torments and horrors arise, including an outrageously stuck-up new professor, Gilderoy Lockhart, a spirit named Moaning Myrtle who haunts the girls' bathroom, and the unwanted attentions of Ron Weasley's younger sister, Ginny.\n\nBut each of these seem minor annoyances when the real trouble begins, and someone -- or something -- starts turning Hogwarts students to stone. Could it be Draco Malfoy, a more poisonous rival than ever? Could it possibly be Hagrid, whose mysterious past is finally told? Or could it be the one everyone at Hogwarts most suspects... Harry Potter himself?",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s28589358.jpg"
+      "封面图片": "./assets/covers/22134224.jpg"
     },
     {
       "id": "22134223",
@@ -538,7 +538,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.8",
       "评分人数": "32",
       "内容简介": "Dragons! Daring! Danger! The first fully illustrated edition of Harry Potter and the Goblet of Fire is an extraordinary creative achievement by two extraordinary talents. Jim Kay's inspired reimagining of J.K. Rowling's classic series has captured a devoted following worldwide, and the drama just gets bigger as the series progresses. With over 150 illustrations, Jim Kay's unique vision delivers breathtaking scenes and unforgettable characters – including fan favourites Cedric Diggory, Fleur Delacour and Viktor Krum illustrated by Jim Kay for the first time.\n\nFizzing with magic and brimming with humour, this full-colour edition will captivate fans and new readers alike as Harry, now in his fourth year at Hogwarts School of Witchcraft and Wizardry, finds himself competing in the legendary Triwizard Tournament and facing death-defying tasks, dragons and Dark wizards … Making magic in paint, pencil and pixels, this is the Wizarding World as we have never seen it before.",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s33536052.jpg"
+      "封面图片": "./assets/covers/22134223.jpg"
     },
     {
       "id": "22134227",
@@ -554,7 +554,7 @@ window.BOOK_CATEGORY_DATA = {
       "定价": "£40.00",
       "评分人数": "评价人数不足",
       "内容简介": "As the Order of the Phoenix keeps watch over Harry Potter, troubled times have come to Hogwarts in a year filled with secrets, subterfuge and suspicion. The deliciously dark fifth instalment of Jim Kay's inspired reimagining of J.K. Rowling's classic series is an epic artistic achievement, featuring over 160 illustrations in an astonishing range of visual styles.\n\nNow an exciting new collaboration brings together two virtuoso artistic talents, as Kate Greenaway Medal winner Jim Kay is joined by acclaimed guest illustrator Neil Packer, winner of the 2021 BolognaRagazzi Award for non-fiction. Prepare to be enchanted once again as Jim Kay depicts J.K. Rowling's wizarding world with the dazzling artistic alchemy fans around the globe have come to know and love, perfectly complemented by Neil Packer's own unique and eclectic illustrations, skilfully woven into the heart of the story.\n\nThis is a stunning visual feast of a book, filled with dark magical delights for both fans and new readers alike. Breathtaking scenes, iconic locations and unforgettable characters await inside – Luna Lovegood, Professor Umbridge, Grawp the giant, and many more – as Harry Potter and Dumbledore's Army prepare for the coming battle against Lord Voldemort. Perfect for Potterheads of all ages!",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s34657114.jpg"
+      "封面图片": "./assets/covers/22134227.jpg"
     },
     {
       "id": "22134221",
@@ -571,7 +571,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.2",
       "评分人数": "81",
       "内容简介": "Prepare to be spellbound by Jim Kay's dazzling depiction of the wizarding world and much loved characters in this full-colour illustrated hardback edition of the nation's favourite children's book - Harry Potter and the Philosopher's Stone. Brimming with rich detail and humour that perfectly complements J.K. Rowling's timeless classic, Jim Kay's glorious illustrations will captivate fans and new readers alike. When a letter arrives for unhappy but ordinary Harry Potter, a decade-old secret is revealed to him that apparently he's the last to know. His parents were wizards, killed by a Dark Lord's curse when Harry was just a baby, and which he somehow survived. Leaving his unsympathetic aunt and uncle for Hogwarts School of Witchcraft and Wizardry, Harry stumbles upon a sinister mystery when he finds a three-headed dog guarding a room on the third floor. Then he hears of a missing stone with astonishing powers, which could be valuable, dangerous - or both. An incredible adventure is about to begin!",
-      "封面图片": "https://img2.doubanio.com/view/subject/s/public/s34657161.jpg"
+      "封面图片": "./assets/covers/22134221.jpg"
     },
     {
       "id": "22134222",
@@ -587,7 +587,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.4",
       "评分人数": "51",
       "内容简介": "Jim Kay's inspired reimagining of J.K. Rowling's classic series has captured a devoted following worldwide. This stunning new fully illustrated edition of Harry Potter and the Prisoner of Azkaban brings more breathtaking scenes and unforgettable characters – including Sirius Black, Remus Lupin and Professor Trelawney.\n\nWith paint, pencil and pixels, Kay conjures the wizarding world as we have never seen it before. Fizzing with magic and brimming with humour, this full-colour edition will captivate fans and new readers alike as Harry, now in his third year at Hogwarts School of Witchcraft and Wizardry, faces Dementors, death omens and – of course – danger...",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s34657174.jpg"
+      "封面图片": "./assets/covers/22134222.jpg"
     },
     {
       "id": "27010145",
@@ -607,7 +607,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.7",
       "评分人数": "27",
       "内容简介": "For twelve long years, the dread fortress of Azkaban held an infamous prisoner named Sirius Black. Convicted of killing thirteen people with a single curse, he was said to be the heir apparent to the Dark Lord, Voldemort.\n\nNow he has escaped, leaving only two clues as to where he might be headed: Harry Potter's defeat of You-Know-Who was Black's downfall as well. And the Azkaban guards heard Black muttering in his sleep, \"He's at Hogwarts . . . he's at Hogwarts.\"\n\nHarry Potter isn't safe, not even within the walls of his magical school, surrounded by his friends. Because on top of it all, there may well be a traitor in their midst.",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s29415427.jpg"
+      "封面图片": "./assets/covers/27010145.jpg"
     },
     {
       "id": "26631251",
@@ -622,7 +622,7 @@ window.BOOK_CATEGORY_DATA = {
       "装帧": "精装",
       "评分人数": "评价人数不足",
       "内容简介": "Join the most iconic character in comics as he embarks on extraordinary adventures and solves thrilling mysteries! From the Land of the Soviets to America, from outer space to the depths of the ocean, there are over 1,500 pages of delight in eight volumes of classic Tintin stories. The ultimate gift for any Tintin fan. The Adventures of Tintin continue to charm more than 80 years after they first found their way into publication. Since then an estimated 230 million copies have been sold, proving that comic books have the same power to entertain children and adults in the 21st century as they did in the early 20th.",
-      "封面图片": "https://img2.doubanio.com/view/subject/s/public/s28305861.jpg"
+      "封面图片": "./assets/covers/26631251.jpg"
     },
     {
       "id": "26877330",
@@ -639,7 +639,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.8",
       "评分人数": "18",
       "内容简介": "本辞典收录学习文言文所必知的古代文化常识。对中国古代的天文、历法、节日、地理、姓氏称谓、礼俗、宗法、刑罚、皇室官职、教育科举、乐、宫室建筑、车马、兵器战具、饮食、服饰、器物、货币、度量衡、文字等内容进行深入浅出的讲解，融知识性、趣味性于一体，简明实用。有助于读者增强对中国古代文化的了解，提高文言文阅读水平及文化素养。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s29051432.jpg"
+      "封面图片": "./assets/covers/26877330.jpg"
     },
     {
       "id": "34846916",
@@ -656,7 +656,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.7",
       "评分人数": "213",
       "内容简介": "这个版本就是三联2007版。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s33630686.jpg"
+      "封面图片": "./assets/covers/34846916.jpg"
     },
     {
       "id": "1441487",
@@ -682,7 +682,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.4",
       "评分人数": "827",
       "内容简介": "本书描述了1329种鸟，每种配有彩色绘图和分布图，另描述了几百种亚种。分布图显示每种鸟在中国及邻近国家和地区夏候、冬候及居留期的分布。\n\n　　书中的文字简介提供极有帮助的背景知识及信息，包括中国鸟类及保护状况，并介绍了中国的重要观鸟地点和时间。附录中还提供了中国保护及濒危种类、中国特有鸟种类和中国鸟类协会的名录。\n\n　　对中国鸟类的认知仍欠完整的原因之一就是缺少针对这一地区的野外指南，以致直到最近，中国的鸟类学家还只是依靠检索表、名录以及黑白素描图在工作，仍没有一本完整的、依据当代分类学系统，并附彩色全图的野外手册。本手册下是试图填补这一空白，且以中、英两种语言文字分别出版。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s8903343.jpg"
+      "封面图片": "./assets/covers/1441487.jpg"
     },
     {
       "id": "25976544",
@@ -702,7 +702,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.2",
       "评分人数": "22149",
       "内容简介": "自1997年初版以来，《故事》一直是全世界编剧的第一必读经典，至今，仍属于美国亚马逊最畅销图书中的Top 100。集结了罗伯特·麦基30年的授课经验，本书在对《教父》《阿甘正传》《星球大战》等经典影片的详细分析中，清晰阐述了故事创作的核心原理，其指导意义不应只被影视圈的人所认识，更应得到小说创作、广告策划、文案撰写人才的充分开发。\n\n2014年《故事》中文版全新修订升级，译者周铁东拥有深厚的国内外影视行业实践经验，文风犀利。新增58条专业术语和背景知识注释，补充了未被原书整理进附录部分的剧作资料，同步更新458条所涉及影片、作品的中文信息，采用特殊开本和全新的封面材质。\n\n《故事》不同于其他流行的讲述银幕剧作手法的专著，它所论及的是形式而不是公式。麦基以一百多部影片作为示例，向读者传授了一种银幕剧作的原理，它超越僵死的教条，发掘出名品佳作中那些使其卓越超群却又常常被人忽略的组成部分。麦基从基本概念入手——何谓节拍？场景？场景序列？幕高潮？影片高潮？——不仅精辟地阐释了标准的三幕戏剧结构的奥妙，而且还揭开了非典型结构——如两幕、七幕、甚至八幕影片——的神秘面纱，指出了每一种类型的局限性，强调了主题、背景和气氛的重要性，以及人物和人物塑造作为一对相对概念的重要性。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s27598249.jpg"
+      "封面图片": "./assets/covers/25976544.jpg"
     },
     {
       "id": "30389018",
@@ -721,7 +721,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "6.6",
       "评分人数": "1054",
       "内容简介": "读过《夜航船》，灵魂才有趣！这是一部有趣、有料的文化常识小百科。\n\n囊括天文地理、古玩奇器、珍禽异兽、诸子百家、宫廷秘闻、草木花卉、三教九流、鬼怪神异……\n\n包含20大类4248个文化常识，趣味性、知识性和故事性完美结合的不朽经典，问世300年一直秘本流传，仿佛漫天星光，在漆黑的夜空闪烁，璀璨而迷人。\n\n如果只读一本书，就能让你变得博识有趣，非《夜航船》莫属。\n\n编辑推荐：\n\n◆以今人的眼光，晚明的文学家张岱可说是位不折不扣的时尚先生，没有人比张岱更精于守护万物独特的气息氛围了。——《三联生活周刊》\n\n◆因为兼有趣味性和故事性，《夜航船》自问世以来，一直受到广大读者的欢迎。——《人民日报》",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s29952756.jpg"
+      "封面图片": "./assets/covers/30389018.jpg"
     },
     {
       "id": "36183891",
@@ -738,7 +738,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.4",
       "评分人数": "57",
       "内容简介": "我国第一部博物学著作。《博物志》原十卷，记载了山川地理、飞禽走兽、人物传记、神话古史、神仙方术等。是继《山海经》后又一部包罗万象的奇书，填补了我国自古无博物类书籍的空白。本书按照现代人认知重新分类划分章节，并做了趣味性故事拓展，更具可读性，让读者在趣味中了解传统文化知识的同时，一窥古人眼中的奇幻世界。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s34372464.jpg"
+      "封面图片": "./assets/covers/36183891.jpg"
     },
     {
       "id": "4837815",
@@ -755,7 +755,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.5",
       "评分人数": "279",
       "内容简介": "《读古文入门》从最基本与必备的古文知识入手，由浅入深，娓娓道来，通俗易懂；并力求总结归纳出规律性的东西，能使读者一目了然，由此及彼，达到触类旁通的目的。为说明问题，几乎每一章节，都举出实例，释疑解难；关键处还附详细表格，化繁为简。要之，知识含金量高，一本在手，阅读古诗文的困难便能迎刃而解，是这三《读古文入门》的主要特点。\n\n愿该书能成为您打开传统文化殿堂之门的金钥匙。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s6166362.jpg"
+      "封面图片": "./assets/covers/4837815.jpg"
     },
     {
       "id": "26717137",
@@ -774,7 +774,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.3",
       "评分人数": "6527",
       "内容简介": "【内容简介】\n\n麦基的《故事》是一本被影视圈奉为圣经的编剧书，讲述故事创作核心原理。越来越多小说作家、文案策划和商务人士也开始研习其中的讲故事技巧。你可以把它当作一本高级电影鉴赏入门指南，也可以将它视为文学写作、艺术修为内功进阶，还有人从中领悟了人生哲学和生活道理。被英国卫报称为“亚里士多德后最有影响力的讲故事理论家”罗伯特・麦基将他30年间行走全世界，向10万名学员开班授课的精华写在了这本《故事》里。\n\n【编辑推荐】\n\n精装版《故事》2014年9月29日上市，3天后开始加印，3个月后成为“当当网2014年艺术榜榜首”、“亚马逊编辑2014年度收官之荐”，9.5分领衔电影类书籍进入豆瓣年度盘点，并成为《北京青年报》阅读“2014最美的十本书”之一，获得人民日报微博推荐。2016年，我们将这本书里深邃的思想以更为简明扼要的方式呈现，并同时推出16开、轻型纸、宽页边距、采用新排版设计的平装《故事》，希望它能到达更多人的手中。就像封面设计一样，一束光照进我们的生活，电影，不只是黑暗中的银幕故事，更是生活里闪耀的人性故事。\n\n【名人推荐】\n\n罗伯特・麦基是编剧大师中的大师。——《霍比特人》《指环王三部曲》导演兼编剧彼得・杰克逊\n\n关于故事结构，我所了解的一切都来自伯特・麦基。就是这样。——《撞车》导演兼编剧保罗・哈吉斯\n\n麦基说，高潮是你讲述这个故事的意义的饱和点。——《画皮》《寻龙诀》导演乌尔善\n\n他是罗伯特・麦基，真正懂得电影全部奥秘的大师。但是他又能不让任何的条规边框拘束自己，让灵魂自由触摸电影。——《可可西里》《南京！南京！》导演陆川\n\n我的笔记有87000字，几乎记下了麦基先生说的每一句话。在记录的时候，经常有许多言论与我创作的经验不谋而合，这种巧合让我非常兴奋。我仿佛变成了一个女人，能享受到多次高潮。——《重案六组》《永不消逝的电波》编剧余飞\n\n一句实话：我电影剧本写到第30稿的时候，才完全看懂《故事》这本书，然后写到第50稿的时候，我发现我其实也没怎么看懂。现在电影拍完了剪完了，我打算再看一遍《故事》。——《万万没想到》导演叫兽易小星\n\n想要学编剧，这书是必读的。——影评人周黎明\n\n虽然……但还是越来越觉得那本书对于类型片制造来说就是编剧圣经。——影评人亵渎电影\n\n感谢麦基先生教会我们很多技巧，也教会我们，最好的永远不是技巧。感谢麦基先生告诉我们，剧作法其实就是价值观，写你所相信的，相信你所写的。感谢麦基先生告诉我们，电影不是一种智识，电影是一种情感。——编剧、作家咆哮女郎柏邦妮\n\n我迄今读过的最伟大的三本书之一。——《后会无期》《万物生长》出品人路金波\n\n【媒体推荐】\n\n鼎鼎大名。——《华盛顿邮报》\n\n享誉全球。——《纽约时报》\n\n终极大师。—— BBC\n\n麦基写作哲学的中心是人性。他的理论融汇了戏剧手法、哲学，强调了写作的古典根基、轴心及安全阀……而使之永葆新鲜活力和激动人心的，是它交织阐述的方式——麦基的故事理论。——CNN\n\n麦基是世界上最有名和最受尊崇的讲故事艺术讲师。——《华尔街日报》\n\n他对故事讲述的深邃洞察和广博知识无人能比。——《洛杉矶时报》\n\n电影行业的公开秘密，好莱坞最炙手可热的编剧教练。——《名利场》\n\n融合了电影的摩登艺术和讲故事的古老手艺。——《每日新闻》\n\n罗伯特・麦基强有力地教会我们什么是生命、死亡和人类的心灵。——《独立报》",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s28446099.jpg"
+      "封面图片": "./assets/covers/26717137.jpg"
     },
     {
       "id": "1013208",
@@ -800,7 +800,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.3",
       "评分人数": "81196",
       "内容简介": "每本书的封面之下都有一套自己的骨架，作为一个分析阅读的读者，责任就是要找出这个骨架。一本书出现在面前时，肌肉包着骨头，衣服包裹着肌肉，可说是盛装而来。读者用不着揭开它的外衣或是撕去它的肌肉来得到在柔软表皮下的那套骨架，但是一定要用一双X光般的透视眼来看这本书，因为那是了解一本书、掌握其骨架的基础。\n\n《如何阅读一本书》初版于1940年，1972年大幅增订改写为新版。不懂阅读的人，初探阅读的人，读这本书可以少走冤枉路。对阅读有所体会的人，读这本书可以有更深的印证和领悟。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s1670978.jpg"
+      "封面图片": "./assets/covers/1013208.jpg"
     },
     {
       "id": "35070713",
@@ -809,7 +809,7 @@ window.BOOK_CATEGORY_DATA = {
       "order": 10,
       "ISBN": "9787510871696",
       "评分人数": "目前无人评价",
-      "封面图片": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif"
+      "封面图片": "./assets/covers/35070713.gif"
     },
     {
       "id": "30758233",
@@ -820,7 +820,7 @@ window.BOOK_CATEGORY_DATA = {
       "ISBN": "9787548042877",
       "定价": "39.40元",
       "评分人数": "评价人数不足",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s34239462.jpg"
+      "封面图片": "./assets/covers/30758233.jpg"
     },
     {
       "id": "35605524",
@@ -837,7 +837,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.9",
       "评分人数": "118",
       "内容简介": "好奇心是人类最值得珍视的财富，好奇心驱动着我们不断探索和发现更大的世界。\n\n这一代孩子，比以往任何时代拥有更多信息和知识，也萌发着更多更新的问题。\n\n新的「为什么」，需要新的解答。\n\n时值少儿经典科普《十万个为什么》首次出版 60 周年，\n\n知乎，中国最大的问答社区，携手少年儿童出版社，推出全新《知乎版十万个为什么》，解答「这一代」孩子的新问题。\n\n我们收集当代孩子的真问题，邀请各领域机构和专家为孩子们推荐新答案，\n\n献给中国孩子的与时俱进科普启蒙。\n\n让孩子们的问题，都有答案！",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s34004172.jpg"
+      "封面图片": "./assets/covers/35605524.jpg"
     },
     {
       "id": "30271157",
@@ -852,7 +852,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "6.8",
       "评分人数": "433",
       "内容简介": "一本全民亦可阅读的实用文化工具书，\n\n集知识性、趣味性、教育性、高雅性于一体的通俗读物。\n\n全民阅读时代，与经典国学对话。\n\n再平凡的生命，都有诗意的光芒。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s29816144.jpg"
+      "封面图片": "./assets/covers/30271157.jpg"
     },
     {
       "id": "3989456",
@@ -867,7 +867,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.0",
       "评分人数": "21",
       "内容简介": "《西游记(套装共3册)》为注音注释版。全面注音解释疑难字词，重要人物情节图文并茂，阅读理解记忆轻松无阻。《西游记》全书共100回，主要描写孙悟空的出世和大闹天宫、唐僧的出世和取经缘由以及后来师徒四人历经九九八十一难，终于取得真经而归的故事。\n\n《西游记》的出现，开辟了神魔长篇章回小说这一新门类。书中将善意的嘲笑、辛辣的讽刺同严肃的批判巧妙结合起来，直接影响着讽刺小说的发展。\n\n《西游记》是中国四大古典名著之一，是神魔章回小说的代表作，也是古代长篇浪漫主义小说的巅峰之作。小说描写了孙悟空、猪八戒、沙和尚保护唐三藏去西天取经，历经八十一难，取回真经，皆成正果的故事。小说充满了神奇的幻想，在读者面前展开了一个五光十色的幻想世界。\n\n《西游记》是我国文化遗产中的瑰宝。它以丰富奇特的艺术想象、生动曲折的故事情节、栩栩如生的人物形象、幽默诙谐的语言，构筑了一座独具特色的艺术宫殿，相信它会给每一个读者带来愉悦的阅读体验。\n\n《西游记(套装共3册)》为注音注释版。全面注音解释疑难字词，重要人物情节图文并茂，阅读理解记忆轻松无阻。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s6062715.jpg"
+      "封面图片": "./assets/covers/3989456.jpg"
     },
     {
       "id": "3414569",
@@ -883,7 +883,7 @@ window.BOOK_CATEGORY_DATA = {
       "定价": "40.00元",
       "评分人数": "评价人数不足",
       "内容简介": "《封神演义》叙述的故事内容，自纣王到女娲宫进香，题诗冒渎女神，神命三妖惑纣开篇；自此殷商朝政日非，在昆仑山修行四十年的姜子牙奉师元始天尊之命，下山助周灭商；而西昌伯姬昌于草莽间访得姜子牙，并委以丞相重任；姬昌身亡后，其次子姬发被立为西周之主；其后商纣几番西征，均以失败而告终；最后至周武王入殷，纣王自杀，姜子牙封神，武王分封诸侯为止。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s6510777.jpg"
+      "封面图片": "./assets/covers/3414569.jpg"
     },
     {
       "id": "26721492",
@@ -899,7 +899,7 @@ window.BOOK_CATEGORY_DATA = {
       "定价": "CNY 98.00",
       "评分": "9.3",
       "评分人数": "18",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s28784839.jpg"
+      "封面图片": "./assets/covers/26721492.jpg"
     },
     {
       "id": "26772701",
@@ -924,7 +924,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.4",
       "评分人数": "442",
       "内容简介": "金圣叹腰斩《水浒传》是人们耳熟能详的说法，自从金圣叹推出他的贯华堂本《水浒传》后，有近两百年人们不知道世上还有一百回和一百二十回本的《水浒传》。自郑振铎们挖掘出所谓全本《水浒传》后，金圣叹的七十回本《水浒传》又很少有人见到其庐山真面目了。那么，金圣叹的批评本《水浒传》是不是被腰斩的，他为什么要腰斩《水浒传》，七十回本的《水浒传》和金圣叹的批评究竟是什么样子，他所批评的七十回本《水浒传》究竟有没有独特的魅力。这些问题，相信读者在读完这个批评本之后会找到答案，也会由衷地佩服金圣叹的胆识和才华。而金圣叹那些见解独到、语言独特的批评文字，也会让读者耳目一新。他所提出的人物“性格”说，在中国小说批评史上具有独特的地位。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s29479797.jpg"
+      "封面图片": "./assets/covers/26772701.jpg"
     },
     {
       "id": "26694525",
@@ -949,7 +949,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.3",
       "评分人数": "144",
       "内容简介": "《西游记》是由猴王出世、大闹天宫、唐僧出世、取经缘起、西天取经等部分组成，而以西天取经为主干故事。由取经的纵向行动串连各个故事，在每个故事(八十一难)中设置诸种矛盾，制造许多高潮，时而惊险，时而轻松。在一难又一难的过程中，错综复杂地展现了僧徒与妖魔鬼怪之间的矛盾，与自然环境之间的矛盾，唐僧与孙悟空，八戒与孙悟空之间的矛盾冲突，读来神奇变幻，引人入胜。\n\n本书由明朝叶昼托李卓吾进行了全面的评点。他的评点理论虽不及金圣叹全面系统，但他上承李卓吾，下启金圣叹，对《西游记》的奇幻性格，提出了独特见解，要比否定贬斥《西游记》艺术成就的金圣叹、毛宗岗、张竹坡高明得多。\n\n“读《西游记》者，不知作者宗旨，定作戏论。余为一一拈出，庶几不埋没了作者之意。即如第一回有无限妙处，若得其意，胜如罄翻一大藏了也。篇中云：‘释厄传’，见此书读之可释厄也。若读了《西游》，厄仍不释，却不辜负了《西游记》么？何以言释厄，只是能解脱便是。”托名李卓吾的《西游记》批评文字诸如此类，要言不烦，点到为止，却能够直指精髓，发人深思。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s28369319.jpg"
+      "封面图片": "./assets/covers/26694525.jpg"
     },
     {
       "id": "26673151",
@@ -977,7 +977,7 @@ window.BOOK_CATEGORY_DATA = {
       "定价": "85.00元",
       "评分": "9.9",
       "评分人数": "265",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s33522298.jpg"
+      "封面图片": "./assets/covers/26673151.jpg"
     },
     {
       "id": "26690332",
@@ -992,7 +992,7 @@ window.BOOK_CATEGORY_DATA = {
       "装帧": "平装",
       "定价": "120.00元",
       "评分人数": "评价人数不足",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s28365863.jpg"
+      "封面图片": "./assets/covers/26690332.jpg"
     },
     {
       "id": "3409620",
@@ -1010,7 +1010,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.2",
       "评分人数": "2697",
       "内容简介": "“羽翼信史而不违”，是古代文学评论家所认同的历史演义小说的最高境界。中国历史小说中，真正能达到这一境界的，也许只有《东周列国志》了。这部煌煌一百零八回的小说巨著，是明代著名的文学家冯梦龙继“三言”之后的又一小说佳作。这本小说最突出的特点，就是据史实录，“事取其详，文撮其略”；“敷演不无增添，形容不无润色”。面对此起彼伏繁杂错综的事件，你来我往既多且乱的人物，冯梦龙充分展现了其杰出的组织素材的能力和深厚的叙述描摹的功力，使得小说信守史实，脉络清晰，堪称一部真正的历史教科书。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s3936229.jpg"
+      "封面图片": "./assets/covers/3409620.jpg"
     },
     {
       "id": "30351275",
@@ -1027,7 +1027,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.5",
       "评分人数": "40",
       "内容简介": "《编程之美：微软技术面试心得》收集了约60道算法和程序设计的题目，这些题目大部分在微软的笔试、面试中出现过，有的曾被微软员工热烈地讨论过。作者试图从书中各种有趣的问题出发，引导读者发现问题、分析问题、解决问题，寻找更优的解法。《编程之美：微软技术面试心得》内容分为以下几个部分。\n\n游戏之乐：从游戏和其他有趣问题出发，化繁为简，分析总结。\n\n数字之魅：编程的过程实际上就是和数字及字符打交道的过程。这一部分收集了一些好玩的对数字进行处理的题目。\n\n结构之法：汇集了常见的对字符串、链表、队列以及树等进行操作的题目。\n\n数学之趣：列举了一些不需要写具体程序的数学问题，锻炼读者的抽象思维能力。\n\n《编程之美：微软技术面试心得》中绝大部分题目都提供了详细的讲解。每道题目后面还有一至两道扩展问题，供读者进一步钻研。\n\n《编程之美：微软技术面试心得》中还讲述了面试的各种小故事，告诉读者微软需要什么样的技术人才，重视什么样的能力，如何甄别人才，并回答了读者关于IT业面试、招聘、职业发展的疑问。这《编程之美：微软技术面试心得》的很多题目会出现在IT行业的各种笔试和面试中，但本书更深层的意义在于引导读者思考，和读者共享思考之乐、编程之美。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s29895196.jpg"
+      "封面图片": "./assets/covers/30351275.jpg"
     },
     {
       "id": "35492898",
@@ -1044,7 +1044,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.3",
       "评分人数": "840",
       "内容简介": "这是一本从架构视角讲解如何构建大型分布式系统的著作，是超级畅销书《深入理解Java虚拟机》的作者周志明多年架构和研发经验的总结，得到了多位行业资深架构专家的联袂推荐。\n\n全书共16章，分为演进中的架构、架构师的视角、分布式的基石、不可变基础设施和技术方法论五部分。\n\n第一部分 演进中的架构（第1章）\n\n着重介绍了软件开发历史中多种主流架构风格出现的契机、解决的问题以及带来的新缺陷。\n\n第二部分 架构师的视角（第2~5章）\n\n总结了一名架构师应该在架构设计时思考哪些问题，有哪些主流的解决方案和行业标准做法，各种方案有什么优缺点，不同的解决方法会带来什么不同的影响，等等。\n\n第三部分 分布式的基石（第6~10章）\n\n重点讨论了“不同架构风格是应该在技术规范上统一，还是由应用系统自行解决”这个问题，给出了解决思路、方法和常见工具。\n\n第四部分 不可变基础设施（第11~15章）\n\n重点讲解了基础设施不变性的目的、原理与实现途径，包括虚拟化容器、容器间网络、持久化存储、资源与调度、服务网格等内容。\n\n第五部分 技术方法论（第16章）\n\n面向技术决策者集中讨论了与分布式、微服务、架构等相关的理论话题，将解决问题的能力归纳、总结、升华为方法论。\n\n全书以实践为导向，一个案例贯穿全书，同时给出了基于Spring Boot、Spring Cloud、Kubernetes、Istio、AWS Lambda 五种架构风格的样例工程。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s33966407.jpg"
+      "封面图片": "./assets/covers/35492898.jpg"
     },
     {
       "id": "33377403",
@@ -1067,7 +1067,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "6.9",
       "评分人数": "480",
       "内容简介": "本书专为非技术背景的互联网行业从业者和想了解互联网技术的人员量身定制，分门别类地整理了Web前端技术、客户端技术、开发技术、网络技术等章节，基本涵盖了当前互联网行业的所有垂直技术领域。为了让读者能够更好地理解技术的精髓，几乎每篇文章都配以现实生活中通俗易懂的例子，用于类比复杂的互联网技术原理。",
-      "封面图片": "https://img2.doubanio.com/view/subject/s/public/s32276051.jpg"
+      "封面图片": "./assets/covers/33377403.jpg"
     },
     {
       "id": "5914587",
@@ -1087,7 +1087,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.5",
       "评分人数": "9060",
       "内容简介": "为什么市场上那么多软件产品无人问津，成功的产品凤毛麟角？怎样发掘有价值的产品？拿什么说服开发团队接受你的产品设计？如何将敏捷方法融入产品开发？过去二十多年，Marty Cagan作为高级产品经理人为多家一流企业工作过，包括惠普、网景、美国在线、eBay。他亲历了个人电脑 、互联网、 电子商务的起落沉浮。《启示录：打造用户喜爱的产品》从人员、流程、产品三个角度介绍了现代软件（互联网）产品管理的实践经验和理念。七印部落正在翻译作者的博客和授课视频，欢迎访问微博：http://weibo.com/7seals\n\n-\n\n“Marty无疑是eBay最出色的产品经理，他对eBay的影响至今仍在。”\n\n— Frerk-Malte Feller\n\neBay德国区常务董事\n\n-\n\n“Marty是产品管理的行家里手。这本书如醍醐灌顶，让我茅塞顿开。”\n\n— Judy Gibbons\n\nAccel Partnets公司风险投资人\n\n-\n\n“Marty在工作上自有一套，他总能打造出一流的产品。”\n\n— Pete Deemer\n\nYahoo！前任首席产品经理、GoodAgile公司CEO\n\n-\n\n“读完这本书，我不得不重新审视产品管理的原则和方法。”\n\n— Jim Denney\n\nTiVo产品副总裁\n\n-\n\n“产品没有价值，开发团队再优秀也无济于事。要论挑选产品，Marty可谓慧眼独具！”\n\n— Marty Abbott\n\neBay前任CTO、AKF Consulting公司合伙人\n\n-\n\n“想在软件行业创业，你绕不开这本书！”\n\n— Chuck Geiger\n\nPayPal、Travelocity、Ask.com前任CTO",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s4663406.jpg"
+      "封面图片": "./assets/covers/5914587.jpg"
     },
     {
       "id": "37037170",
@@ -1104,7 +1104,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.7",
       "评分人数": "93",
       "内容简介": "阅读本书犹如一次时空之旅。它不仅向你讲述了人工智能进步的故事，还能让你沿着那些人工智能先驱者的脚步，去感受他们的激情和执着，去了解他们如何用智慧之光，点亮通往未知世界的路标。\n\n希望这本书能让你感受到，人工智能原来井不遥远，人工智能原来很有趣，继而进一步地关注更多发生在人工智能世界里的奇妙故事，抑或愿意投身于这一全球瞩目的未来学科。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s34956108.jpg"
+      "封面图片": "./assets/covers/37037170.jpg"
     },
     {
       "id": "35731985",
@@ -1125,7 +1125,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.4",
       "评分人数": "175",
       "内容简介": "今天，人工智能在我们的生活中随处可见。它能推送我们喜欢的电视节目，帮助我们诊断疑难杂症，还能向我们推荐商品。因此，让我们掌握人工智能的核心算法，拥抱日新月异的智能世界吧。\n\n与那些充斥着公式和术语的教材不同，本书利用丰富的图表、案例和习题，深入浅出地讲解人工智能的基本概念。你只需要具备高中数学基础知识，即可轻松阅读本书。读完本书之后，你将能亲手设计算法来预测银行交易风险，创造艺术作品甚至配置自动驾驶汽车。\n\n主要内容\n\n●各种人工智能算法的实践场景\n\n●帮助决策的智能搜索算法\n\n●受生物学启发的算法簇\n\n●机器学习与神经网络\n\n●强化学习 与Q-learning",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s34091809.jpg"
+      "封面图片": "./assets/covers/35731985.jpg"
     },
     {
       "id": "27065618",
@@ -1142,7 +1142,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.5",
       "评分人数": "206",
       "内容简介": "《人人都是产品经理——写给产品新人》为经典畅销书《人人都是产品经理》的内容升级版本，和《人人都是产品经理2.0——写给泛产品经理》相当于上下册的关系。对于大量成长起来的优秀互联网产品经理、众多想投身产品工作的其他岗位从业者，以及更多有志从事这一职业的学生而言，这《人人都是产品经理——写给产品新人》曾是他们记忆深刻的启蒙读物、思想基石和行动手册。作者以分享经历与体会为出发点，以“朋友间聊聊如何做产品”的语气，将自己数年产品工作过程中学到的思维方法与做事方式，及其它们对自己的帮助，系统性地梳理为用户、需求、项目、团队、战略、修养几大话题，完整而生动地回答了“我们为什么而做”、“在做什么事，解决什么人的什么问题”、“何时，和谁一起做”、“需要什么能力”等人人都要面对的核心问题。\n\n《人人都是产品经理——写给产品新人》面向“−1到3岁的产品经理”，既有知识与方法，也有流程与实战，更有感悟与思考，适合刚入门的产品经理、产品规划师、需求分析师，以及用户体验、市场运营、技术部门的朋友，特别是互联网、软件行业的上述人群，也同样适合对做产品感兴趣的学生。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s29471427.jpg"
+      "封面图片": "./assets/covers/27065618.jpg"
     },
     {
       "id": "26358448",
@@ -1162,7 +1162,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.3",
       "评分人数": "756",
       "内容简介": "在软件领域，很少能有像《人月神话》一样具有深远影响力和畅销不衰的著作。Brooks博士为人们管理复杂项目提供了最具洞察力的见解，既有很多发人深省的观点，又有大量软件工程的实践。本书内容来自Brooks博士在IBM公司SYSTEM／360家族和OS／360中的项目管理经验，该项目堪称软件开发项目管理的典范。该书英文原版一经面世，即引起业内人士的强烈反响，后又译为德、法、日、俄、中、韩等多种文字，全球销售数百万册。确立了其在行业内的经典地位。\n\n在本书第一次出版40年后的今天，我们重新整理了Brooks博士的经典内容，并将国内软件开发领域先行者们对《人月神话》中的实践及系统理论的使用经验和心得集结成册免费赠与大家共享，更使本书成为国内从业者的必读经典之一。\n\n本书读者包括：软件开发人员、软件项目经理、系统分析师等IT从业者。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s28040623.jpg"
+      "封面图片": "./assets/covers/26358448.jpg"
     },
     {
       "id": "23820913",
@@ -1186,7 +1186,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.8",
       "评分人数": "151",
       "内容简介": "程序员、项目经理和架构师终极修炼必读！\n\n图灵奖得主、软件工程之父、《人月神话》作者 Frederick Brooks 经典著作，揭秘软件设计本质！\n\n如果说《人月神话》结束了软件工业的神话时代，粉碎了“银弹”的幻想，从此人类进入了理性统治一切的工程时代，那么《设计原本》则再次唤醒了人类心中沉睡多年的激情，引导整个业界突破理性主义的无形牢笼，鼓励以充满大胆创新为本的设计作为软件工程核心动力的全新思维。可以说，不读《人月神话》，则会在幻想中迷失；而不读《设计原本》，则必将在复杂低效的流程中落伍！《设计原本》开启了软件工程全新的“后理性时代”，完成了从破到立的圆满循环，具有划时代的重大里程碑意义，是每位从事软件行业的架构师、项目经理和研发人员都应该反复研读的经典著作。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s26543619.jpg"
+      "封面图片": "./assets/covers/23820913.jpg"
     },
     {
       "id": "37361213",
@@ -1214,7 +1214,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.8",
       "评分人数": "48",
       "内容简介": "本书全面且深入地呈现了深度学习领域的知识体系，系统梳理了该领域的核心知识，阐述了深度学习的关键概念、基础理论及核心思想，剖析了当代深度学习架构与技术。全书共 20 章。本书首先介绍深度学习的发展历程、基本概念及其在诸多领域（如医疗诊断、图像合成等）产生的深远影响；继而深入探讨支撑深度学习的数学原理，包括概率、标准分布等；在网络模型方面，从单层网络逐步深入到多层网络、深度神经网络，详细讲解其结构、功能、优化方法及其在分类、回归等任务中的应用，同时涵盖卷积网络、Transformer 等前沿架构及其在计算机视觉、自然语言处理等领域的独特作用。本书还对正则化、采样、潜变量、生成对抗网络、自编码器、扩散模型等关键技术展开深入分析，阐释其原理、算法流程及实际应用场景。对于机器学习领域的新手，本书是全面且系统的入门教材，可引领其踏入深度学习的知识殿堂；对于机器学习领域从业者，本书是深化专业知识、紧跟技术前沿的有力工具；对于相关专业学生，本书是学习深度学习课程、开展学术研究的优质参考资料。无论是理论学习、实践应用还是学术研究，本书都是读者在深度学习领域探索与前行的重要指引。\n\nChristopher M. Bishop 在 1995 年出版了一本非常出色的神经网络教科书，他对这一领域及其核心思想有着深刻的了解。他在解释神经网络方面的多年经验使他非常善于以简单的方式阐述复杂的观点，看到他将这些技能应用于该领域革命性的新发展，我们感到非常高兴。\n\n—— 杰弗里·辛顿（Geoffrey Hinton）， 2024 年诺贝尔物理学奖得主，2018 年图灵奖得主\n\n随着近年来深度学习和人工智能研究领域的爆炸式发展，以及人工智能应用的快速增长，我们迫切需要一本关于这一主题的现代教科书。Christopher M. Bishop 的这本书应运而生，本书介绍了有监督和无监督学习的算法、现代深度学习架构等，以及如何将这些应用于各种领域。\n\n—— 杨立昆（Yann LeCun），2018 年图灵奖得主\n\n本书以概率论为坚实基础，具有深厚的教育意义，将带领读者了解深度学习的主要概念和进展。这些概念正在为当前的工业人工智能系统提供动力，并有可能成为通用人工智能进一步发展的基础。\n\n—— 约书亚·本吉奥 （Yoshua Bengio），2018 年图灵奖得主",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s35158187.jpg"
+      "封面图片": "./assets/covers/37361213.jpg"
     },
     {
       "id": "36171345",
@@ -1234,7 +1234,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.3",
       "评分人数": "1213",
       "内容简介": "世界范围内主要的人工智能玩家有哪些？哪家公司在这场脑力与毅力的角逐中脱颖而出？深度学习革命如何颠覆了整个人工智能领域？人工智能还会经历第三次寒冬吗？\n\n长期以来，人工智能一直被视为一种遥远的未来技术，它是一个被委托给科学界边缘的项目，甚至在历史上两次走入绝境，陷入寒冬，直到一些孤注一掷的研究人员用一场新的变革打破了宁静——深度学习革命。\n\n近年来，让人工智能受到全世界瞩目的高调事件，基本上都是基于深度学习的。比如，AlphaGo击败了世界围棋冠军，自然语言处理催生了智能语音助手，自动驾驶、人脸识别在世界范围内得到广泛应用，AI绘画更是以假乱真、火遍全球……可以说，深度学习已经浸入了我们的日常生活，从边缘走到了舞台的中心，正蓄势待发，即将掀起一场惊人的变革。\n\n本书是一本讲述人工智能，尤其是深度学习的历史与未来的书。书中，作者讲述了一群将深度学习带给全世界的企业家和科学家的故事，从谷歌、Facebook、百度等大公司的决策者讲到学术界的领军人物——“深度学习三巨头”，再讲到DeepMind、OpenAI等知名实验室的开创者。\n\n你可以通过这些人的故事，跟随现代人工智能的发展脚步，从人工智能研究的萌芽阶段开始，穿过两次人工智能的寒冬，一直了解到当下全新的前沿进展。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s34363424.jpg"
+      "封面图片": "./assets/covers/36171345.jpg"
     },
     {
       "id": "34932968",
@@ -1257,7 +1257,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "6.4",
       "评分人数": "53",
       "内容简介": "《深度学习图解》指导你从最基础的每一行代码开始搭建深度学习网络！经验丰富的深度学习专家Andrew W. Trask以有趣的图解方式为你揭开深度学习的神秘面纱，使你可亲身体会训练神经网络的每个细节。只需要使用Python语言及其最基本的数学库NumPy，就可以训练出自己的神经网络，借助它观察并理解图像、将文字翻译成不同的语言，甚至像莎士比亚一样写作！当你完成这一切后，就为成为精通深度学习框架的专家做好了充分准备！\n\n主要内容：\n\n• 深度学习的基础科学原理\n\n• 自行设计和训练神经网络\n\n• 隐私保护的知识，包括联邦学习\n\n• 帮助你继续深度学习之旅的建议",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s33549246.jpg"
+      "封面图片": "./assets/covers/34932968.jpg"
     },
     {
       "id": "37286473",
@@ -1273,7 +1273,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.0",
       "评分人数": "29",
       "内容简介": "深度学习和大模型技术在推荐系统领域掀起了一场技术革命，本书从深度学习推荐模型、Embedding技术、大模型、AIGC、模型工程实现、业界前沿实践等几个方面介绍了这场技术革命中的主流技术要点。\n\n《深度学习推荐系统2.0（全彩）》既适合推荐系统、计算广告和搜索领域的从业者阅读，也适合人工智能相关专业的本科生、研究生、博士生阅读，帮助建立深度学习推荐系统的技术框架。通过学习前沿案例，读者可加强深度学习理论与推荐系统工程实践的融合能力。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s35111284.jpg"
+      "封面图片": "./assets/covers/37286473.jpg"
     },
     {
       "id": "26912767",
@@ -1298,7 +1298,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.7",
       "评分人数": "2617",
       "内容简介": "和第2版相比，本版内容上最大的变化是，从以IA32和x86-64为基础转变为完全以x86-64为基础。主要更新如下：\n\n基于x86-64，大量地重写代码，首次介绍对处理浮点数据的程序的机器级支持。\n\n处理器体系结构修改为支持64位字和操作的设计。\n\n引入更多的功能单元和更复杂 的控制逻辑，使基于程序数据流表示的程序性能模型预测更加可靠。\n\n扩充关于用GOT和PLT创建与位置无关代码的讨论，描述了更加强大的链接技术（比如库打桩）。\n\n增加了对信号处理程序更细致的描述，包括异步信号安全的函数等。\n\n采用新函数，更新了与协议无关和线程安全的网络编程。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s29195878.jpg"
+      "封面图片": "./assets/covers/26912767.jpg"
     },
     {
       "id": "20432061",
@@ -1330,7 +1330,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.3",
       "评分人数": "1571",
       "内容简介": "在有关算法的书中，有一些叙述非常严谨，但不够全面；另一些涉及了大量的题材，但又缺乏严谨性。本书将严谨性和全面性融为一体，深入讨论各类算法，并着力使这些算法的设计和分析能为各个层次的读者接受。全书各章自成体系，可以作为独立的学习单元；算法以英语和伪代码的形式描述，具备初步程序设计经验的人就能看懂；说明和解释力求浅显易懂，不失深度和数学严谨性。\n\n全书选材经典、内容丰富、结构合理、逻辑清晰，对本科生的数据结构课程和研究生的算法课程都是非常实用的教材，在IT专业人员的职业生涯中，本书也是一本案头必备的参考书或工程实践手册。\n\n第3版的主要变化：\n\n新增了van Emde Boas树和多线程算法，并且将矩阵基础移至附录。\n\n修订了递归式（现在称为“分治策略”）那一章的内容，更广泛地覆盖分治法。\n\n移除两章很少讲授的内容：二项堆和排序网络。\n\n修订了动态规划和贪心算法相关内容。\n\n流网络相关材料现在基于边上的全部流。\n\n由于关于矩阵基础和Strassen算法的材料移到了其他章，矩阵运算这一章的内容所占篇幅更小。\n\n修改了对Knuth-Morris-Pratt字符串匹配算法的讨论。\n\n新增100道练习和28道思考题，还更新并补充了参考文献。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s25648004.jpg"
+      "封面图片": "./assets/covers/20432061.jpg"
     },
     {
       "id": "26979890",
@@ -1350,7 +1350,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.5",
       "评分人数": "3248",
       "内容简介": "本书示例丰富，图文并茂，以让人容易理解的方式阐释了算法，旨在帮助程序员在日常项目中更好地发挥算法的能量。书中的前三章将帮助你打下基础，带你学习二分查找、大O表示法、两种基本的数据结构以及递归等。余下的篇幅将主要介绍应用广泛的算法，具体内容包括：面对具体问题时的解决技巧，比如，何时采用贪婪算法或动态规划；散列表的应用；图算法；K最近邻算法。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s29358625.jpg"
+      "封面图片": "./assets/covers/26979890.jpg"
     },
     {
       "id": "37053980",
@@ -1368,7 +1368,7 @@ window.BOOK_CATEGORY_DATA = {
       "定价": "69.8元",
       "评分人数": "评价人数不足",
       "内容简介": "本书示例丰富，图文并茂，以简明易懂的方式阐释了算法，旨在帮助程序员在日常项目中更好地利用算法为软件开发助力。前三章介绍算法基础，包括二分查找、大O表示法、两种基本的数据结构以及递归等。余下的篇幅主要介绍应用广泛的算法，具体内容包括：面对具体问题时的解决技巧，比如何时采用分而治之、贪婪算法或动态规划，哈希表的应用，图和树算法，K最近邻算法等。这一版将示例代码更新到了Python 3，并新增了两章专门讨论树，加之诸多修订，使得内容更加完善。\n\n编辑推荐\n\n※你一定能看懂的算法基础书\n\n※代码示例基于Python\n\n※400多幅示意图，生动展示算法相关内容\n\n※介绍不同算法在性能方面的优缺点\n\n※教会你用常见算法解决每天面临的实际编程问题",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s35065785.jpg"
+      "封面图片": "./assets/covers/37053980.jpg"
     },
     {
       "id": "25863515",
@@ -1388,7 +1388,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.1",
       "评分人数": "3514",
       "内容简介": "本书对互联网基盘——HTTP协议进行了全面系统的介绍。作者由HTTP协议的发展历史娓娓道来，严谨细致地剖析了HTTP协议的结构，列举诸多常见通信场景及实战案例，最后延伸到Web安全、最新技术动向等方面。本书的特色为在讲解的同时，辅以大量生动形象的通信图例，更好地帮助读者深刻理解HTTP通信过程中客户端与服务器之间的交互情况。读者可通过本书快速了解并掌握HTTP协议的基础，前端工程师分析抓包数据，后端工程师实现REST API、实现自己的HTTP服务器等过程中所需的HTTP相关知识点本书均有介绍。\n\n本书适合Web开发工程师，以及对HTTP协议感兴趣的各层次读者。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s27283822.jpg"
+      "封面图片": "./assets/covers/25863515.jpg"
     },
     {
       "id": "26324467",
@@ -1410,7 +1410,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.9",
       "评分人数": "150",
       "内容简介": "以往人们对漫画的印象停留在《超人》《蜘蛛侠》上，认为漫画不过是儿童读物，而忽略了漫画作为一种艺术表现形式和传播媒介的潜力。这种潜力在互联网时代才逐步显现出来。漫画独特的易读性和娱乐性不但可以提高产品的用户体验设计水平，还能起到绝佳的营销作用。Google、eBay、Twitter、Facebook纷纷借助漫画开展产品的设计和宣传工作。《以图代言：用漫画讲述产品故事》采用漫画与文字结合的形式，循序渐进地讲解创作漫画的技巧，生动幽默、寓教于乐，尤期适合无绘画基础的创业者、产品经理、营销人员、程序员、设计师阅读和学习。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s28006233.jpg"
+      "封面图片": "./assets/covers/26324467.jpg"
     },
     {
       "id": "37262793",
@@ -1430,7 +1430,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.1",
       "评分人数": "33",
       "内容简介": "Josh Starmer博士的YouTube账号中，“StatQuest”视频的总观看量突破7500万次（截至2025年2月统计的数据），他帮助世界各行各业的人赢得数据科学竞赛、通过考试、顺利毕业、成功求职或实现晋升，因此被大家誉为“硅谷守护神”。他那独特的图文表达形式和幽默的语言风格深受观众喜爱。这本《StatQuest图解机器学习》结合了他创新的视觉呈现方式，深入浅出地阐释了机器学习的基础知识和高阶知识，是一本轻松理解机器学习的“漫画书”。\n\n《StatQuest 图解机器学习（全彩）》前3章着重介绍了机器学习的整体框架和主要思想，从第4章起，介绍了各种机器学习算法：从基础的线性回归（第4章）和逻辑回归（第6章）到朴素贝叶斯（第7章）和决策树（第10章），最后介绍了支持向量机（第11章）和神经网络（第12章）。在介绍机器学习算法的同时，本书还穿插介绍了机器学习的进阶知识和实用技巧，如梯度下降法（第5章）、模型性能度量（第8章）和防止过拟合的正则化方法（第9章）。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s35096717.jpg"
+      "封面图片": "./assets/covers/37262793.jpg"
     },
     {
       "id": "27599381",
@@ -1453,7 +1453,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.9",
       "评分人数": "6501",
       "内容简介": "我们为什么会浪费丰盛晚宴中的精致食物，却对一张打折优惠餐券念念不忘?\n\n在做生活中的各种决策时，我们总是以为自己正在做出明智的、理性的选择。但是事实真的是这样吗?\n\n在本书中，丹•艾瑞里带我们进入了行为经济学领域，通过一系列实验研究颠覆了人们曾经普遍认同的我们的行为是完全理性的假设。无论是咖啡、减肥，买一辆车还是谈恋爱，我们的决策行为中总是带有各种非理性。\n\n找出存在于不同领域行为和决策背后的各种力量，针对影响我们个人、企业，以及公共生活的普遍问题，找出解决方法，这正是行为经济学所要做的。\n\n非理性是人类的本能，是主宰人类行为和决策的隐性力量。然而，这些非理性的行为既不是随机的，也不是毫无意义的。它们是有系统的、可预测的。现在，就让我们一起走进这些可预测的非理性。",
-      "封面图片": "https://img2.doubanio.com/view/subject/s/public/s29808391.jpg"
+      "封面图片": "./assets/covers/27599381.jpg"
     },
     {
       "id": "6392133",
@@ -1475,7 +1475,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.2",
       "评分人数": "608",
       "内容简介": "《汉译经典04:国富论(套装上下册)》内容简介：《国富论》经过五年写作、三年修改，于1776年正式与读者见面。当时正值资本主义发展初期，该书及时地总结了近代初期各国资本主义发展的经验，批判地吸收了当时的重要经济理论，提出了一套系统全面的经济学说。从作为国富基础的劳动，到提高劳动生产力的分工，再到分工带来的交换，交换带来的媒介——货币，再到商品的价格，以及构成价格的基本要素——工资、地租和利润，文中都有详细精辟的论述。该书反对政府干涉商业和自由市场，提倡降低关税和自由贸易，奠定了资本主义自由经济的理论基础，至令在世界上仍有着广泛的影响。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s6475624.jpg"
+      "封面图片": "./assets/covers/6392133.jpg"
     },
     {
       "id": "26756689",
@@ -1495,7 +1495,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.9",
       "评分人数": "262",
       "内容简介": "对货币政策问题的研究，离不开对数量型还是价格型调控的探讨。这是个老问题，一般性的讨论也比较多。比较而言，强调规范性和系统性，是《货币数量、利率调控与政策转型》的一个特点。《货币数量、利率调控与政策转型》研究所涉及的问题包括货币政策目标选择、传导机制及其效果比较，政策转型的现实选择以及开放宏观格局对货币政策的影响等。实际上，《货币数量、利率调控与政策转型》的涉猎范围早已超过货币政策中间目标的讨论。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s28556348.jpg"
+      "封面图片": "./assets/covers/26756689.jpg"
     },
     {
       "id": "3151575",
@@ -1512,7 +1512,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.6",
       "评分人数": "19077",
       "内容简介": "尽管任何一段历史都有它不可替代的独特性，可是，1978年—2008年的中国，却是最不可能重复的，在一个拥有近13亿人口的大国里，僵化的计划经济体制日渐瓦解了，一群小人物把中国变成了一个巨大的试验场，它在众口睽睽之下，以不可逆转的姿态向商业社会转轨……",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s3203360.jpg"
+      "封面图片": "./assets/covers/3151575.jpg"
     },
     {
       "id": "27179563",
@@ -1529,7 +1529,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.3",
       "评分人数": "17064",
       "内容简介": "【编辑推荐】\n\n知名财经作者吴晓波新作，畅销十年、销量超过两百万册的《激荡三十年》续篇，至此完成改革开放四十年企业史完整记录。\n\n作为时代记录者，吴晓波有意识地从1978年中国改革开放伊始，记录中国翻天覆地的变化和对我们影响至深的人物与事件，串成一部我们每个人的时代激荡史。而最新的这十年，无疑更壮观，也更扑朔迷离。\n\n很多事情，在当时并未有很深很透的感受，回过头来再看，可能命运的轨迹就在那一刻无意中形成。这也是我们之所以应该回望历史的原因。\n\n----------------------------------------------------------------------------------------------------------\n\n“对于过往的十年，如果用一个词汇来形容，您的答案是什么？”当我将这个问题抛给北京大学国家发展研究院的周其仁教授时，这位善于用简洁的表述把深刻的真相披露出来的教授，回答说：“水大鱼大！”\n\n的确是水大鱼大。\n\n急速扩容的经济规模和不断升级的消费能力，如同一个恣意泛滥的大水，它 在焦虑地寻找疆域的边界，而被猛烈冲击的部分，则同样焦虑地承受着衍变的压力和不适。它既体现在各社会阶层之间的冲突、各利益集团之间的矛盾与妥协，同时，也体现在中国与美国、日本、欧盟，以及周遭邻国之间的政治及经济关系。\n\n大水之中，必有大鱼。\n\n在这十年当中，中国公司的体量发生了巨大的变化，在世界500强的名单中，中国公司的数量从35家增加到了115家，其中，有四家进入到前十大的行列中。在互联网及电子消费类公司中，腾讯和阿里巴巴的市值分别增加了15倍和70倍，闯进全球前十大市值公司之列，在智能手机领域，有四家中国公司进入前六强，而在传统的冰箱、空调和电视机市场上，中国公司的产能均为全球第一。在排名前十大的全球房地产公司中，中国公司占到了7家。全球资产规模最大的前四大银行都是中国的。\n\n中国的商业投资界发生了基础设施级别的巨变，以互联网为基础性平台的生态被视为新的世界，它以更高的效率和新的消费者互动关系，重构了商业的基本逻辑，在十年时间里，中国人的信息获取、社交、购物、日常服务以及金融支付等方式都发生了令人难以置信的改变。\n\n因此，这个十年，是中国水大鱼大的十年，风云激荡的十年。这十年的变化，对很多人来说，可能更甚于之前的三十年。在这本《激荡十年，水大鱼大》之中，我们将跟随作者的笔触，再次经历这改变了每个人的十年。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s29636034.jpg"
+      "封面图片": "./assets/covers/27179563.jpg"
     },
     {
       "id": "36243262",
@@ -1553,7 +1553,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.8",
       "评分人数": "1284",
       "内容简介": "下顿饭吃什么？每个月存多少钱？该考研还是找工作？你的每一次消费决定，每一个人生选择，都离不开经济学的思维方式。\n\n本书是一本出版50年、迄今已更新13版仍长销不衰的经济学通识经典。全书共分16个章节，从对广义的人类活动的观察开始，重新描述社会协作的重要性，讲述了经济学的思维方式通过怎样的机制促进社会协作、实现社会效益最大化。它将需求、稀缺、比较优势、成本与选择等经济学的概念引入生活，让日常例子充满了经济学的智慧。\n\n本书改变了传统经济学课程以概念、术语、公式为主的讲述方式，而是将“经济学”作为一种思维方式，侧重于培养普通人在社会大分工中养成理性、优化的思维方式，使读者发现，经济学不是殿堂学问，而是一套可实实在在应用于生活的朴素原理。每个人日常的大多数问题，都可用经济学的思维方式来解释和解决。它是一副思维工具，一个框架，一部坚固、优美、科学、稳定的脚手架，用来帮助我们建立起更好的价值观，于社会和个人福祉的增长都大有裨益。\n\n自初版以来，本书便是经济学通识教育的经典之选。它所传达的思维方式，当然也有助于每个人过上更好的生活。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s34414412.jpg"
+      "封面图片": "./assets/covers/36243262.jpg"
     },
     {
       "id": "21371574",
@@ -1573,7 +1573,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.1",
       "评分人数": "827",
       "内容简介": "《通论》与《通往奴役之路》，这些思想的两位奠定者——约翰·梅纳德·凯恩斯和弗里德里希·冯·哈耶克，隔着一道巨大的深渊，凝视着彼此。这道深渊，拉开了我们这个时代最轰轰烈烈的经济学之战：政府是否应当干预市场。\n\n两人同时从第一次世界大战的废墟之上研究商业繁荣和萧条的周期，却得出了截然不同的结论哈耶克认为，改变经济的“自然平衡”会导致严重的通货膨胀。凯恩斯认为，标志着一个周期结束的大规模失业和困难，可以靠政府开支来缓和。终其余生，两人始终无法认同对方的观点。二十多年中，两人通过信件辩论，通过公开发表的文章辩论，通过激烈的私下对话辩论，最终又通过他们热心的弟子约翰·肯尼思·加尔布雷思和米尔顿·弗里德曼代为辩论。\n\n凯恩斯口才和魅力过人，对世界持有一种乐观的愿景：政府计划和管控能撑起经济。这一观点很快为大西洋两岸整整一代政治家和经济学家所接受。与此相反，哈耶克是个一丝不苟的逻辑家，他顽强地逆流而上，在市场倡导者和自由意志者中找到了支持。\n\n从富兰克林·罗斯福到乔治·W.布什等数代政治家，在两位学者的想法之间摇摆不定。最终，这场争辩影响了数百万人的生命和生计。从大萧条到第二次世界大战，从战后恢复到当前，资深记者尼古拉斯·韦普肖特详细梳理了20世纪两位经济学巨人之间的这场论战。两位大师的不同愿景影响了世界经济的起起落落，迄今仍牢牢地掌控着它的走向。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s26715857.jpg"
+      "封面图片": "./assets/covers/21371574.jpg"
     },
     {
       "id": "35948630",
@@ -1593,7 +1593,7 @@ window.BOOK_CATEGORY_DATA = {
       "定价": "78.00",
       "评分人数": "评价人数不足",
       "内容简介": "2021年可称为中国“碳中和元年”，亦是世界各国开启低碳竞争的元年，更是中国以2060年实现碳中和为目标进入绿色低碳高质量发展布局的元年。中国为什么要实现碳中和？碳中和这个宏伟的世纪目标对中国意味着什么？新阶段中国的社会经济发展和转型将走向何方？面对全球低碳发展潮流，中国应该如何参与到全球气候治理之中？中国需要怎样的对外合作与交流模式才能在21世纪绿色低碳竞争与气候博弈中占据国际优势地位？……\n\n本书仔细梳理并深入分析了碳中和目标和国际低碳发展背景下的气候理论传承与发展、国家政策制定与规划、行业减排路径与进展、国际合作合作与竞争等一系列碳中和前沿问题。希望本书能为读者带来碳中和理念的思考，令更多人了解到中国所开展的这场历史上最大的碳减排运动，更尝试向世界讲好中国碳中和故事。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s34258950.jpg"
+      "封面图片": "./assets/covers/35948630.jpg"
     },
     {
       "id": "26985299",
@@ -1620,7 +1620,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.0",
       "评分人数": "11597",
       "内容简介": "你一定非常想知道：通货膨胀到底是怎么来的？为什么中国要购买那么多的美国国债？扭转恶化的经济状况是该花钱，还是存钱？为什么有些国家很富有，而另外一些国家却很穷？席卷全球的经济危机又是怎么发生的？\n\n如何对经济领域的各种现象进行专业而又生动的分析，是一项艰巨的任务。如何让从9岁到90岁的读者都能通过一本书洞悉日常生活现象背后的经济规律，更是一项几乎不可能完成的任务。《小岛经济学》就是这样一本书，它通过插图、幽默的措辞以及讲故事的平实手法，将经济学从高不可攀的架子上取下来，放回到厨房的餐桌上。它本就该属于那个地方。\n\n这个关于鱼、渔网、存钱、借钱的故事揭示了经济是如何运行的，映射出当今经济体制与政策暗藏的漏洞。希夫兄弟以机智幽默的手法阐释了经济增长的根源，贸易、储蓄及风险三者的重要性，滞胀的根源，利率的影响，政府的刺激机制、消费信贷的破坏性本质等问题。这些问题经常被讨论，却常常被误解。对于那些想走出误区，理解经济学基本理论与常识的读者，这本书会带来惊喜。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s29585484.jpg"
+      "封面图片": "./assets/covers/26985299.jpg"
     },
     {
       "id": "35732136",
@@ -1643,7 +1643,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.5",
       "评分人数": "5787",
       "内容简介": "自然界的发展是有规律的，而任何事物都按其固有的轨迹运行。人们能够用一定的方法去认识它、体验它、并按照客观规律改造它。\n\n从《原则》《债务危机》到本书，桥水投资公司创始人瑞·达利欧的研究角度涉及个体、组织、社会和世界。他想揭示的是个体的生活和工作原则、组织机构的运转原则、国家和社会的兴衰原则、世界秩序的变化原则。\n\n在这本书中，瑞·达利欧探究的是社会和世界的运行规律和原则，他考察了500年财富和权力的所有重大变化背后反复出现的模式和因果关系。他认为在这些变化背后存在着永恒普适的规律。通过考察许多相互关联的历史事件，可以看到这些变化的典型模式、规律、周期和因果关系，并以此为基础推断未来。\n\n达利欧认为，历史通常也是通过相对明确的生命周期、随着一代人向下一代人的过渡而逐步演进的。所有帝国和王朝都是在典型的大周期中崛起和衰落的，可以就此判断自己所处的位置，以此判断之后的走向。目前相对财富、权力和世界秩序正在发生典型的巨变，这将对所有国家的每个人都产生深远的影响……\n\n这本书的分析和探究建立在达利欧独创的债务大周期、历史大周期的基础之上，揭示的是变化背后的永恒和普遍的力量，以此展望未来，搞清世界的运行原理，总结出永恒普适的原则，从而妥善地应对当前形势。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s34091938.jpg"
+      "封面图片": "./assets/covers/35732136.jpg"
     },
     {
       "id": "26324497",
@@ -1667,7 +1667,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.1",
       "评分人数": "3081",
       "内容简介": "这是一个野心勃勃的创业计划，在线支付鼻祖PayPal试图创造一个“统治世界”的金融操作系统，并在全球成功推广一款颠覆式的互联网产品。\n\n《支付战争》的作者是“PayPal黑帮”成员之一，他真实还原了这个伟大产品是如何诞生的，以及在后来的发展壮大之路上，如何应对融资紧张、突破增长瓶颈，在竞争者凶猛围剿与平台商霸王条款的夹击下，逆境求生，改变业务模式，最终完成IPO，并成功出售给竞争对手eBay的全过程。\n\nPayPal充满韧性的年轻创业家们，在后来的商业之路上开创了硅谷投资界的新格局，打造了多家新创公司，其中有7家市值超过10亿美元，如领英（LinkedIn）、特斯拉（Tesla）、YouTube等。《支付战争》带领我们回到“PayPal黑帮”最初的战场：山寨产品不断涌现，赤字危机节节逼近，公司几经易主，重组后文化冲突尖锐，网络诈骗汹涌来袭，客服危机迫在眉睫，媒体质疑层出不穷，罢免埃隆•马斯克掀起血雨腥风……当全世界与它为敌，看PayPal如何接受残酷洗礼，浴火重生！",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s28061240.jpg"
+      "封面图片": "./assets/covers/26324497.jpg"
     },
     {
       "id": "35546622",
@@ -1684,7 +1684,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.1",
       "评分人数": "105367",
       "内容简介": "“在成功的经济体中，经济政策一定是务实的，不是意识形态化的。是具体的，不是抽象的。”\n\n直面真问题、深究真逻辑的复旦大学经济学“毕业课”\n\n☆ 连接抽象经济学理论与中国发展实际\n\n在市场机制不完善的情况下，如何实现可行的动员与资源调配，推动经济增长？\n\n在确保增长的过程中，如 何获得更多资源和时间去建设和完善市场经济？\n\n☆ 结合学界前沿研究与一线调研经历\n\n扼要论述+延伸阅读指引，满足弹性认知需求\n\n生动解说光伏、面板等行业案例，清晰复盘宽窄巷子、华夏幸福等建设经验\n\n☆ 微观机制+宏观现象 双重维度串联中国经济生活中中知识与现象的碎片\n\n理解地方政府经济治理的决策与行动逻辑\n\n解读城市化、房价、贫富差距、债务、国内外贸易生态等现象背后各种要素的联动\n\n☆ 从热闹的政经新闻中看出门道，从枯燥的政府文件中觉察到机会。\n\n“了解政府认为应该怎么办，比了解‘我’认为应该怎么办，重要得多。”\n\n------------------------------------------------------------------------------------------------------\n\n本书是是兰小欢多年教学、调研与研究内容的凝练，将经济学原理与中国经济发展的实践有机融合，以地方政府投融资为主线，深入浅出地论述了中国经济的发展，笔触简练客观，并广泛采纳了各领域学者的最新研究成果。全书分上下两篇。上篇解释微观机制，包括地方政府的基本事务、收支、土地融资和开发、投资和债务等；下篇解释这些微观行为与宏观现象的联系，包括城市化和工业化、房价、地区差异、债务风险、国内经济结构失衡、国际贸易冲突等。最后一章提炼和总结全书内容。\n\n通过对中国政治经济体系的论述，作者简明地刻画了地方政府进行经济治理的基本方式，并指出，中国政府通过深度介入工业化和城市化的进程，在发展经济的同时逐步推动了市场机制的建立和完善，以一种有别于所谓发达国家经验的方式实现了经济奇迹。基于对改革历程与社会矛盾的回顾与分析，作者也在书中对当前推进的市场化改革与政府转型进行了解读，帮助读者增进对中国发展现实的把握。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s33956867.jpg"
+      "封面图片": "./assets/covers/35546622.jpg"
     },
     {
       "id": "5259106",
@@ -1702,7 +1702,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.8",
       "评分人数": "268",
       "内容简介": "《八十天环游世界》内容简介：原版经典：精选世界上最受欢迎的小说；版本完整，没有删节。精美插图：数百幅彩色和黑白的绘图与照片，重现壮阔；的时代场景。包括人物特写、地图、海报、机器图解以及精心绘制的插图等；大量稀有图片可追溯到小说完成的年代。百科资讯：所有图片附以生动、简洁、旁征博引的文献；与说明，呈现人文、科学、社会风俗、地理、动植物、建筑等丰富资讯；提供必须博览群书才能得到的百科知识。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s6214558.jpg"
+      "封面图片": "./assets/covers/5259106.jpg"
     },
     {
       "id": "35498430",
@@ -1721,7 +1721,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.1",
       "评分人数": "1830",
       "内容简介": "◆ 百万销量游戏大作《地铁》系列原著，俄罗斯废土科幻小说代表作\n\n◆ 俄语版6个月内售出30万册，雄踞俄罗斯畅销小说榜单数月，图书版权远销欧美17国\n\n◆ 改编游戏《地铁：离乡》广受赞誉：Metacritic均分80，IGN评分8.5，steam近五万人给出“特别好评”\n\n◆ 荒芜的城市、冰冷的站台、黑暗的隧道、盘踞的怪物、疲惫的士兵、篝火前浓醇的伏特加……独特的世界观设定、逼真的末日图景与荡气回肠的“毛味”故事征服无数读者与玩家\n\n◆ 正传三部曲终于集结！包含粉丝期盼多年的大结局《地铁2035》，并特别收录番外故事《阿尔乔姆的福音》及《道路尽头》。“支线任务”同样精彩\n\n◆ 资深译者俄文直译，还原原著厚重细腻文笔；参考英语版、波兰语版等多个版本，对专有名词逐个精修，并添加俄罗斯地理、政治、风俗等特有文化注释，无障碍流畅阅读。这一次，不再遗憾！\n\n◆ “地铁”游戏系列新作确认开发中，作者亲自参与编剧；真人版电影由俄罗斯传媒巨头Gazprom Media操刀，预计2024年上映\n\n——————————————————\n\n核战争结束二十年后，人类几近灭亡，世界化为一片废墟。楼房倾塌，森林被烧为灰烬，遍布辐射尘的地表被各种变异生物占据。最后的幸存者们蜷缩在莫斯科地铁站与隧道中，建立起新的团体、城镇和文明，在挣扎求生的同时，也开始了无休无止的斗争与厮杀。人类沦为野兽，最后的避难所变为永久的牢笼。\n\n年轻的阿尔乔姆生活在地铁北部的展览馆站，他始终无法忘记已经离去的母亲，也热衷于幻想战前世界的模样。随着神秘生物“黑暗族”的威胁日益加剧，为挽救家园，阿尔乔姆接受了向其他站台求援的重任。他踏上了穿越整个地铁网的旅途，而人类的最终命运也渐渐从黑暗中浮现……",
-      "封面图片": "https://img2.doubanio.com/view/subject/s/public/s33944011.jpg"
+      "封面图片": "./assets/covers/35498430.jpg"
     },
     {
       "id": "34983165",
@@ -1740,7 +1740,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.7",
       "评分人数": "555",
       "内容简介": "给人类带来生命之光的太阳被证实将在四百年内发生灾变“氦闪”，地球也将从宇宙中完全消失。\n\n为了生存，地球发动机不停运转，带着人类开始了逃离太阳的流浪。刹车时代、逃逸时代，恶劣的生存环境不停磨损着人们心中的希望，坚信人类文明已被出卖的人们组成了叛军，以最残忍的方式对依然坚信太阳会发生“氦闪”的地球派执行了死刑……",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s33601716.jpg"
+      "封面图片": "./assets/covers/34983165.jpg"
     },
     {
       "id": "35170896",
@@ -1760,7 +1760,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.2",
       "评分人数": "37481",
       "内容简介": "很难简单概括《平面国》这本书。\n\n它可以是：首次解释\"维度\"概念的科普读物、脑洞大开的科幻小说、煞有介事的数学童话、剑走偏锋的精神启蒙、辛辣讽喻英国维多利亚时代的社会寓言。\n\n这本一百年前横空出世的小书，通篇在一本正经地胡说八道，散发着浓浓英式幽默，有趣、迷人，令人捧腹 。\n\n它启发过无数大师，深刻影响了现当代科学。“平面国”已然成为全球范围内的超级文化符号。\n\n*********************************\n\n作者在平面宇宙设定基础上，展开细节详实的“平面国”生活画卷。平面国的各形状居民操心自己的国家社会，就像我们操心自己的日常生活。他们住在平面房子里，通过雾气和光线识别他人，靠彼此触摸识别“角度”区分地位。平面国史上还发生通过染色消除阶级而引发的大事件，比起空间世界的人类历史也不遑多让。\n\n故事的主角，一位体面的正方形先生突然遇到了从三维国前来平面国传福音的“球”。他决定跟随这位导师向平面国传播立体空间的真理，却无法用平面国居民能理解的语言去解释高度和上（而不是北）。被人当做疯子后，他写出了这部传世的《平面国》。\n\n作为读者的我们，将在这个故事中获得上帝视角，得以审视自身，以科学的态度，理解“科学的谦卑”\n\n*************\n\n*** 题 献 ***\n\n写给所有空间中的居民\n\n特别献给H·C\n\n本书的作者是一位谦卑的平面国居民\n\n他一开始只知道两二维的世界\n\n后来才有幸被引入三维的空间\n\n作者把这本书献给天空之国的臣民们\n\n希望本书能激励你们不断立下更高的志向\n\n去探索四维、五维、甚至六维的秘密\n\n立体人，你们是比作者更高级的物种\n\n愿探索能拓宽你们的想象\n\n并孕育出最少见、最卓越的美德——谦虚\n\n—— 本书作者正方形",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s33710398.jpg"
+      "封面图片": "./assets/covers/35170896.jpg"
     },
     {
       "id": "26856061",
@@ -1777,7 +1777,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.0",
       "评分人数": "19403",
       "内容简介": "某个离奇的雨夜，一个球状闪电闯进了少年的视野，并在一瞬间将少年的父母化为灰烬。少年毕其一生去解开那个将他变成孤儿的自然之谜。但未曾想，多年后，他的研究被纳入“新概念武器”开发计划，他所追寻的球状闪电变成了下一场战争中决定祖国生存或是灭亡的终武器。及锋而试，大西北戈壁滩上升起冰冷的“蓝太阳”，世界变得陌生而怪异。一个完全未知的未来，在宇宙观测者的注视下，降临在人类面前……",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s28979072.jpg"
+      "封面图片": "./assets/covers/26856061.jpg"
     },
     {
       "id": "2567698",
@@ -1794,7 +1794,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.9",
       "评分人数": "515557",
       "内容简介": "文化大革命如火如荼进行的同时。军方探寻外星文明的绝秘计划“红岸工程”取得了突破性进展。但在按下发射键的那一刻，历经劫难的叶文洁没有意识到，她彻底改变了人类的命运。地球文明向宇宙发出的第一声啼鸣，以太阳为中心，以光速向宇宙深处飞驰……\n\n四光年外，“三体文明”正苦苦挣扎——三颗无规则运行的太阳主导下的百余次毁灭与重生逼迫他们逃离母星。而恰在此时。他们接收到了地球发来的信息。在运用超技术锁死地球人的基础科学之后。三体人庞大的宇宙舰队开始向地球进发……\n\n人类的末日悄然来临。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s2768378.jpg"
+      "封面图片": "./assets/covers/2567698.jpg"
     },
     {
       "id": "3066477",
@@ -1811,7 +1811,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.3",
       "评分人数": "316824",
       "内容简介": "三体人在利用魔法般的科技锁死了地球人的科学之后，庞大的宇宙舰队杀气腾腾地直扑太阳系，意欲清除地球文明。\n\n面对前所未有的危局，经历过无数磨难的地球人组建起同样庞大的太空舰队，同时，利用三体人思维透明的致命缺陷，制订了神秘莫测的“面壁计划”，精选出四位“面壁者”。秘密展开对三体人的反击。\n\n三体人自身虽然无法识破人类的诡谲计谋，却依靠由地球人中的背叛者挑选出的“破壁人”，与“面壁者”展开智慧博弈……\n\n“面壁计划”究竟能否成功？地球人究竟能否在这场你死我活的文明生存竞争中战而胜之？神秘的\n\n“黑暗森林”究竟意味着什么？",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s3078482.jpg"
+      "封面图片": "./assets/covers/3066477.jpg"
     },
     {
       "id": "5363767",
@@ -1828,7 +1828,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.2",
       "评分人数": "295349",
       "内容简介": "与三体文明的战争使人类第一次看到了宇宙黑暗的真相，地球文明像一个恐惧的孩子，熄灭了寻友的篝火，在暗夜中发抖。自以为历经沧桑，其实刚刚蹒跚学步；自以为悟出了生存竞争的秘密，其实还远没有竞争的资格。\n\n使两个文明命悬一线的黑暗森林打击，不过是宇宙战场上一个微不足道的插曲。真正的星际战争没人见过，也不可能见到，因为战争的方式和武器已经远远超出人类的想象，目睹战场之日，即是灭亡之时。\n\n宇宙的田园时代已经远去，昙花一现的终极之美最终变成任何智慧体都无法做出的梦，变成游吟诗人缥缈的残歌；宇宙的物竞天择已到了最惨烈的时刻，在亿万光年暗无天日的战场上，深渊最底层的毁灭力量被唤醒，太空变成了死神广阔的披风。\n\n太阳系中的人们永远不会知道这一切，最后直面真相的，只有两双眼睛。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s26012674.jpg"
+      "封面图片": "./assets/covers/5363767.jpg"
     },
     {
       "id": "35424676",
@@ -1853,7 +1853,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.4",
       "评分人数": "377",
       "内容简介": "出身穷苦之家的滑膛是一位威震黑道的顶尖杀手。一天，他接到了一个不同寻常的委托——十几位全球顶级富豪共同出面，许以重金，并要他干掉三个身处社会最底层的穷人——一个穷困潦倒的画师、一个以街头卖艺为生的盲眼老头和一个手无缚鸡之力的拾荒女孩。滑膛接受了委托，也开始探寻这个看似荒诞的委托背后的秘密......\n\n而此时此刻，一个技术水平远超地球的外星文明马上要开始对地球的殖民，并为地球人规划了一个“公平”的殖民时代的生存计划，而他们中的“探路者”也已悄然登陆地球......巨变来临之时，滑膛所探寻的秘密已与地球人的命运紧密交织在了一起......",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s33875344.jpg"
+      "封面图片": "./assets/covers/35424676.jpg"
     },
     {
       "id": "38210508",
@@ -1873,7 +1873,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.1",
       "评分人数": "1165",
       "内容简介": "斩获中国科幻银河奖、华语科幻星云奖\n\n科技宅男与跨星系好友联袂上演太空大救援；硬核工程风和幽默碎碎念打造年度科幻\n\n同名电影震撼来袭——《蜘蛛侠：平行宇宙》金牌制片人执导，瑞恩·高斯林领衔主演\n\n读者直呼比《火星救援》更燃、更爆；译者坦言阅读体验像是在大脑里进行了“一场烟花表演”\n\n连续16周雄踞亚马逊畅销榜，超10万人五星好评，豆瓣9.1超高分\n\n被奥巴马、比尔·盖茨、雷军收入阅读书单；乔治·R.R.马丁、刘慈欣盛赞\n\n一个只想窝在实验室喝咖啡的佛系老师，竟被命运扔进了拯救太阳系的星际战场。但在醒来的那一刻，他连自己的名字都不记得。同伴均已死亡，他只能从飞船电脑的零散信息中拼凑真相：太阳正被一种宇宙微生物“噬星体”侵袭，即将熄灭，地球面临冰封灭绝的危机。而他，正是那个肩负拯救地球重任的关键人物！这个浩瀚宇宙中，他是整个人类文明仅存的希望。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s35397354.jpg"
+      "封面图片": "./assets/covers/38210508.jpg"
     },
     {
       "id": "26306584",
@@ -1894,7 +1894,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "6.9",
       "评分人数": "243",
       "内容简介": "《硅谷之火:人与计算机的未来》以生动的故事，介绍了计算机爱好者以怎样的创新精神和不懈的努力，将计算机技术的力量包装在一个小巧玲珑的机壳里，实现了个人拥有计算机的梦想。同时以独特的视角讲述了苹果、微软、太阳微系统、网景、莲花以及甲骨文等公司的创业者们在实现个人计算机梦想的过程中创业的艰辛、守业的艰难、失败的痛苦，在激烈竞争的环境中奋斗的精神以及在技术上不断前进的历程。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s27988606.jpg"
+      "封面图片": "./assets/covers/26306584.jpg"
     },
     {
       "id": "30171336",
@@ -1922,7 +1922,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "6.4",
       "评分人数": "134",
       "内容简介": "《皇帝新脑》对电脑科学、数学、物理学、宇宙学、神经和精神科学以及哲学进行了广泛的讨论，体现了作者向哲学上最大问题——“精神-身体关系”挑战的大无畏精神。书中充满了天才般的猜测，重新衡量相对论和量子理论，以及对现代物理及人工智能的新看法。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s29715644.jpg"
+      "封面图片": "./assets/covers/30171336.jpg"
     },
     {
       "id": "36991789",
@@ -1945,7 +1945,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.3",
       "评分人数": "86",
       "内容简介": "◎ 编辑推荐\n\n创新者的非凡洞见\n\n什么样的项目会更“靠谱”？\n\n什么样的人生会更具拓展性？\n\n伟大思想的源头，科学发展的规律，创新动力的底层逻辑\n\n大师眼中的大师，费曼、乔布斯、冯·诺伊曼……斯蒂芬·沃尔弗拉姆为科技群星撰写的15个传奇故事\n\n◎ 书籍推荐\n\n这本书结合了渊博睿智的作者、熠熠生辉的主人公以及生动有趣的叙事手法。沃尔夫拉姆本人是计算科学、物理学和数学领域的著名学者，又是广泛流行的数学软件 Mathematica和计算知识引擎 Wolfram Alpha的主要设计师，可谓学术和商业领域的“双料巨人”。本书论及的科学家、工程师和企业家是计算科学领域从萌生、发育到壮大、辉煌的300多年里重要代表人物。透过这些伟大的探索者在推动科学技术创新和进步的鲜活故事，作者展现了一条绵延不绝的思想脉络，而这条脉络又与作者本人的创新、实践紧密联系在一起。一部精彩之作。\n\n——段永朝，苇草智酷\n\n痴迷于“简单规则”和“复杂现象”的科学精神的人物谱。\n\n——读者评论\n\n同其他大师一样，沃尔弗拉姆对各个领域都保持着难以抑制的好奇心。他对人文历史的研究同样出于科学思路：通过研究历史中的数据和样本，去找寻一种模式，去发现一种隐藏在纷繁复杂的细节背后的规律，然后以此来指导自己的研究。在千万个历史数据和样本的背后，自有其特定的规律。仔细研究它们，能让你慢慢建立起一种判断的直觉：什么样的项目更“靠谱”？什么样的人生更具拓展性？\n\n——读者评论\n\n他（沃尔弗拉姆）的研究充分显示了，为什么一个人能够有如此卓越的贡献。而其中的理由必须能凭他的经验可以被理解，如果那个理由显得太奇特，那就说明必须继续挖掘下去，找寻更多的信息和材料，翻阅更多的原始文献，直到他能完全理解了这个人物的“成长规律”。从这个角度来讲，如果你喜欢科学与人文的交叉主题，喜欢运用科学的方法论去研究和探索“不确定”的历史和创造力，那么这本书对你来说绝对是不可多得的佳品。\n\n——读者评论\n\n◎ 内容简介\n\n本书是当今杰出的创新者之一斯蒂芬·沃尔弗拉姆（Stephen Wolfram）为数学、物理学和计算科学史上的“群星”所写的传记。他以独特的个人视角讲述了科学和技术史上的有趣人物，及其思想和成就，其中一些人甚至与他有过精彩碰撞。作者从他与理查德·费曼的回忆到与乔布斯的碰撞，从图灵的工作如何释放几代人的创新力，讲到艾达·洛夫莱斯在计算史上的真正影响，将读者带入思想家和创造者们的思想和生活，并将书中故事与自己的兴趣、见解和经历结合在一起，以独到眼光透过历史审视了伟大思想背后的动力，解读科学发展、创新的规律，以及后世能汲取的启发。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s34926990.jpg"
+      "封面图片": "./assets/covers/36991789.jpg"
     },
     {
       "id": "36080515",
@@ -1969,7 +1969,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.2",
       "评分人数": "662",
       "内容简介": "近些年，当人们谈论人工智能时，总热衷于讨论算法的优化、模型的迭代、算力的多少。人们不断地在追求模型的深度、数据的规模和芯片的算力。海量参数的复杂网络仿佛就是人工智能的发展方向。然而，这就是真的智能吗？\n\n科技界的一代传奇人物、计算机科学家与神经科学家杰夫·霍金斯在《千脑智能》中揭示了一种关于大脑和智能的理论——千脑智能理论，这将彻底改变我们对大脑和人工智能的未来的理解。\n\n就像人类最终不是通过模仿鸟类，而是通过理解空气动力学而发明了飞行一样，在我们改进机器和深度学习的同时，我们需要首先了解大脑是如何工作的。\n\n杰夫·霍金斯和他的团队发现，大脑使用类似地图的结构来建立一个世界的模型——不仅仅是一个模型，而是成千上万个我们所知道的一切的模型，也就是千脑智能理论。这一发现为创造机器智能提供了清晰的路线图。\n\n霍金斯多年深耕于大脑研究的领域，终于在这本书中给出了答案。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s34303819.jpg"
+      "封面图片": "./assets/covers/36080515.jpg"
     },
     {
       "id": "26945094",
@@ -1989,7 +1989,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.7",
       "评分人数": "11859",
       "内容简介": "《未来简史:从智人到智神》进入21世纪后，曾经长期威胁人类生存、发展的瘟疫、饥荒和战争已经被攻克，智人面临着新的待办议题：永生不老、幸福快乐和成为具有“神性”的人类。在解决这些新问题的过程中，科学技术的发展将颠覆我们很多当下认为无需佐证的“常识”，比如人文主义所推崇的自由意志将面临严峻挑战，机器将会代替人类做出更明智的选择。\n\n更重要的，当以大数据、人工智能为代表的科学技术发展的日益成熟，人类将面临着从进化到智人以来最大的一次改变，绝大部分人将沦为“无价值的群体”，只有少部分人能进化成特质发生改变的“神人”。\n\n未来，人类将面临着三大问题：生物本身就是算法，生命是不断处理数据的过程；意识与智能的分离；拥有大数据积累的外部环境将比我们自己更了解自己。如何看待这三大问题，以及如何采取应对措施，将直接影响着人类未来的发展。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s29317658.jpg"
+      "封面图片": "./assets/covers/26945094.jpg"
     },
     {
       "id": "26839342",
@@ -2006,7 +2006,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.9",
       "评分人数": "1458",
       "内容简介": "吴军博士从对人类文明产生了重大影响却在过去被忽略的历史故事里，选择了有意思的几十个片段特写，以人文和科技、经济结合的视角，有机地展现了一幅人类文明发展的宏大画卷。\n\n《文明之光》系列大致按照从地球诞生到近现代的顺序讲述了人类文明进程的各个阶段，每个章节相对独立，全景式地展现了人类文明发展历程中的多样性。《文明之光》系列首册讲述从人类文明开始到近代大航海这一历史阶段，共八个专题。第二册讲述了从近代科学兴起，到工业革命时代，以及原子能应用这一历史阶段，共八个专题。第三册讲述了音乐、美术、计算机、互联网、金融、硅谷对世界科技发展的启迪、微粒子和宇宙天文学、环境保护等，共八个专题。\n\n看完这个系列，读者朋友可以体会到，在漫长的历史长河中，人类社会虽然不断遇到一些困难和问题，但人类总是会有办法解决它们，我们要成为一个“理性乐观派”；其次是能够认识到普通人对文明发展的贡献，每个人都可以成为贡献者。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s28969893.jpg"
+      "封面图片": "./assets/covers/26839342.jpg"
     },
     {
       "id": "26942841",
@@ -2023,7 +2023,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.4",
       "评分人数": "448",
       "内容简介": "这本书是吴军博士之前写的四卷本《文明之光》的精华本,他从全系列的 32 章中精选出读者朋友反馈热烈的 14 章,编辑成书,与罗辑思维合作出版。",
-      "封面图片": "https://img2.doubanio.com/view/subject/s/public/s29849411.jpg"
+      "封面图片": "./assets/covers/26942841.jpg"
     },
     {
       "id": "36350632",
@@ -2043,7 +2043,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.3",
       "评分人数": "6374",
       "内容简介": "一部芯片的发展史与竞争史！ 追溯半导体产业发展历程，直面大国博弈下的芯片竞争格局！\n\n《金融时报》2022年度最佳商业图书\n\n《经济学人》2022年度最佳图书\n\n《纽约时报》畅销书\n\n2023年专业出版商杰出作品奖\n\n入围莱昂内尔·盖尔伯奖\n\n腾讯研究院2023年新春书单\n\n——————————————————\n\n芯片是现代世界赖以生存的稀缺资源，就像石油一样。如今，军事、经济和地缘政治力量都建立在芯片的基础上。从制导导弹到微波炉，从智能手机到股票市场，一切都离不开芯片。谁在芯片设计和制造领域保持领先地位，谁就能在科技和经济等领域产生巨大的优势。长期以来，美国、日本、韩国以及欧洲各国，都在芯片设计和制造领域进行激烈的竞争，以图赢得这场立足于科技之上的战争。\n\n经济历史学家克里斯·米勒在书中较为完整地描述了各国为控制芯片技术而进行的长达数十年的斗争历程，解释了半导体在现代生活中发挥的关键作用，以及美国是如何在芯片设计和制造中占据主导地位，并将这种技术应用于军事系统的。\n\n本书集科技冒险、商战故事、大国博弈于一体，分析了芯片崛起的历史，以及以控制芯片行业的未来为目的的日益复杂的地缘政治权力斗争，对理解当今的政治、经济和和科技至关重要。\n\n——————————————————\n\n1.一本书读懂芯片发展史与竞争史。本书讲述了全球半导体行业早期的技术突破，仙童半导体、德州仪器、英特尔、华为等各家芯片巨头的创业发展，以及美国、苏联、日本、韩国和欧洲各国为了这场科技战争而进行的长达数十年的斗争历程。\n\n2.本书将宏大话题写得通俗易懂。本书共有54个章节，每一章都干货满满、清晰好读，集科技冒险、商战故事、大国博弈于一体，将芯片历史融合经济、技术、战略分析，即使是非专业读者，读起来也毫不费力。\n\n3.本书对理解当今世界至关重要。本书有助于我们及时了解美国政府、企业家以及智囊团的真实想法，为我们正经历的“卡脖子”难关找寻历史启示，也为我们理解当前芯片局势、当今世界提供了有益的思考。\n\n4.本书获中外知名人士重磅推荐。科学作家万维钢作序，郭奕武（上海市集成电路行业协会秘书长）、冯锦锋（知名半导体产业专家）、吴晨（《经济学人·商论》总编辑）、保罗·肯尼迪（英国历史学家)、尼尔·弗格森（英国历史学家）、劳伦斯·H. 萨默斯（美国财政部前部长）、詹姆斯·斯塔夫里迪斯（美国海军上将）等。\n\n——————————————————\n\n克里斯·米勒的《芯片战争》十分精彩，有科技冒险，有商战故事，更有大国博弈，在世界范围内都很受欢迎。但我们中国读者读这本书会有更复杂的情绪，理应也有更重要的收获。\n\n——万维钢 科学作家\n\n克里斯·米勒所写的《芯片战争》文笔优美，引人入胜，用讲故事的方式讲述了芯片的发展史与竞争史，展现了科技创新背后的激烈竞争与暗流涌动，值得推荐。\n\n——郭奕武 上海市集成电路行业协会秘书长\n\n这是一本不可多得的产业、经济、战略图书。这本书让我们得以一窥美国专家乃至美国政府、企业家和智囊团的真实想法，是大家了解和思考当前芯片局势的上佳读物。\n\n——冯锦锋 知名半导体产业专家\n\n《芯片战争》为全球化历史的梳理提供了重要的样本分析，也为世界矛盾重重的前景提供了多维度的思考。\n\n——吴晨 《经济学人·商论》总编辑\n\n这是一部了不起的杰作，引人入胜，集经济分析、技术分析和战略分析于一体，独具匠心。\n\n——保罗·肯尼迪 英国历史学家\n\n人类的未来取决于中美两个生态系统之间的“芯片战争”，它们争相设计和制造世界上先进的微处理器。随着中美竞争的加剧，这本书正好提供了我们所需要的历史视角。这是一本不可或缺的书。\n\n——尼尔·弗格森 英国历史学家\n\n如果你关心技术、国家未来的繁荣或持续的安全，那么这是一本你不得不读的书。\n\n——劳伦斯·H. 萨默斯 美国财政部前部长\n\n这本书抓住了21世纪地缘战略竞争中最关键和最具战略意义的要素，以历史和技术为基础，精彩而有趣，具有深刻的说服力。\n\n——詹姆斯·斯塔夫里迪斯 美国海军上将",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s34500182.jpg"
+      "封面图片": "./assets/covers/36350632.jpg"
     },
     {
       "id": "30171338",
@@ -2063,7 +2063,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.8",
       "评分人数": "1824",
       "内容简介": "蚂蚁在组成群体时为何会表现出如此的精密性和具有目的性？数以亿计的神经元是如何产生出像意识这样极度复杂的事物？是什么在引导免疫系统、互联网、全球经济和人类基因组等自组织结构？这些都是复杂系统科学尝试回答的迷人而令人费解的问题的一部分。\n\n理解复杂系统需要有全新的方法.需要超越传统的科学还原论，并重新划定学科的疆域。借助于圣塔菲研究所的工作经历和交叉学科方法，复杂系统的前沿科学家米歇尔以清晰的思路介绍了复杂系统的研究，横跨生物、技术和社会学等领域，并探寻复杂系统的普遍规律，与此同时，她还探讨了复杂性与进化、人工智能、计算、遗传、信息处理等领域的关系。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s29715647.jpg"
+      "封面图片": "./assets/covers/30171338.jpg"
     },
     {
       "id": "35591200",
@@ -2083,7 +2083,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.4",
       "评分人数": "164",
       "内容简介": "★ 一代科学巨擘的治学心迹与家国情怀\n\n★ 了解杨振宁先生精神历程的重要著作\n\n“我的身体里循环着的是父亲的血液，是中华文化的血液。”——杨振宁\n\n“先生很喜欢‘晨曦集’这个名字，因为它寄托了先生一生的期望。”——翁帆\n\n本书收录了杨振宁先生多篇有代表性的文章，既有他放弃美国国籍的声明，也有关于大加速器、高能物理等热点问题的专论，兼及研究生培养等多方面的社会议题。书中也收录了亲人、同事、友人、媒体人和学生所撰文章，对杨振宁先生的成就和贡献进行了充分的介绍和评述。\n\n此次出版新增了十余篇文章，包括杨振宁1971年访问新中国后回美进行的轰动美国华人学界的演讲《为有牺牲多壮志  敢教日月换新天》全文，他参观长城后饱含深情写就的《长城颂》，以及邓稼先写给杨振宁并使他的情感受到“极大震荡”的珍贵信件等，充分展现了一代科学大师的远见卓识与回报故园的拳拳之心。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s33989450.jpg"
+      "封面图片": "./assets/covers/35591200.jpg"
     },
     {
       "id": "30348077",
@@ -2103,7 +2103,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.0",
       "评分人数": "313",
       "内容简介": "精选杨振宁先生及其友人所写的五十多篇文章，包括论文、演讲、书信、访谈、散文等，其中约有一半文章系首次结集出版，很多篇目也从未发表过。涉及杨振宁先生深刻的科学观点、独特的社会见解和丰富的个人情感，既展现了二十世纪一个人的历史和一个学科的历史，也反映了二十世纪一个民族的浴血重生的历史。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s29945593.jpg"
+      "封面图片": "./assets/covers/30348077.jpg"
     },
     {
       "id": "34782541",
@@ -2123,7 +2123,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.0",
       "评分人数": "3808",
       "内容简介": "从一粒原子，到无穷宇宙，一本书汇集人类认识世界、探索宇宙的方方面面：数论、世界线、相对论、量子力学、核物理、遗传学……\n\n这本书将会回答你如下问题：无穷大究竟有多大？空间有里外之分吗？为什么三维世界里的人无法想象四维空间？相对论是怎么“相对”的？我们怎么才能看到原子的尺寸？核反应时究竟在发生什么？生物与非生物的界限在哪里？\n\n一，二，三……快进入无穷大的科学世界吧",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s33462079.jpg"
+      "封面图片": "./assets/covers/34782541.jpg"
     },
     {
       "id": "1291204",
@@ -2147,7 +2147,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.4",
       "评分人数": "8821",
       "内容简介": "集异璧－GEB，是数学家哥德尔、版画家艾舍尔、音乐家巴赫三个名字的前缀。《哥德尔、艾舍尔、巴赫书：集异璧之大成》是在英语世界中有极高评价的科普著作，曾获得普利策非小说奖。它通过对哥德尔的数理逻辑，艾舍尔的版画和巴赫的音乐三者的综合阐述，引人入胜地介绍了数理逻辑 学、可计算理 论、人工智能学、语言学、遗传学、音乐、绘画的理论等方面，构思精巧、含义深刻、视野广阔、富于哲学韵味。\n\n中译本前后费时十余年，译者都是数学和哲学的专家，还得到原作者的直接参与，译文严谨通达，特别是在原作者的帮助下，把西方的文化典故和说法，尽可能转换为中国文化的典故和说法，使这部译本甚至可看作是一部新的创作，也是中外翻译史上的一个创举。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s1789059.jpg"
+      "封面图片": "./assets/covers/1291204.jpg"
     },
     {
       "id": "33477229",
@@ -2164,7 +2164,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.0",
       "评分人数": "11327",
       "内容简介": "本书回顾量子论从无到有发展的风云录，从18世纪开始，直到21世纪，一批科学巨人开始颠覆传统物理学大厦，为了宇宙的终极理论而战，大大改变了人类发展的历史。\n\n再现量子物理一路的荆棘与荣光，展现科学激动人心的魅力，这部量子物理史，足以唤起你对世界的全部好奇！\n\n【编辑推荐】\n\n*国内最畅销的科普神作，创科普类图书中强大口碑。\n\n刘慈欣盛赞：”教科书要是能这么有趣就好了！”百万读者惊呼：原来物理这么燃！\n\n*扎克伯格关注的科技前沿，全球下一轮新科技革命的引爆点。\n\n*权威奖项认证，原创科普扛鼎之作。\n\n荣获“科学时报读书杯ZUI佳科普创作奖”、“第三届吴大猷科普奖”、“国家图书馆文津图书奖”、“40年中国ZUI具影响力的40本科学科普书”多项大奖。\n\n*打破量子物理的高冷面具，关于量子物理，没有人写得比他更通俗、更有趣。\n\n*升级版全面焕新：\n\n◎内文重新修订，增加新近科学进展，作者特为新版作序。\n\n◎与Sheldon科学漫画工作室合作，图文打造生动有趣的阅读体验。\n\n◎超过100张漫画、科学示意图、珍稀高清照片，无限拉近你与量子物理的距离。\n\n◎双色印刷，版式大气，知识与审美的双重享受。\n\n【媒体及名人推荐】\n\n教科书要是能这么有趣就好了！生动的比喻，丰富的八卦，让艰涩的量子力学显得平易近人，堪称学生上课时ZUI想偷看的物理小说！\n\n——刘慈欣\n\n量子论的故事本来就跌宕起伏、激动人心，这位身世神秘的中国作家将这段故事演绎的高潮迭起、引人入胜，希望了解量子力学的普通读者请读此书。\n\n——吴国盛（清华大学人文学院教授、科学史系主任）\n\n生动有趣的量子物理学简史。作者既不是学物理的，也不是专业作家，但写出了国内ZUI好的量子物理学通俗读物。\n\n——徐来（少年得到科学总编辑，科普作家）\n\n科学英雄史诗、量子物理学版本的《人类群星闪耀时》。必须说真实的科学探索没有那么浪漫写意，科学家的生活可能还挺苦逼。但是作为普通人，这些彻底颠覆我们世界观的人仍然是毫无疑问的英雄。\n\n——王立铭（浙江大学教授、生物学家）",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s32344288.jpg"
+      "封面图片": "./assets/covers/33477229.jpg"
     },
     {
       "id": "37307653",
@@ -2186,7 +2186,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.6",
       "评分人数": "75",
       "内容简介": "时间简史（插图版）2025全新改版\n\n※ 10页新内容首次收录——包括霍金2016年撰写的“新版前言”及“新发现”一章，梳理近20年来的宇宙学新发现\n\n※ 12张全新高清照片——直观呈现科技进展\n\n※ 30个注释——术语解释、背景补充、前沿进展、拓展阅读，降低阅读门槛\n\n※ 全新校译，革新版式——阅读更流畅\n\n随书附赠\n\n※ 1份宇宙认知年表——可视化人类2500年艰难而浪漫的宇宙探索之旅\n\n※ 1本导读手册——丘成桐、王贻芳、张双南等18位大咖领读，为什么《时间简史》值得一读再读\n\n——\n\n问世37年\n\n被翻译成40余种文字\n\n《纽约时报》畅销书榜霸榜147周\n\n《星期日泰晤士报》畅销书榜霸榜264周\n\n《人民日报》重磅推荐——\n\n“那个写下《时间简史》的人被时间带走了。但时间带不走他的精神，带不走他的学术。”\n\n——\n\n《时间简史》这本书，不光有青年人说看不懂，连很有名的诺贝尔奖获得者也说过“看不懂”，隔行如隔山，看不懂是很正常的事。但是，看比不看好，看了一定会有收获。——丘成桐\n\n认识与理解我们身处的宇宙是人类千百年来的梦想。在时间和空间的框架下，基于大量的实验与观测结果，现代科学揭示了宇宙的奥秘，梦想成了现实。《时间简史》带你了解这个激动人心的历史过程，介绍已有的结论并展望未来。——王贻芳\n\n在阅读这本书的过程中，我找到了一种有趣的“解答”：是我们，是人类的存在决定了宇宙今天的样子。我们如何，世界就会如何，宇宙也会如何。——宁理\n\n无论是否获得诺贝尔物理学奖，霍金都已经跨越时间了。——张双南\n\n在探求时间的真经大道上，有太多的玄妙等待着我们去领略：从黑洞的量子特性到万物理论的追寻，从量子态宇宙的假设到平行宇宙的可能性……再翻《时间简史》之际，我忽然心生欢喜：人类的思维即宇宙的边界；问对了问题，就终究会有答案。——尹烨\n\n这本书不是冰冷的公式堆砌，而是一场关于存在的浪漫 叙事。当你在插图中凝视138亿年前的宇宙奇点，在文字间穿梭于量子涨落的微观世界，或许会豁然领悟：人类虽渺小如尘，却因追问“我们从何而来”而伟大。无论你是想叩响 物理学之门，还是渴望在庸常生活中触摸永恒，《时间简史（插图版）》都将成为你书架上最闪耀的“时空指南”。——水哥（王昱珩）\n\n——\n\n《时间简史》是史蒂芬·霍金的代表作品，也是科普创作的里程碑式作品。\n\n它是宇宙的发展史，是人类认知宇宙的发展史，也是霍金的科学理论发展史。全书以生动易懂的语言，融科学知识与人文哲思于一体，试图回答“宇宙为何如此”“我们从何而来”等哲学的终极问题。\n\n但它不只是既成的历史，也是发展的历史。其中的许多洞见，都在过去的几十年间甚至近几年得到了证实，此次新版《时间简史：插图版》更是新增了九页过去二十年间的宇宙学新发现。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s35123146.jpg"
+      "封面图片": "./assets/covers/37307653.jpg"
     },
     {
       "id": "30379527",
@@ -2206,7 +2206,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.0",
       "评分人数": "3590",
       "内容简介": "从地心说到三大定律的跃迁，是人类世界观的一次次脱胎换骨！\n\n亚里士多德的世界观 以地球是宇宙中心为信条。\n\n牛顿世界观 把动者恒动当作真理。\n\n有没有可能我们现在拥有的世界观，最后也被证明为错误？\n\n有没有可能我们的世界观在子孙后代看来，也是陈旧而诡异？\n\n从科学哲学的根本问题，到科学史上的历史事件和哲学主题，彰显了历史、科学、哲学的无止境魅力。本书化繁为简，剖析根本，纵观西方科学两千年，探讨近代科学发展，特别是相对论、量子力学和演化论等理论给世界观带来的冲击和挑战。 它拥有的不仅是知识，更是一套新的认知体系。\n\n本书纵论西方科学两千年，探索科学的起源和思维的本质。这是每一个现代人都需要阅读、了解的关于科学的历史和哲理，有助于读者构建正确的世界观",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s29923715.jpg"
+      "封面图片": "./assets/covers/30379527.jpg"
     },
     {
       "id": "35400011",
@@ -2226,7 +2226,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.9",
       "评分人数": "399",
       "内容简介": "用照片和图画让“单位”看得见，让近80种单位带来具体的感受。\n\n单位是如何定义和命名的，节、马赫、加仑、桶、磅这些单位有什么方便？\n\n理解似懂非懂的单位，提高对数理化的兴趣。\n\n◎ 编辑推荐\n\n☆ 用照片和图画，让抽象的物理单位带来具体的感受，让数理化更加亲切\n\n1厘米有多长——成人中指指甲盖的宽度；1千克有多重——4个苹果或者165个一元硬币的重量；1勒克斯有多亮——1只萤火虫发光的亮度；1摩尔有多少——能组成30座富士山的沙粒的数量……用大量照片和图画来解释，让抽象的单位与实物产生联系，一下子就有了具体的感受，数理化课程中的抽象数据不再遥远。\n\n☆ 介绍单位用来表示什么，也解释它是怎么制定的，有什么样的历史\n\n单位“米”是长度的单位，起初法国人将它确定为地球赤道到北极点的距离的1000万分之1，后来又有改成光在真空中1/299792458秒内行进的距离。“马力”是因为詹姆斯·瓦特为了展示蒸汽机相对于马匹的出色能力，而设定的功率单位，后世为了纪念他的功绩，又使用“瓦特”来做功率单位。更多单位的故事等你发现。\n\n☆ 清晰的条理和版式，分类详细介绍36种单位，并介绍约40种相关单位\n\n分类介绍长度、面积、体积和容积、质量、时间、速度、与光有关的、与电有关的、功率、能量、压强、声音强度、频率、温度、分辨率、数据等单位，以及用于表述巨大数字和微小数字的词头。分多个板块来建立立体的知识网络：单位用来表示什么量、用什么符号，名字被作为单位的科学家，拓展知识，趣味小知识……\n\n◎ 内容简介\n\n数字+单位，是我们度量世界的方式。\n\n在日常生活中我们经常会见到米、亩、秒、升、千克、吨等单位，还会接触到桶、牛顿、安培、伏特、马力、瓦特、焦耳、赫兹、dpi甚至风级和震级等单位，但你真正知道这些单位是怎么确定的，有多长、多大、多重、多快、多强吗？这本书用图鉴的方式帮助你理解近80种单位，让抽象的单位也能带来具体的感受，让你能够更深入理解世界。\n\n本书特点在于用十分形象的图画和照片向读者展示多种抽象单位的量，既可以作为课堂知识的补充，也可以作为趣味的课外延伸读物，有利于培养科学头脑。\n\n◎ 媒体推荐\n\n日本人凭直觉就能理解4.5张榻榻米和1升的瓶子的大小。但那些非公制的单位就难以理解，如桶、加仑等。这本书是一部图文并茂的精彩之作，对单位可视化进行了划时代的尝试。我小时候从电视剧《草原上的小房子》中知道了一亩是足球场的一半大小，两张榻榻米面积约1坪。最近，家电卖场的灯泡亮度从“瓦”改成了“流明”，这让我很困惑。我也搞不懂贝可勒尔和希沃特。但从这本书里都弄明白了。\n\n——日本读者评论\n\n一些大到难以想象或者很抽象的单位，虽然我们理论上知道，但在这本书中只用看一下图片就能明白了。也许正因为如此，书中大部分单位都用照片和图画展示，而且有通俗易懂的解释（起源、含义、用法等）。\n\n在学习单位的时候，最好已经能做简单的乘除法，但我觉得单位基本上是和日常生活密切相关的东西，可以超出对应年级的理解范围，所以我觉得这本书适合作为小学生入学的礼物。不过，这本书内容非常多样，从熟悉的“米”到你也许从没听过的“开尔文”，而且讲得比较透彻……\n\n我真的很推荐这本书，因为这是一本划时代的图鉴，它能让你直观地理解成年人都看似明白却只能模糊想象的单位。……我见过各种类型的绘本，这是我见过的最先进的绘本之一，所以想买给自己的孩子。\n\n——日亚读者评论",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s33859820.jpg"
+      "封面图片": "./assets/covers/35400011.jpg"
     },
     {
       "id": "35448939",
@@ -2246,7 +2246,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.5",
       "评分人数": "117",
       "内容简介": "这本书将通过银行小职员汤普金斯先生的梦境和奇遇，回答你以下问题：\n\n1.\t为什么任何物体在任何条件下都无法超过光速？\n\n随着物体的速度不断接近光速，它抵抗进一步加速的能力——换句话说，它的质量——必然无限增大，所以不会超过光速。\n\n2.\t为什么永动机不可能存在？\n\n热力学第二定律表明，多余的热量必定会产生。因为宇宙中的无序和紊乱（或者说熵）永远都在增加。无论一台机器的效率有多高，它永远都会排出一些多余的热量，从而更进一步提高宇宙的总熵。\n\n……\n\n相对论、量子力学、宇宙学、热力学、原子物理学，一本书勾勒现代物理发展脉络。",
-      "封面图片": "https://img2.doubanio.com/view/subject/s/public/s33885931.jpg"
+      "封面图片": "./assets/covers/35448939.jpg"
     },
     {
       "id": "36443488",
@@ -2263,7 +2263,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.9",
       "评分人数": "418",
       "内容简介": "作者像是人类四百年科学探索史的“说书人”，用精准、优雅的语言讲述了从哥白尼发表《天体运行论》之后的科学发展的历程，展示了人类群星闪耀的光辉，鲜活的科学故事，近代科学大厦是如何建立的，以及科学发展的历史必然性。探讨了科学精神的本质和推动科学发展的力量。同时也介绍了数学、物理、化学、生物等方面的知识。\n\n本书史料可信、思想连贯、叙述生动，人类探索科学400年的恢弘历史跃然纸上，是一部史诗般的科学史话。\n\n阅读此书，一是了解人类科学文明的演变历史，认识科学大师，理解科学思想，体味科学研究之艰辛，学会像科学家们一样思考。二是真正“站在巨人的肩膀上”望向更远、更美好的科学景致。\n\n强烈推荐给对这个世界充满好奇心的8-120岁的“少年”。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s34560399.jpg"
+      "封面图片": "./assets/covers/36443488.jpg"
     },
     {
       "id": "35131845",
@@ -2282,7 +2282,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.6",
       "评分人数": "274",
       "内容简介": "你想过世界末日的场景吗？宇宙将会在怎样的场景下走向末日？是遭遇小行星撞击，还是遭遇彗星撞击，又或是银河系遭遇另一个星系的撞击？在《宇宙的最后三分钟》，保罗·戴维斯将为你介绍关于宇宙未来的最新理论，带你破解宇宙终结之谜。一本人人读得懂的宇宙学科普著作。\n\n●所有你关心的宇宙未来的话题：小行星撞击、热力学第二定律、宇宙诞生的最初三分钟、恒星的末日、黑洞、引力辐射、太空移民、外星智慧生命、循环宇宙模型……你都可以在本书中找到！",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s35402583.jpg"
+      "封面图片": "./assets/covers/35131845.jpg"
     },
     {
       "id": "1016953",
@@ -2302,7 +2302,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.1",
       "评分人数": "224",
       "内容简介": "在宇宙背景热辐射发现约10年之后，最初三分钟的理论已在大学里进行讲授，这是科学的进步。这本科普读物为1979年诺贝尔物理奖得主，美国物理学家和宇宙学家史蒂文．温伯格在1977年写的一本畅销书。此书被公认为科普读物的里程碑。作为一位知名的权威和专家，温伯格在书中向世人描绘了一幅完全令人信服的宇宙起源图，包括在大爆炸之后仅仅数秒或几分钟内出现的详细过程。\n\n温伯格在《最初三分钟》的结尾处写道：“不管所有这些问题可能如何得到解决，也不论哪一个宇宙模型被证明为正确的，我们都不会从中得到什么慰藉。人类总是不可抗拒地认为，我们和宇宙有某种特殊的关系，认为人类的生命不应该是追溯到最初三分钟的一连串偶然事件的多少带有笑剧性质的产物，而是从宇宙的开始就以某种方式存在了。我写到这些话时，正好在从旧金山至波士顿的回家途中飞越俄明上空，大地在下面看起来柔软而舒适，浮云处处，公路纵横，夕阳西下，积雪泛红，很难理解这只不过是一个充满敌意的宇宙中的一小部分，更无法想象现在的宇宙是从一个难以言传的陌生的早期状态演化而来，而又面临着无限冰冷的，或者是炽热难耐的末日。宇宙愈可理解，也就愈索然无味。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s1011442.jpg"
+      "封面图片": "./assets/covers/1016953.jpg"
     },
     {
       "id": "33455604",
@@ -2319,7 +2319,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.1",
       "评分人数": "516",
       "内容简介": "标王失败的原因是什么？\n\n数十亿资产的企业为何这般脆弱？\n\n“青年近卫军”为何如此短命？\n\n狂热的激情是怎样成为祸根的？\n\n中国“第一品牌”是怎样砸掉的？\n\n中国网络经济的原罪是什么？\n\n暴利到底给企业留下了什么？\n\n“多元化”的陷阱有多深？\n\n企业家离政治该有多近？",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s32326659.jpg"
+      "封面图片": "./assets/covers/33455604.jpg"
     },
     {
       "id": "33455636",
@@ -2336,7 +2336,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.6",
       "评分人数": "380",
       "内容简介": "“中国第一饮料品牌”是如何陨落的？\n\n家电业最具现代气质的公司，是怎样被肢解和蹂躏的？\n\n中国最大民营企业的崩盘，真的是被天意和宿命控制的吗？\n\n股市庄家如何编织谎言？\n\n最具想象力的“汽车革命”为什么会一夜流产？\n\n房地产最大的“黑马”失陷何处？\n\n一家钢铁公司隐藏着多大的兴衰秘密？\n\n中药业的领头兵为何溃不成军？\n\n资本狂人怎样玩火自焚？",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s33841035.jpg"
+      "封面图片": "./assets/covers/33455636.jpg"
     },
     {
       "id": "35092383",
@@ -2356,7 +2356,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.3",
       "评分人数": "35363",
       "内容简介": "两代学人，跨越北京、牛津、温州、杭州、上海五地，历时三年完成了这场谈话。从项飙教授的个人经验切入，追索一系列超越自我的问题，其中涉及对中国社会半个世纪以来的变化、知识共同体、全球化与民粹主义、人类学方法论等题目的思考。这本书提供了一份对话实录，也给出了一种审视问题、 思维操练的方法——在自我泛滥的潮流中，如何给自己定位，在全球化的年代，如何创造性地建设身边的小世界，在思想受困的社会，如何回答宏大的命题。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s33683876.jpg"
+      "封面图片": "./assets/covers/35092383.jpg"
     },
     {
       "id": "35493725",
@@ -2379,7 +2379,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.5",
       "评分人数": "279",
       "内容简介": "创新与生命一样，是宇宙中非常不可思议的现象，因为它是“逆熵”的，它能从混乱中衍生出秩序，从简单演化出复杂，是整个宇宙避免热寂的希望。\n\n尽管除了熊彼特和索洛以外，主流经济学家很少研究它，但几乎所有经济学家都承认，创新才是经济增长的源动力。\n\n可创新又是如何产生的？人类历史的伟大创新总被人们包裹在一层神秘主义的面纱下，瓦特、达尔文、牛顿、巴斯德、乔布斯，创新总是与个体的成就相关。\n\n但本书认为，这不是事实，即便这些聪明的个体不幸夭折，蒸汽机、进化论、万有引力、疫苗和苹果手机仍然会出现。\n\n因为创新有它自己的规律。\n\n本书前半部是一部科技史，后半部则从科技史的角度探讨总结创新产生的规律。\n\n☆著名心理学家 史蒂芬·平克、宋志平 中国上市公司协会会长、北大国发院BiMBA商学院院长陈春花、华大基因CEO尹烨、奇葩说辩手高庆一等多位大咖联袂推荐。\n\n☆GoodRead 2020年度商业书籍，《三联生活周刊》2020年度好书榜推荐，首届文津奖获奖作者全新力作。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s34084482.jpg"
+      "封面图片": "./assets/covers/35493725.jpg"
     },
     {
       "id": "34459750",
@@ -2395,7 +2395,7 @@ window.BOOK_CATEGORY_DATA = {
       "定价": "88.00元",
       "评分": "6.9",
       "评分人数": "164",
-      "封面图片": "https://img2.doubanio.com/view/subject/s/public/s33590931.jpg"
+      "封面图片": "./assets/covers/34459750.jpg"
     },
     {
       "id": "10945606",
@@ -2415,7 +2415,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.3",
       "评分人数": "6529",
       "内容简介": "《精益创业:新创企业的成长思维》内容简介：我们正处在一个空前的全球创业兴盛时代，但无数创业公司都黯然收场，以失败告终。精益创业代表了一种不断形成创新的新方法，它源于“精益生产”的理念，提倡企业进行“验证性学习”，先向市场推出极简的原型产品，然后在不断地试验和学习中，以最小的成本和有效的方式验证产品是否符合用户需求，灵活调整方向。如果产品不符合市场需求，最好能“快速地失败、廉价地失败”，而不要“昂贵地失败”；如果产品被用户认可也应该不断学习，挖掘用户需求，迭代优化产品。这一模式  不仅针对车库创业派，对于全球最大企业内部的新创业务也同样适用。\n\n创业是在充满不确定性的情况下进行产品或服务创新。新创企业还不知道他们的产品应该是什么样的，他们的顾客在哪里。计划和预测只能基于长期、稳定的运营历史和相对静止的环境。而这些条件新创企业都不具备。有时候我们自己觉得产品会非常受欢迎，所以花费巨大精力，在各种细小的问题上进行打磨，结果，产品推到市场后，消费者很残酷地表示他们不需要这个东西。如果我们的生意本身不被市场需要，那么我们失败来的越快越好，这意味着我们耗费更少的资金和精力在错误的事情上。\n\n埃里克将精益创业提炼为一个反馈循环：想法—开发—测量—认知—新的想法。根据这种模式，我们创业的第一步是把想法变为产品，而且这时开发的产品是精简的原型，投入最小的金钱和精力开发出体现核心价值的产品，不要在许多细枝末节上耗费过多精力。当极简功能的产品得到用户认可后，创业者需要把控局势，在不断的反馈和循环中测试产品，快速作出调整和改变，迭代优化产品，挖掘用户需求，达到爆发式增长。新创企业必须在消耗完启动资金之前，以最小的成本、在最短时间里找到有价值的认知。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s11137256.jpg"
+      "封面图片": "./assets/covers/10945606.jpg"
     },
     {
       "id": "37270984",
@@ -2439,7 +2439,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.2",
       "评分人数": "794",
       "内容简介": "《思考，快与慢》是诺贝尔经济学奖得主丹尼尔·卡尼曼的经典作品，是卡尼曼一生研究工作清晰而富有启发性的总结。作为行为经济学和实验经济学的先驱者，卡尼曼的研究影响深远。\n\n卡尼曼认为，有两种系统驱动着我们的思考和决策方式：系统1是依赖直觉、情感、记忆做出的快速判断；系统2则更慢、更深思熟虑，也更有逻辑。通过阐释这两个系统在大脑中的运作规律，卡尼曼揭示了快思考和直觉印象对人类思想和选择的普遍影响。他通过生动的对话和实验展示了我们什么时候可以信任自己的直觉，什么时候不可以，以及我们如何利用慢思考的优势，做出比传统经济学中的理性人更好的选择。\n\n2002年，丹尼尔·卡尼曼因其在判断与决策心理学方面的研究而获得诺贝尔经济学奖。他的研究挑战了传统经济学中的理性人假定，提出了著名的“前景理论”，开创了行为经济学这一新领域。在这本里程碑式的作品中，卡尼曼不仅为我们展示了我们的大脑是如何工作的，也将为我们工作、生活各个方面的决策提供实用且富有启发性的见解——以及教会我们如何防范常常让我们陷入困境的心理偏差。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s35129640.jpg"
+      "封面图片": "./assets/covers/37270984.jpg"
     },
     {
       "id": "28023983",
@@ -2457,7 +2457,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "6.9",
       "评分人数": "333",
       "内容简介": "稻盛和夫的成功方程式：\n\n人生·工作的结果=思维方式X热情X能力\n\n稻盛和夫称“只有这个方程式才能解读我自己的幸福人生，才能解读京瓷和KDDI的顺利发展，以及日本航空的成功重建。”这个方程式中，他将“思维方式”放在了首位，而将“能力”放在了第三位，原因何在？\n\n本书中，他以9大主题，27个关键词（精进、信念、拼命、利他、创新、苦难、感谢）深入阐述了“思维方式”无可替代的重要性。读者不仅能从中感悟到“经营之圣”的人生智慧，更能汲取到足以推动自己人生与事业发展的精神力量。\n\n无论对于企业经营者、公务人员、普通职员，还是未踏入社会的学生，这都是一本能帮人优化思维、找对“活法”的心灵管理必读之书。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s29669107.jpg"
+      "封面图片": "./assets/covers/28023983.jpg"
     },
     {
       "id": "36057097",
@@ -2477,7 +2477,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.2",
       "评分人数": "6506",
       "内容简介": "雷军系统梳理30年创业心法和经营哲学，深度复盘“小米模式”，认为取得持续成功的核心在于只干了一件事：坚持“互联网制造”路线，推动效率革命，实现用户利益和经济效率的最大化。\n\n雷军在书中首度全面公开包括三大铁律、七字诀、高效率模型、爆品模式、生态链要素等，涉及管理、投资、工作等多维度经验，为创业者和管理者提供借鉴和指导，也可以为普通人提供持续精进的头部思维。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s35403768.jpg"
+      "封面图片": "./assets/covers/36057097.jpg"
     },
     {
       "id": "35637771",
@@ -2497,7 +2497,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.6",
       "评分人数": "5221",
       "内容简介": "自出版以来，《影响力》就一直是畅销佳作。由于它的影响，说服得以成为一门科学。无论你是普通人还是为某一产品或事业观点游说的人，这都是一本基本的必读书，是你理解他人心理的基石。心理学家罗伯特·西奥迪尼为我们解释了为什么有些人具有说服力，而我们总是容易上当受骗。隐藏在冲动地顺从他人行为背后的6大心理武器，正是这一切的根源。那些劝说高手们，总是熟练地运用它们，让我们就范。经过近7年的潜心研究，西奥迪尼发现了第7种心理武器——联盟，将6种心理武器扩展为7种；书中更新内容多达10万字，包括近10年行为心理学新研究与新发现，近5年上百个商业、管理、科技、个人成长、家庭教育等方面的全新案例。\n\n本书被引述率高居社会心理学之冠，曾获得美国心理学会、美国心理学基金会年度大奖提名。是《财富》杂志推荐的75本商业必读书；在中国，《影响力》系列书系常年位居各大网络、地面书店管理畅销榜单前10名。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s34026206.jpg"
+      "封面图片": "./assets/covers/35637771.jpg"
     },
     {
       "id": "26873486",
@@ -2514,7 +2514,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.8",
       "评分人数": "5673",
       "内容简介": "在互联网行业内，“运营”这个职能发展到一定阶段后，往往更需要有成熟的知识体系和工作方法来给予行业从业者们以指引。\n\n《运营之光：我的互联网运营方法论与自白》尤其难得之处在于：它既对“什么是运营”这样的概念认知类问题进行了解读，又带有大量实际的工作技巧、工作思维和工作方法，还包含了很多对于运营的思考、宏观分析和建议，可谓内容完整而全面，同时书中加入了作者亲历的大量真实案例，让全书读起来深入浅出、耐人寻味。\n\n从内容的受众来说，它既有面向初入互联网行业的运营从业者们的具体工作方法讲解和建议，又有适合3～5年运营从业者们阅读的一些案例解析、思考方法分享，也有更适合创业者、互联网公司高管阅读的一些运营体系搭建、不同类型产品所适合的运营方法等更为宏观的问题的解读。\n\n我们希望它可以成为面向互联网运营从业者和创业者们的一本经典读物。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s29230783.jpg"
+      "封面图片": "./assets/covers/26873486.jpg"
     },
     {
       "id": "30179751",
@@ -2538,7 +2538,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.4",
       "评分人数": "38",
       "内容简介": "纽约时报畅销书，英文原著影印版\n\n《高效能人士的七个习惯》作者史蒂芬·柯维推荐\n\n帮助我们面对人生的那些重要时刻\n\n.....................\n\n※编辑推荐※\n\n☆ 读者广泛承认：纽约时报畅销书；美国亚马逊排行前列的沟通类畅销书籍\n\n☆ 扎实的作者团队：作者团队中的 成 员几乎都有在世界知名企业指导培训和管理工作的经验，并有几位在斯坦福大学完成了心理学博士研究工作。他们的工作还涉及各种行为调查研究的项目。\n\n☆ 精准的写作：着力描写人生关键时刻的沟通，最大程度上发挥沟通技巧的效用。\n\n.....................\n\n※内容简介※\n\n本书旨在帮助读者掌握在关键时刻处理高风险对话的技巧，包括认清自己真正想要达到的目标，留意和确保对话的安全氛围，掌握彼此行为背后的缘由，把建议化为行动，等等；同时辅以丰富的对话情境和轻松幽默的小故事，帮助读者以最迅速的方式掌握这些技巧。\n\n.....................\n\n※媒体推荐※\n\n本书的读者勇敢而巧妙地运用书中的理念去应对人生中的关键时刻：一位女士读过此书后与疏远的父亲重归于好；一位护士勇敢地与充满防卫性的医生展开关键对话，从而拯救了被误诊的病人；一位男士机智地消除了自己和兄弟姐妹因父亲的遗嘱而产生的龃龉；一位勇猛的读者甚至认为针对关键对话的练习使自己在巴西遭遇劫车事件时得以获救。像这样的故事有两百万之多，你可以想象我们从读者那里获得的价值感和满足感，而你也会是其中之一。\n\n——帕特森，格伦尼，麦克米伦，斯威茨勒（本书作者）\n\n《关键对话》让我们把注意力转向了人生中的关键时刻，即那些塑造了我们的生活、关系和世界的时刻。本书不愧是对我们时代的思想领导力所做的重要贡献之一。\n\n——史蒂芬·柯维，《高效能人士的七个习惯》作者\n\n你生活的质量来源于你的对话和交谈的质量。如何立刻提升自己的关键对话技能？答案就在这本书中。\n\n——马克·维克托·汉森《纽约时报》畅销书榜首《心灵鸡汤》丛书合著",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s29725098.jpg"
+      "封面图片": "./assets/covers/30179751.jpg"
     },
     {
       "id": "35221833",
@@ -2558,7 +2558,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.5",
       "评分人数": "2566",
       "内容简介": "世界公认的记忆专家&大脑教练吉姆•奎克（Jim Kwik）首部作品，书中介绍了关于升级大脑、快速学习、人生进阶的系统方法，帮助读者从思维、动力和方法三个维度对自己的学习力进行升级，唤醒超级学习脑，拥有学什么都会的“超能力”。\n\n我们的头脑是我们积累的最大财富和资产。当你阅读《无限可能》的时候，不仅能变得更加聪明，还能够去完成你此前不敢想象的事情。对于想要在学习中脱颖而出，打破思维惯性，加速自我发展的人来说，本书非常具有启发性和实践指导作用。\n\n也许你想学习一种新的能力，但笃定自己办不到；也许你想参加升职角逐，但是内心的声音一直在告诉你，你不行；也许你认为自己永远无法离开手机或者只能是那个照本宣科的无聊演讲者，那么，翻开本书的这一刻，你将挥手告别那个困在各种标签中的自己。\n\n《无限可能：快速唤醒你的学习脑》通过介绍世界级精英都在采用的脑力开发方法，帮助你获得以下能力：\n\n自由穿梭书页的阅读能力；\n\n如钢铁般牢固的记忆力；\n\n像激光一样的专注力；\n\n无垠无限的创造力；\n\n清晰的思维、细致的洞察力；\n\n积极向上的精神状态。\n\n...................\n\n※编辑推荐※\n\n世界级大脑教练首部作品，硅谷钢铁侠埃隆·马斯克、谷歌创始人、维珍创始人、漫威之父等世界级精英，联合国、哈佛大学、加州理工大学、克利夫兰医学中心、SpaceX等机构大脑教练作品\n\n方法独特、科学、有效，众多科学家、医学专家以及其他各行业精英推荐，相关学习视频获数亿次点击\n\n干货多、实操性强，书中包含大脑升级训练、十日突破、快速阅读、长久记忆、健脑食谱等，每年帮助20万人成功开发大脑。\n\n传奇经历塑造出来的传奇方法，全球190多个国家都有人获益。\n\n...................\n\n※名人推荐※\n\n我们每个人最亟待开发的地方，不在远处，其实是我们的脑。开发脑力，并不同于我们以为已经做得很好的开发智力。如果说这本书还可以做得更好，那么它应该给予感性更多的认可，给予高效的学习以更丰富的内涵，毕竟，中国人所说的“心”，亦是脑力。\n\n——杨斌清华大学教授 领导力研究中心主任\n\n书中提到的关于学习的一种无限可能的境界，和我提到的学习的最高境界——无为，都是某种“无所不能”又“随心所欲”的境界。到了这种境界，你能快速学会任何知识。\n\n——万维钢中国好书、文津图书奖得主科学作家\n\n这本书从开发大脑的角度讨论了如何开启无限可能的人生模式，作者提出了打破思维模式，点燃内在动力，掌握正确方法的3M方法，我学习后深受启发，推荐有自我成长需求的读者阅读。\n\n——成甲《好好学习》《好好思考》作者\n\n怎么才能让学习不断有效果呢？本书会从思维、动力和方法三个维度对你的学习力进行升级，帮助你唤醒超级学习脑。想拥有学什么都会的超能力，就请打开这本书吧。\n\n——彭小六洋葱阅读法创始人游戏化创新教育专家\n\n本书包含了快速阅读、学习和记忆的方法，实操性强，经过反复验证，值得一试！\n\n——斯科特·弗兰斯伯格（Scott Flansburg）世界最强大脑“人类计算器”吉尼斯世界纪录保持者\n\n我相信每个人的心中都有一个超级英雄，你会从《无限可能》中发现释放自己超能力的方法。\n\n——斯坦·李（Stan Li）漫威之父",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s33739606.jpg"
+      "封面图片": "./assets/covers/35221833.jpg"
     },
     {
       "id": "33391219",
@@ -2581,7 +2581,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.0",
       "评分人数": "7492",
       "内容简介": "《金字塔原理》介绍了一种能清晰地展现思路的高效方法，是训练思考、使表达呈现逻辑性的实用宝典。金字塔原理能将零散的观点有序组织起来，化繁为简，适合所有需要精进思考、分析、表达能力的读者。\n\n深入思考：建立金字塔思维，提取有价值的信息，找到问题的关键，将复杂的问题变得清晰简单。\n\n解决问题：从基本事实切入直击要点，制定严谨合理的解决方案，突破瓶颈。\n\n项目管理：明确目标，制定行动计划，根据MECE原则合理分配任务，不重叠、无遗漏。\n\n清晰表达：陈述项目、演讲、讨论时，清晰呈现自己的观点，说服听众，与上级、同事、客户迅速建立共识，高效沟通。\n\n轻松写作：挖掘读者的关注点、兴趣点、利益点，写出重点突出、条理鲜明的策划方案、分析报告、精彩文案和PPT，让人过目不忘。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s32276605.jpg"
+      "封面图片": "./assets/covers/33391219.jpg"
     },
     {
       "id": "1088581",
@@ -2599,7 +2599,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.7",
       "评分人数": "75652",
       "内容简介": "这是一部自传体文学的作品，原书六卷，已逸其二，现仅存四卷（有所谓“足本”者，后二记系伪作。书中记叙了作者夫妇间平凡的家居生活，坎坷际遇，和各地浪游闻见。文辞朴素，情感真挚，前人曾有“幽芳凄三角，读之心醉”的评语。本书文字不长，但向为文学爱好者和研究者所重视，影响广泛。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s2280094.jpg"
+      "封面图片": "./assets/covers/1088581.jpg"
     },
     {
       "id": "25735269",
@@ -2619,7 +2619,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.2",
       "评分人数": "48",
       "内容简介": "《落花生船》是沈圣时的散文随笔集。该书收入1936年沈圣时《落花生船》自刊本39篇散文全部内容。“集外”为编者收集编选的沈圣时代表性作品并附录高旅上个世纪80年代争取重印《落花生船》时写的跋语。这些散文，或叙事，或抒情，记录了作者短暂而坎坷的一生中所经历的人生际遇。透过作者对自己经历的叙述，人们可以对那个动乱频仍的时代里的社会风貌和底层人民的生活有更深切的认识。\n\n说起现代文学史上英年早逝的诗人，人们想到的往往是新月派后起之秀方玮德（1908—1935）。对于同样早逝的知名诗人和作家沈圣时，当今的论者和读者，却知之甚少，这不能不说是一个遗憾。其实，早在上世纪三四十年代，身为“小雅诗人群”之一的沈圣时，就是一个在诗坛、文坛上很活跃的人物，著述颇丰，影响甚大。但由于种种原因，一九四九年后基本处于“湮没”状态。为了恢复沈圣时在现代诗史、文学史上应有的历史地位，我们特推出他的代表作散文集《落花生船》，以期引起世人对他的关注与研究。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s27068006.jpg"
+      "封面图片": "./assets/covers/25735269.jpg"
     },
     {
       "id": "1053088",
@@ -2641,7 +2641,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.3",
       "评分人数": "5688",
       "内容简介": "《陶庵梦忆》展示了明末色彩斑斓的市民阶层的生活情态，书中所载多琐屑之事，涉及城市胜概、山川景物、风俗人情、文学艺术等各个方面。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s4039793.jpg"
+      "封面图片": "./assets/covers/1053088.jpg"
     },
     {
       "id": "30485880",
@@ -2656,7 +2656,7 @@ window.BOOK_CATEGORY_DATA = {
       "定价": "29元",
       "评分": "8.8",
       "评分人数": "31",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s30022805.jpg"
+      "封面图片": "./assets/covers/30485880.jpg"
     },
     {
       "id": "1007569",
@@ -2672,7 +2672,7 @@ window.BOOK_CATEGORY_DATA = {
       "定价": "28.00",
       "评分": "9.1",
       "评分人数": "192",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s1016694.jpg"
+      "封面图片": "./assets/covers/1007569.jpg"
     },
     {
       "id": "1418180",
@@ -2689,7 +2689,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.0",
       "评分人数": "10927",
       "内容简介": "作为一个自由人文主义者，王小波终其一生思考着并快乐着，他以自身对“文化大革命”的记忆为重要矿藏，用杂文以独有的调侃的笔调完成了对自由与理性的反思与书写。由李银河编选的王小波杂文集《思维的乐趣》展示的正是一座巍然屹立于戏谑的笑容和令人会心而战栗的幽默之后的智性的迷宫，让读者真切地体会到思维带来的无与伦比的快乐的同时，从他那里学会如何独立而自由地思考。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s1430717.jpg"
+      "封面图片": "./assets/covers/1418180.jpg"
     },
     {
       "id": "35167939",
@@ -2709,7 +2709,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.7",
       "评分人数": "11906",
       "内容简介": "\t一本和鳗鱼一样难以被定义的奇书，关于鳗鱼，更关于生命本身：从鳗鱼笨拙又浪漫的生命之旅，抵达深刻又感动的生命之谜\n\n\t瑞典现象级畅销书，出版3个月印量高达70000册，现已超过130000册！以处女作一举拿下瑞典极富盛名的文学大奖——奥古斯特奖，被评为最佳非虚构图书\n\n\t讲述鳗鱼在科学史中留下的谜团，展开文学、艺术和宗教中的鳗鱼考察之旅，在回忆与父亲珍贵的捕鳗时光中，探讨生命、死亡以及其间的一切。语言优美动人，情感真挚动人：克制的文字中，流淌着父子之间甚少表露的深情\n\n\t被翻译为30种语言畅销多国，媒体好评如潮：《纽约时报》“编辑选书”，《洛杉矶时报》畅销书，《福布斯》最佳夏季读物，《洛杉矶时报》“与自然保持联系的21部经典”，美国自然历史博物馆馆长盛赞\n\n\t独特设计，精美装帧，优雅精装，多幅量身定制的艺术插画\n\n鳗鱼是自然界最奇怪的生物之一。时至今日，我们仍对它知之甚少。\n\n欧洲鳗出生在马尾藻海——一片难以确定边界的海洋，随后会去往欧洲海岸，再游入江河溪流栖居。平静地生活几十年后，当生物钟敲响，它会完成最后一次蜕变，踏上返回出生地的漫漫归途，在那里繁殖并死去。如果无法启程，它仿佛会等待到永恒，绝不变身。\n\n两千多年来，鳗鱼一直是一个谜。亚里士多德坚信它没有性别，弗洛伊德试图寻找它的生殖器却屡屡受挫。从没有人见过鳗鱼交配。\n\n神秘的鳗鱼令帕特里克着迷，与鳗鱼同样难解的还有他与父亲之间复杂微妙的关系。他在文学、艺术、宗教与科学史领域探寻，同时追忆与父亲一起捕鳗的童年时光。鳗鱼的不可知、它笨拙又浪漫的生命之旅，宛如隐喻，触发我们对生存与死亡、目标与意义的思考和领悟。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s33737440.jpg"
+      "封面图片": "./assets/covers/35167939.jpg"
     },
     {
       "id": "25891318",
@@ -2729,7 +2729,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.0",
       "评分人数": "9974",
       "内容简介": "拜占庭帝国的千年都城君士坦丁堡一直是西方世界的中心和基督教世界抵御伊斯兰世界的堡垒。但在1453年，奥斯曼帝国苏丹穆罕默德二世集中了伊斯兰世界的力量，力图攻克这座城市。1453年4月，八万名装备了新式武器的穆斯林战士开始攻城，而守城的是拜占庭末代皇帝君士坦丁堡十一世麾下的区区八千名基督徒士兵。在一连数周的炮火之后，城市轰然陷落，这一事件改变了世界，也标志着拜占庭的灭亡和中世纪世界的终结。\n\n《1453》背后的研究无可挑剔，它是一个讲述勇气、残忍、技术革新、忍耐和运气的生动而跌宕起伏的故事。但它同样是当下的故事，是将中东的对抗与现代世界连接起来的一系列事件中的关键链条。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s27467035.jpg"
+      "封面图片": "./assets/covers/25891318.jpg"
     },
     {
       "id": "35631904",
@@ -2752,7 +2752,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.2",
       "评分人数": "89",
       "内容简介": "【内容简介】\n\n1928年盛夏的一个炎热下午，全世界的国家领导人为了消除战争而齐聚巴黎。当天签署的《非战公约》几乎被世界上所有国家批准。于是，历史上第一次，战争在全世界成为非法行为。但承诺转瞬即逝。\n\n《反战之战》将《非战公约》置于自17世纪至今的漫长历史中，分析阐述了诸多律师、政治家和知识分子的思想，为我们解答了很多重要的历史问题和现实问题。反法同盟在处置拿破仑一世的问题上为何犹豫不决，到底面临怎样的法律困境？二战后为纳粹高级官员定罪为何困难重重，法理和情理究竟有何矛盾？人类如何从战争合理的认知阶段走到今天达成反战共识？置身于各国联系更为紧密的时代，我们应如何应对国际社会上的强权者和不合作者，法律会为我们提供怎样的保护？除了法律，我们还能求助于哪些手段？\n\n《反战之战》不仅是一部人类战争思想的演变史，也是一部让我们看清今日世界的实战指南。\n\n【媒体评价】\n\n就像《文明的冲突》和《历史的终结》一样，这部精彩的著作在几个世纪的历史背景下解释当今世界，展现了一种远见卓识。海瑟薇和夏皮罗的讲述既有文学创作的才华和理论分析的深度，也有历史研究的一丝不苟。它将改变你记忆20世纪历史和阅读21世纪新闻的方式。”——史蒂芬·平克，哈佛大学心理学教授，《人性中的善良天使》作者\n\n《反战之战》研究全面深入，行文优雅流畅，探讨了战争非法化的深刻影响。海瑟薇教授和夏皮罗教授通过叙述许多个人（其中有些人并不为大多数历史系学生所知晓）的经历来丰富他们的分析，这些人在这个故事中扮演了极其重要的角色。没有人能像海瑟薇和夏皮罗在这本书中所做的那样，将人和事有机融合，浑然一体。——保罗·肯尼迪，耶鲁大学历史学教授，《大国的兴衰》作者\n\n真正的独创性作品在政治史上是不常见的。《反战之战》是一部原创著作。书中的大部分主角都是法学教授，而这本书的作者也是两位法学教授，这让人感觉温馨愉悦。事实上，这不仅令人温馨愉悦，而且意义重大，因为《反战之战》的观点之一是思想很重要。海瑟薇和夏皮罗进一步认为，思想是由人类产生的，但这一点在思想史上没有得到充分承认，因为思想通常是以书与书对话的形式被呈现出来的。这是一个关于个人用思想改变世界的故事。——路易斯·梅南德，《纽约客》\n\n这是一本引人入胜又极具挑战性的书，它提出了当前非常重要的问题……考虑到当前世界形势，《反战之战》的出现恰逢其时。——玛格丽特·麦克米兰，《金融时报》\n\n《反战之战》提供了一项伟大的服务，说明法律如何能够有力地影响个体决策者。作为一部法律史，本书是不可或缺的。——《华盛顿邮报》\n\n这部发人深思、研究全面的著作带给我们的乐趣之一是，它挑战了我们的一贯认知，让我们看到，那些认为他们可以非法化战争的人并不是傻瓜，而是实用主义者，他们失败的构想在创造战后世界的过程中有着出人意料的影响……两位作者的研究既精致巧妙又细致入微。——《华尔街日报》\n\n耶鲁大学法学院教授斯科特·夏皮罗和乌娜·海瑟薇合著的《反战之战》是一本具有感染力、引人入胜和意义重大的著作。它值得所有认真研究外交事务的学生学习收藏，它有望突破传统智慧，促进健康辩论。——杰·温尼克，《1865年4月》和《1944年4月》作者，外交关系委员会驻会历史学家\n\n本书对国家暴力和战争的相关争论进行了研究性分析……它寓意丰富，在一个好战的时代，尤为如此。它契合学习现代历史和国际关系的学生的兴趣。——《柯克斯书评》\n\n对于经常被不屑一顾的1928年《非战公约》，海瑟薇和夏皮罗持根本性的修正主义观点，认为该协议标志着国家间战争终结的开始。《非战公约》激发了人权革命、经济制裁的运用以及致力于和平的国际组织的建立……作者自信且大胆地争辩说，自1945年以来，征服作为“改变边界的公认程序几乎消失了”……海瑟薇和夏皮罗的结论可以被辩论，但不容易被否定。——《出版人周刊》\n\n在这本出现及时、行文优雅、论证有力的著作中，乌娜·海瑟薇和斯科特·夏皮罗帮助我们理解了那些设想终结战争的个人在历史上的重大意义。当世界处于回归更早时代的风口浪尖时，《反战之战》号召维护全球法律和秩序。——伦敦大学学院法学教授菲利普·桑兹，《东西街》作者\n\n这是一部引人入胜的著作，它提供了一个新的框架来解释过去五个世纪的国际关系。——《图书馆杂志》，重点书评\n\n这是一本可读性极强的书，使原本可能是国际法理学的神秘问题变得通俗易懂且生动有趣。书中充满了奇闻轶事和丰富多彩的人物，其写作建立在对一些历史久远的档案进行非常认真搜寻的基础之上。本书有很多值得欣赏和思考的地方。——《卫报》\n\n这是2018年每个学生都应该读的一本书。——史蒂芬·平克，商业内幕人网站",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s34078893.jpg"
+      "封面图片": "./assets/covers/35631904.jpg"
     },
     {
       "id": "30851480",
@@ -2769,7 +2769,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "6.6",
       "评分人数": "36",
       "内容简介": "揭开神的王国和英雄世界的神秘面纱，古希腊神话是古希腊人对远古历史和对自然界斗争的一 种艺术回顾，是古希腊人在同大自然的长期斗争中，在对高 尚和文明的不懈追求中，创造出的一系列神的故事传说，反 映了古希腊人民在历史蒙味时期对神秘自然的执着追求，对 英雄神圣的信仰崇拜，对和平生活的热情向往以及对美好未 来的无限憧憬。本书收录了具代表性且深受人们喜爱的古希 腊神话故事，内容包括神的出世、神的家庭、神的创造、神 的战争、人类世界的起源、人神爱恋、人与神的合作和斗争 ，等等，内容经典、意蕴深刻、情节动人、趣味性强。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s33298539.jpg"
+      "封面图片": "./assets/covers/30851480.jpg"
     },
     {
       "id": "27106738",
@@ -2788,7 +2788,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.0",
       "评分人数": "708",
       "内容简介": "《见识丛书·年代四部曲》（套装共4册）是公认的“现代世界史的佳入门读物”，史学大师艾瑞克·霍布斯鲍姆历30余年而成的心血巨著，全面展现了从1789年至1991年的世界历史。已翻译成40多种语言，累计销量突破500万册，成为全球持续畅销的历史杰作。中文版新修订出版，英国前首相布莱尔、巴西前总统卢拉、意大利总统纳波利塔诺，爱德华·萨义德、尼尔·弗格森、托尼·朱特等欧美著名学者隆重推荐。 霍布斯鲍姆认为，学术不应只为少数人服务，因此历时几十年时间写就了这套面向普罗大众、从法国大革命一直讲述到苏联东欧社会主义集团的解体、时间跨度达三个世纪的“年代四部曲”。在学者热衷于为大众“制造困惑”的时代，霍布斯鲍姆始终直面现实，坚持明晰流畅的论述和优雅洗练的文风，以其宏大的历史视野和饶有趣味的写作方式，使这四部等级的学术著作能为普通大众接受，进而成为历史畅销书。 “年代四部曲”全面梳理由法国大革命至冷战结束的世界历史重要脉络，它们在全球史流行之前就叙述了全球范围的历史，不仅无所不包，而且具有全球意义。\n\n【编辑推荐】\n\n史学大师艾瑞克·霍布斯鲍姆最重要的代表作，历30余年而成的心血巨著。\n\n从1789年到1991年，从法国大革命到冷战结束，全面展现200多年以来现代世界的巨变进程，被赞誉为一套“无与伦比” “史诗般的” “殿堂级的历史杰作”。\n\n“深入的历史研究和卓越的叙事技巧”完美结合，简洁、生动、优雅并极具洞察力，普通读者了解现代世界史的...入门读物。\n\n翻译成40多种语言，累计销量突破500万册，成为全球持续畅销的经典名著。\n\n入选英国《卫报》“有史以来100部最伟大的非虚构图书”、中国出版集团“改革开放30年具有影响力的300本书”。\n\n【名人推荐】\n\n“年代四部曲”代表了“二战”后史学写作的高峰。很难想象除了霍布斯鲍姆，还有谁能持续写出如此高水平的著作。别人激动、喧闹，他冷静；别人愤怒、粗心，他讽刺挖苦、不偏不倚；别人求助于陈词滥调或体系时，他明察秋毫。霍布斯鲍姆写出这四本书这一成就最吸引人之处在于他贯穿始终的泰然自若，既非过于单纯，又不太过世故、愤世嫉俗，他恢复了人们对理性探究的信心。\n\n——爱德华·萨义德（Edward Said，《东方学》《知识分子论》作者）\n\n我认为霍布斯鲍姆“年代四部曲”直到今天仍是近现代世界史的...入门读物……霍布斯鲍姆的政治立场并没有妨碍他成为一位真正伟大的历史学家。他...的作品都具有非凡的知识广度和深度，优雅、明晰，同情小人物，喜欢讲述细节。我和他都认为，是经济变化塑造了现代世界。他站在工人和农民一边，我站在资产阶级一边，但这并不妨碍我们的友谊。\n\n——尼尔·弗格森（Niall Ferguson，《文明》《西方的衰落》作者）\n\n当代英语世界的历史学家中存在着“霍布斯鲍姆一代”。这个群体极具辨识度，他们大约在1959年到1975年进入历史学领域。虽说这些人对历史所下的许多结论与霍布斯鲍姆不再一样，然而正是霍布斯鲍姆的著作影响了他们的学术兴趣……而霍布斯鲍姆对我们的历史认知带来最持久影响的作品就是“年代四部曲”。\n\n——托尼·朱特（Tony Judt，《战后欧洲史》作者）\n\n进步主义政治史界的巨人，影响了整整一代政治和学术领袖。他的史学著作是...等级的学术作品，但又饱含了深刻的同情和正义感。他孜孜不倦地鼓动人们创造一个更美好的世界\n\n——托尼·布莱尔（Tony Blair，英国前首相）\n\n20世纪最清醒、深睿、无畏的思想家之一……他的影响，已经流淌进了巴西的血液。\n\n——卢拉（Luiz Inácio Lula da Silva，巴西前总统）\n\n一位杰出的历史学家，并对政治充满激情……一位把历史研究带出象牙之塔，带给普罗大众的伟大学者。\n\n——埃德·米利班德（Ed Miliband，英国工党领袖）\n\n当你合上霍布斯鲍姆的某一本书时，感觉就像结束了一场激烈的壁球比赛，筋疲力尽而又备受鼓舞。\n\n——戴维·S·兰德斯（David S. Landes，著名经济史学家、《国富国穷》作者）\n\n霍布斯鲍姆已经阐明了许多题材和论点，从17世纪到20世纪末、从印度到拉丁美洲，其涵盖面之广令人诧异。他拥有极富创意的心灵和罕见的天赋，得以构思出新的概念并加以宣扬，而且这些新概念对之后的历史创作影响深远。就史学方面的才智而言，学界无人可出其右。\n\n——凯斯·托马斯（Keith Thomas，著名学者）\n\n霍布斯鲍姆百科全书般的知识面要归因于他对一切事物的无尽好奇心，以及他在维也纳、柏林和伦敦这样的世界主义大都市的成长经历。\n\n——理查德·J·埃文斯（Richard J. Evans，著名历史学家、《第三帝国三部曲》作者）\n\n与这位瘦削的老者聊上几句，你就会被他带回波澜壮阔的革命与战争年代。再平庸的人，与霍布斯鲍姆相处过一段时间，都会变得睿智而心思缜密……他深谙畅销读物的写作技巧，那些以工业和帝国为主题的系列著作，让全球数以百万计的普通人获得了触摸历史的机会，这是那些不食人间烟火的学院学者做不到的。\n\n——特里斯特拉姆·亨特（Tristram Hunt，英国新锐历史学家、工党下院议员）\n\n霍布斯鲍姆是现代权威的史学家……他开创了对公众抗议、暴乱和起义的研究，他的著作对社会科学家和对历史学家一样重要。\n\n——《泰晤士报》（The Times）\n\n艾瑞克·霍布斯鲍姆可以说是英国最受尊敬的史学家，是极少数真正在国内外享有盛誉的史学家之一……无论是在对细枝末节的掌握上，还是在非凡的综合能力上，罕有其匹。\n\n——《卫报》（The Guardian）\n\n他似乎既从容不迫又熟练自在地徜徉于许多地点、主题和世纪之中，时而语带幽默并展现出难得一见的天分。尽管霍布斯鲍姆的特质与布罗代尔颇为不同，但他拥有同样宽阔的视野、深入的观察能力、朝气蓬勃的精神以及（不得不再度强调的）天分。\n\n——《世界报》（Le Monde）\n\n《极端的年代》是杰出的历史学家艾瑞克·霍布斯鲍姆对20世纪的个人洞见。这本极其值得阅读的好书视野开阔，学识渊博，激动人心。它回顾了人类灾难不断的20世纪兼具毁灭性和创造性的独特本质，并对未来提出了挑战性的预言。\n\n——《旁观者》（The Spectator）",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s29510539.jpg"
+      "封面图片": "./assets/covers/27106738.jpg"
     },
     {
       "id": "1958685",
@@ -2807,7 +2807,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.3",
       "评分人数": "3781",
       "内容简介": "享誉国际的意大利小说家、符号语言学权威、哲学家、历史学家、文学评论家和美学家翁贝托‧艾柯所编著的第一部图文书，佳评如潮，新书观点众所瞩目！已出版28种版本，风靡全球。《艾柯谈美丑》的另一本《丑的历史》：http://book.douban.com/subject/4579688/\n\n--------------------------------------\n\n《美的历史》(内頁：http://www.douban.com/photos/album/27039124/)是艾柯第一本“有图为证”的著作，全书做多层次布局，以主叙述带出源源不绝的绘画、雕刻作品，并长篇征引各时代的作家与哲学家，书前附上多页依时代顺序安排的图片对照表，使自古以来的对于“美”的观点之演变史一目了然。藉由本书，艾柯带我们一步步穿过许多历史时代，从古典以至当代，一路破除成见，打开新视角，来到今天的审美观：今天的审美世界是一个宽容、综纳百川的多神世界。\n\n这部极度精美、份量十足的作品，提供读者多层次的路径，包括流动的文字记叙、绘画与雕刻等丰富的例证，另也将每个时代的作家、哲学家所摘选以及比较的说明内容收录其中。对读者而言，此书犹如一部美的概念的指引地图，引人惊奇地走入一趟趟精采的旅行。\n\n本书图文并茂，全彩印刷。作者以独到见解，将美于时代洪流中抽丝剥茧，对美的发展历程做广博精辟的说明，广及文学、艺术等各方面，呈现方式具独特的质感、美感，俨然一部不可多得的收藏宝典。\n\n艾柯是一位思想敏捷、面面俱到的好向导，对许多随他踏上这趟审美之旅的读者，此书是既精采、又好用的“路线地图”。\n\n美是什么？什么是艺术？品味与时尚是什么？美是要冷静、理性观察的东西，还是会牵动灵魂的媒介？在艾柯的引领下，我们走上这么一趟引人入胜的审美之旅，探索多变的“美”观，从古希腊以降，直到今天，并研析历世与美相伴相随的价值理念。除了密切检视视觉艺术，并援引各个时代的文学作品，提供印证，他还扩大探讨范围，考虑爱情、女性的角色，以及丑、残忍，甚至魔性等课题。\n\n本书将美的历史脉络呈现，它不仅是一部艺术的历史或美学史，而且是作者融合两者为美的概念所下的定义，涵括的范围自古典到现代。书中论及的美包含绘画、雕刻、建筑、电影、摄影、装置艺术以及文学等，领域广泛，包罗万象，以使广大的读者都能信服。\n\n-------------------------------------------\n\n台湾联经出版公司发行人林载爵的推荐语：\n\n贡布里希的《艺术的故事》，单纯由艺术史角度着眼；艾柯的学问取向广阔，讨论不只限于艺术史，更旁征博引，从文学史、文学批评史、哲学思想史寻找他山之石借鉴，在美学之外借助相关知识做讨论的切入点。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s2176958.jpg"
+      "封面图片": "./assets/covers/1958685.jpg"
     },
     {
       "id": "6890903",
@@ -2827,7 +2827,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.1",
       "评分人数": "599",
       "内容简介": "《美的历史》是全才大师艾柯历时45年的经典巨献，已被译成28种语言，风靡全球。《美的历史》不从任何先入为主的美学出发，而是综观数千年来西方社会视为美的事物，做多层次布局，呈现美的脉络，引领审美之旅。全书以主叙述带出源源不绝的绘画、雕刻作品，并长篇征引各时代的作家与哲学家，书前附上多页依时代顺序安排的图片对照表，使自古以来的对于“美”的观点之演变史一目了然。作者以独到见解，将美于时代洪流中抽丝剥茧，对美的发展历程做广博精辟的说明，广及文学、艺术等各方面，呈现方式具独特的质感、美感，随处展现着美学大师的真知灼见，俨然一部不可多得的收藏宝典。\n\n这部极度精美、份量十足的作品，提供读者多层次的路径，包括流动的文字记叙、绘画与雕刻等丰富的例证，另也将每个时代的作家、哲学家所摘选以及比较的说明内容收录其中。对读者而言，此书犹如一部美的概念的指引地图，引人惊奇地走入一趟趟精采的旅行。\n\n美是什么？什么是艺术？品味与时尚是什么？美是要冷静、理性观察的东西，还是会牵动灵魂的媒介？在艾柯的引领下，我们走上这么一趟引人入胜的审美之旅，探索多变的“美”观，从古希腊以降，直到今天，并研析历世与美相伴相随的价值理念。除了密切检视视觉艺术，并援引各个时代的文学作品，提供印证，他还扩大探讨范围，考虑爱情、女性的角色，以及丑、残忍，甚至魔性等课题。\n\n《美的历史》将美的历史脉络呈现，它不仅是一部艺术的历史或美学史，而且是作者融合两者为美的概念所下的定义，涵括的范围自古典到现代。书中论及的美包含绘画、雕刻、建筑、电影、摄影、装置艺术以及文学等，领域广泛，包罗万象，以使广大的读者都能信服。\n\n精彩评论：\n\n《美的历史》是一本完美的书，一部“美”的百科全书。全书编得既美，写得又好。当世唯有艾柯的渊博和深能成此手笔。\n\n——亚马逊网\n\n贡布里希的《美的历史》，单纯由艺术史角度着眼；艾柯的学问取向广阔，讨论不只限于艺术史，更旁征博引，从文学史、文学批评史、哲学思想史寻找他山之石借鉴，在美学之外借助相关知识做讨论的切入点。\n\n——台湾联经出版公司发行人林载爵\n\n这不是一本艺术史、文学史或音乐史，谈的纯粹是放诸古今中外皆准的有关“美”的历史。内容大部份皆由艺术世界取材的原因，艾柯解释是因为较诸贩夫走卒创造出来的美丽事物，艺术家创造的作品较多能够留存于后世，而且他们也留下了较多的只字片语，解释自己认为哪些东西是美的。艾柯认为，美的观念向来并非绝对、颠扑不破的，因此花了不少篇幅将不同的美学观念并陈，探讨相异的美的模型如何并存于同一时期，以及其他模型如何穿越不同的时期彼此呼应。艾柯坦承自己对于美的观点，可能会招致相对主义之讥，仿佛认为美会随着不同的历史时期与文化更迭而有所改变，而这正是他的本意。至于在千姿百态的变化之下，美的差异是否有万流归宗的统一模式，艾柯则很酷地下了一个结论：“只读者自便。”\n\n——台湾诚品书店推荐",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s6972335.jpg"
+      "封面图片": "./assets/covers/6890903.jpg"
     },
     {
       "id": "4579688",
@@ -2847,7 +2847,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.4",
       "评分人数": "3413",
       "内容简介": "本书以图文资料与独特的见解深度剖析世人对“丑”的成见，颠覆传统审美观，形成一部异彩纷呈的审丑观念史。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s4231402.jpg"
+      "封面图片": "./assets/covers/4579688.jpg"
     },
     {
       "id": "27603635",
@@ -2867,7 +2867,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.3",
       "评分人数": "942",
       "内容简介": "《人类的故事》是房龙所著的一部极具现场感的人类成长史，也是通俗写史的开山之作。房龙以幽默、流畅的笔法，将纷繁复杂的人类历史讲述成了一个跌宕起伏、荡气回肠的\"人类成长故事\"。从古埃及文明的诞生到罗马帝国的衰落，从城市的萌芽到机器对人类的奴役，从文艺复兴到科技进步，从耶稣受难到宗教纷争，从地理大发现到世界性的政治、经济变革等，讲述了人类的诞生、童年、成长、无知、求索、苦痛、斗争、进步……全书以全景加特写式的通俗笔法，娓娓道来，是一部能同时给人带来见识、趣味和情怀的经典之作。《人类的故事》自成书以来，被译成30多种文字，成为亿万人的历史通识阅读枕边书。\n\n本书既是一部极具现场感的人类成长史，也将镜头贴近局部和具体的英雄或普通人，讲述了具体人物的困境、情绪和选择，这其中有犹太人的漫游故事、大航海时代的探险故事、希波战争的复仇故事、马丁路德的信仰故事、埃及艳后的爱情故事、宗教迫害的恐怖故事、基督耶稣的救赎故事等，既引人入胜，更令人在读完后大涨见识、趣味和情怀；\n\n房龙着意选择了那些真正影响了人类历史进程的线索、人物、事件，配之以奔腾跌宕的笔法和栩栩如生的细节描述，使读者如亲临历史现场，获得对历史的真正\"感受\"，而非仅仅是\"知识\"。",
-      "封面图片": "https://img2.doubanio.com/view/subject/s/public/s29920971.jpg"
+      "封面图片": "./assets/covers/27603635.jpg"
     },
     {
       "id": "25985021",
@@ -2887,7 +2887,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.1",
       "评分人数": "215002",
       "内容简介": "十万年前，地球上至少有六种不同的人\n\n但今日，世界舞台为什么只剩下了我们自己？\n\n从只能啃食虎狼吃剩的残骨的猿人，到跃居食物链顶端的智人，\n\n从雪维洞穴壁上的原始人手印，到阿姆斯壮踩上月球的脚印，\n\n从认知革命、农业革命，到科学革命、生物科技革命，\n\n我们如何登上世界舞台成为万物之灵的？\n\n从公元前1776年的《汉摩拉比法典》，到1776年的美国独立宣言，\n\n从帝国主义、资本主义，到自由主义、消费主义，\n\n从兽欲，到物欲，从兽性、人性，到神性，\n\n我们了解自己吗？我们过得更快乐吗？\n\n我们究竟希望自己得到什么、变成什么？\n\n------------------------------------------------------------------------------------------------\n\n【编辑推荐】\n\n1、由书改变而成的人类简史课程风靡全球，成为希伯来大学最受欢迎课程 Coursera最受欢迎课程 ，mooc最受欢迎课程。学界和大众都一致认可，戴蒙德推荐。\n\n2、一大开创性：打通文字发明前后历史的界限。\n\n文字发明之前的年代，是生物学家、考古学家的专长；文字发明之后的年代，是历史学家、政治学家和经济学家的专长；\n\n许多著名史家的作品，欠缺遗传学或生态学的视野，如何让这两大段历史之间没有断层，能够有一以贯之的宏观解读？\n\n本书不同于《枪炮、病菌与钢铁》从生物与环境的角度看人类社会的发展，也不同于麦克尼尔的《世界史》以文明为单位绘制的人类文明交织的世界。 他笔下的历史，在科学中有深沉的人文关怀。\n\n3、填补传统人类史的三大鸿沟：\n\n历史观与哲学观之间的鸿沟（提供有史实根据的深刻哲学思考）；人类和生态系统之间的鸿沟（作者多从生态来思考，而不是只讲人类的利益）；集体和个人之间的鸿沟（检视历史事件如何影响到当时一般人的生活）。\n\n4、四大部分描述人类大历史：\n\n7万年前的大脑认知革命（有能力谈八卦，想象不存在的事物，让陌生人开始合作、建立组织）\n\n1.2万年前的农业革命（让我们渴求更多、生产更多，分工分职愈趋细腻）、\n\n500年前的科学革命（带来快速进步，让我们拥有上帝的力量，也带来毁灭）\n\n全球大一统、人类大融合的关键因素——金钱、帝国、宗教\n\n5、一部个人幸福探索之书。\n\n用通俗的语言和新鲜的视角，将个体的幸福放在人类发展的过程中审视，不再错过历史中最关键、最有意思的部分。涵盖了生物学，人类学，哲学，心理学，艺术，文学，伦理学等众多领域。涉及幸福，生命的意义等众多话题，有人说这是一部个人幸福探索之书。\n\n6、一部“瘦身版”人类简史。\n\n如果说给我一本书，不到五百页，没有一堆令人晕头转向的年份、人名、地名、称号，就能涵盖了人类如何崛起、影响现代生活甚巨的资本主义、一神教、自由人文主义、基因工程如何兴盛的人类历史重大脉络……这是仅有的一部！\n\n7、一部引发多国版权大战的神秘大书。\n\n获得波兰斯基人文学科创造力与独创性奖。 100周蝉联以色列畅销书排行榜第一，在英国，9家出版商疯狂竞价。 23个国家竞相购买版权。台湾上市一周，金石堂、诚品历史类畅销书榜第一 ，诚品总榜第八，西班牙上市两周总榜第一。\n\n------------------------------------------------------------------------------------------------\n\n【内容简介】\n\n《人类简史：从动物到上帝》是以色列新锐历史学家的一部重磅作品。从十万年前有生命迹象开始到21世纪资本、科技交织的人类发展史。十万年前，地球上至少有六个人种，为何今天却只剩下了我们自己？我们曾经只是非洲角落一个毫不起眼的族群，对地球上生态的影响力和萤火虫、猩猩或者水母相差无几。为何我们能登上生物链的顶端，最终成为地球的主宰？\n\n从认知革命、农业革命到科学革命，我们真的了解自己吗？我们过得更加快乐吗？我们知道金钱和宗教从何而来，为何产生吗？人类创建的帝国为何一个个衰亡又兴起？为什么地球上几乎每一个社会都有男尊女卑的观念？为何一神教成为最为广泛接受的宗教？科学和资本主义如何成为现代社会最重要的信条？理清影响人类发展的重大脉络，挖掘人类文化、宗教、法律、国家、信贷等产生的根源。这是一部宏大的人类简史，更见微知著、以小写大，让人类重新审视自己。\n\n------------------------------------------------------------------------------------------------\n\n【各界评论】\n\n《人类简史：从动物到上帝》为什么能够在国际畅销书榜上爆冲？原因很简单，它处理的是历史的大问题、现代世界的大问题，而且，它的写作风格是刻骨铭心的生动。你会爱上它！\n\n——普利策奖得主  《枪炮、病菌与钢铁》作者戴蒙德\n\n这是此类大历史中最好的一本：规模宏大但绝非泛泛而谈；具有时代性又不花哨，观念惊世骇俗但绝不是个简单的反对者。每个人都能在书里找到一部分和另外的人开始讨论，但是弄清楚是哪部分、为什么，对我们都有好处。\n\n——牛津大学历史学院院长 斯蒂文·刚尼\n\n我拿起这本《人类简史》立刻“着道”了——拿起了就放不下，几乎一口气读完。吸引力主要来自作者才思的旷达敏捷，还有译者文笔的生动晓畅，而书中屡屡提及中国的相关史实，也能让人感到一种说不出的亲切，好像自己也被融入其中，读来欲罢不能。\n\n——北京大学历史系教授 高毅\n\n《人类简史》的目的不是传授人类考古学的所有研究成果，而是提供一种看历史的视角，一种全局的观点。当你不再执着于科学、政治或宗教等某一个领域的发展过程，而是关注人类社会的整体演变，观察这些领域之间的相互作用，你会感到你脑海中零碎的历史知识忽然像拼图一样各就各位，构成一幅宏大的图景，这样的视角非常新鲜。\n\n——果壳网 姬十三\n\n读完这本书，有一种跟着人类一同走过十万年的感觉！\n\n——读者\n\n这本书如果要用“宏伟史诗”来形容一点也不过分，其中包含了很多学科的内容，例如考古学、生物学、物理学、经济学、宗教、社会学甚至计算机科学等等。书里里面的大部分观点都是从不同的角度进行介绍，其中很多都是经无数人严格验证过的，讲师很多时候仅仅是通过自己的表达希望尽量客观地介绍一些内容，至于每个人怎么理解并没有统一的标准了。\n\n——读者\n\n超级好的课程，付费都坚持下来了，观点独特，从来没想到能从这个角度理解我们人类自己。\n\n——读者",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s27814883.jpg"
+      "封面图片": "./assets/covers/25985021.jpg"
     },
     {
       "id": "35759868",
@@ -2899,7 +2899,7 @@ window.BOOK_CATEGORY_DATA = {
       "页数": "364",
       "评分人数": "评价人数不足",
       "内容简介": "本书包括“马克思、恩格斯和世界古代史”“古代埃及”“古代西亚”“古代南亚”“古代希腊”“古代罗马”“世界古代史文明史工具书导读”共7章，对几大古代区域文明的政治、经济、社会、文化等方面作了介绍，可为读者尤其是相关专业本科生、研究生学习世界古代文明史提供入门性的指导。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s34767894.jpg"
+      "封面图片": "./assets/covers/35759868.jpg"
     },
     {
       "id": "30259712",
@@ -2916,7 +2916,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.6",
       "评分人数": "69",
       "内容简介": "《震撼世界的十天》是美国著名记者约翰・里德（John Reed）亲历俄国“十月革命”的经典纪实。本书真实地记述了作者在俄国十月革命爆发前夕至十月革命胜利的十几天(1917年11月初至11月18日)里，目睹的“一段剧变的历史”。\n\n在这段“震撼世界”的伟大日子里，约翰・里德怀着极大的革命热情，秉持记者的职业操守，积极活动在剧烈动荡的彼得格勒，日夜穿梭于广大革命群众之中，频繁往来于各革命团体、政治党派的聚集地，参加各种群众团体和党派的会议，并不断地出入冬宫、玛丽亚宫和斯莫尔尼学院，也走访、聆听不同党派代表人物关于革命时局的演讲、评论，同时搜集保存了十月革命前后数月俄国乃至欧洲各种政治倾向的报纸，以及宣言、法令、文告、秘密文件等。\n\n在这样的基础上，作者将他亲身观察到和经历过的十月革命的历史事件一一实录，并详细描述了革命进程中种种微妙的变化，阐述了十月革命最终胜利的历史必然，为后人留下了经久不衰的珍贵遗产。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s33932919.jpg"
+      "封面图片": "./assets/covers/30259712.jpg"
     },
     {
       "id": "34888333",
@@ -2936,7 +2936,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.0",
       "评分人数": "714",
       "内容简介": "★ 北欧神话开山之作，茅盾传世经典\n\n本书初版于1930年，是国内zui早介绍北欧神话的书。作者茅盾不仅是一代文学巨匠，更是现代神话学的奠基人与开拓者，被誉为“中国现代首位神话学家”。90年来，国人关于北欧神话的知识，大多源于此书。\n\n★ 高度贴合原著，保留时代特色\n\n本书以1930年世界书局版《北欧神话ABC》为底本精校而成，除改繁体竖排为简体横排，以及纠正部分文字差错外，基本忠实保留了茅盾极富时代特色的译法，如将“奥丁”译为“奥定”，“洛基”译为“洛克”等。\n\n★北欧文学泰斗石琴娥长序推荐\n\n社科院北欧文学专家、著名翻译家，曾获得国家图书奖提名、“国家安徒生大奖”等众多奖项的石琴娥教授特意为本书再版创作长序，详述北欧神话的缘起、传播及其对流行文化的影响。\n\n★不止于讲故事，更是一本长知识的北欧神话科普书\n\n茅盾先生以文学的笔法，在书中为我们讲述了诸神、精灵、矮人、巨人们相爱相杀的故事，更以神话学者视角，穿插讲述了对诸神起源及其行为动机的分析。如他分析洛基为灶火的人格化，因为灶火既能造福，又能为祸，所以洛基本身兼具善恶两种性格。而他设计杀死光明神，也只是因为自然的光明遮蔽了灶火的微光。\n\n★新锐插画师历时一年创作12幅彩插，完美再现诸神之境\n\n从邪恶的六头巨人，到洛基三个妖魔的子孙：中庭巨蟒耶梦加得、巨狼芬利斯、死神赫尔，再到英气逼人的雷神、亦正亦邪的洛基，看得见的诸神纷争，看不尽的故事与传说。\n\n北欧神话是西方文学与艺术的重要源泉，茅盾认为“世界各地半开化民族亦有其神话，但与希腊神话、北欧神话比较，则不啻小巫之于大巫”，由此可见北欧神话之地位与重要性。\n\n本书简要而系统地叙述北欧神话故事，从天地初开到诸神、巨人、精灵、侏儒等各族的诞生，再到诸神如何因纵容洛基（克）一步步犯下错误，最终导致诸神黄昏的降临。本书核心部分，在用通俗晓畅的语言，讲述北欧神话故事，并塑造了诸神群像。智慧英武的诸神之父奥定（丁），战无不胜、嫉恶如仇的雷神菽（托）尔，诡计多端、神性复杂的火与恶之神洛基，皆通过作者的妙笔跃然纸上。此外，作者又以一个神话学者的视角，在故事中穿插了对北欧神话起源以及诸神行为动机的客观阐释与分析。读者们不仅可在北欧神话跌宕起伏、精彩绝伦的故事中畅游，亦可跟随叙事者的视角探寻故事背后所蕴藏的北欧先民古老的世界观与人生观。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s33727422.jpg"
+      "封面图片": "./assets/covers/34888333.jpg"
     },
     {
       "id": "30256611",
@@ -2953,7 +2953,7 @@ window.BOOK_CATEGORY_DATA = {
       "定价": "36.00",
       "评分人数": "评价人数不足",
       "内容简介": "《神曲》是一部长篇史诗，三部曲的每部各有三十三篇，加上作为全书序曲的首篇，共一百篇。这种匀称的结构是建立在中古关于数字的神秘意义和象征性的概念上的。\n\n从寓意来看，这个虚构的神奇旅行则是灵魂的进修历程。维吉尔象征理性和哲学，她引导但丁游历地狱和净界，象征人凭借理性和哲学认识罪恶的后果，从而悔过自新；贝雅特丽齐象征信仰和神学，她引导但丁游历天堂，最后见到上帝，象征人通过信仰的途径和神学的启迪，认识永恒真理，达到终极目的，获得来世永生的幸福。但丁以个人灵魂的进修历程为范例，启发人们对自己的思想行动进行反省，对黑暗的社会现实密切注意，来促使意大利在政治上、道德上复兴的希望早日实现。\n\n围绕着这个中心思想，《神曲》广泛地反映了现实，给了中古文化以艺术性的总结，同时也现出文艺复兴时代人文主义思想的曙光。因此，恩格斯称他“是中世纪的最后一位诗人，同时又是新时代的最初一位诗人”。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s29801459.jpg"
+      "封面图片": "./assets/covers/30256611.jpg"
     },
     {
       "id": "35225401",
@@ -2969,7 +2969,7 @@ window.BOOK_CATEGORY_DATA = {
       "定价": "40 元",
       "评分人数": "评价人数不足",
       "内容简介": "“什么是数学？”，这是很多人一定思考过的问题.20世纪著名的数学家R·柯朗对此作出了系统、深刻而又生动的阐述.在《什么是数学》一书中，柯朗针对至关重要的数学概念展开循序渐进、深入浅出的讲解分析，构思合理严谨，行文自然流畅，令人称奇；同时，因其富于趣味，一直以来深深地吸引着众多读者.该书的一大写作特点是在论述概念形成过程，以及在各章节小结、衔接处，常采用“问题串”的呈现模式，其中很多练习题、习题等给读者提供了丰富的思考空间，供读者在解题的过程中进一步体会和理解作者的思想方法.但该书只列出了问题，而没有提供答案及解题过程，为更好地帮助读者借由此书领略数学的魅力，我们编写了相应的习题解析.在编写习题解析的过程中，我们更加深刻地领会了《什么是数学》一书的精妙体系和独到讲解，由衷地认为这是一本受众面极广、非同常规教科书的鸿篇巨著.\n\n如果你是一名小学生，本书第一章第一节、第一章补充等内容可以帮助你获得对自然数全新的理解和认知；\n\n如果你是一名初中生，本书第二章第一至第三节、第三章等，可以使你更全面、深入地认识学校学习的数系的扩充和几何作图等知识；\n\n如果你是一名高中生，你会发现，本书前8章（除第五章拓扑学外）的很多内容都能理解（至少部分理解），很多习题都可以尝试着解决.其中导数是高中数学学习的重点内容，本书从极限概念出发，详细推导了很多在高中教材中被一带而过的公式、定理和性质，这可能是你非常渴望的“知其所以然”的助力；\n\n如果你是一名大学生，本书中的大部分知识可能已经学习过，但逻辑性、严谨性如何？例如微积分这一章节，在完成本章习题的过程中，是否深刻体会到严密的基础理论在数学领域中的普遍意义？同时，对于微积分在众多相关学科的价值是否进行了重新思考？比如天文学、力学、工程学、经济学等.\n\n如果你是一名研究生，也许你会为本书的巧妙构思而深感震撼！本书由一个个具体的例子出发，由浅入深，对新概念的把握丝丝入扣，不仅讲述了定理是什么，而且详细分析了定理的成因，以及定理的应用.书中十分注重各知识点的衔接，以及不同章节知识点的衔接，从而形成完整的知识体系，为建立数学思维框架提供雏形.与此同时，本书在彰显数学魅力的同时具备可读性强的特点，阅读过后思维将会得到很大程度的提升.\n\n对于数学专业水准更高的读者，或者从事专业数学研究的学者，第九章及附录中的问题将为你提供了自由而丰富的思考空间.\n\n如果你是一名数学教师，在帮助学生掌握知识的同时，更要注重学生思维能力的培养，帮助学生初步掌握基本的数学思想方法.通过阅读本书可发现作者将数学知识体系进行了重新整合，具备极强的逻辑性.书中的许多经典问题，以及高屋建瓴的思想也非常值得学习，因此本书给老师提供了一个很好的教学参考.\n\n在解析书中问题的过程中，我们深刻感受到其中严密的逻辑基础理论，其独特的知识体系体现出了数学文化的丰富与宝贵.这是无法替代的，也是非常有趣的.这离不开作者与译者的功劳，其实在阅读此书的过程中，也能够充分感受到作者与译者对于数学本质的认识与理解，以及他们极高的理论水平.同时，读者也可以感受到本书其实是献给大众的数学读物，为志同道合的读者提供思考的平台，使之成为为数学爱好者提供无限乐趣的源泉.\n\n需要跟大家说明以下3点：\n\n一、 在解答习题的过程中，我们坚持了本书的译者张饴慈教授的建议，以书中的理论体系为基础解决问题.书中的某些问题，如第57页的习题、第210页的（7）题等，可以找到本书理论体系之外的更简单的解决方法，但是我们坚持基于本书的理论框架解决问题，因为习题解析是基于《什么是数学》而存在的，而精选这些习题的初衷就是想让读者更加深刻地理解每一个概念和方法的原理、价值、应用、拓展以及与其他概念方法的联系，所以这些问题并不是孤立存在的，它们与书中关于概念方法的论述应被视为一个整体.我们建议读者在针对习题进行解析的过程中尽量遵从《什么是数学》的理论体系，尽量用书中提供的概念方法和逻辑顺序解决问题.仅从理解新知和思维训练的角度来说，研读此书并进行相关训练也是大有裨益的.\n\n二、 本习题集并未给出全部问题的解析过程，存在极少部分习题未给出解析过程，主要原因分为以下3类：\n\n1. 针对书中已经直接或间接给出解析过程的习题，在习题集中不再重复赘述，如第99页习题、第555页43题等；\n\n2. 书中部分较为高深的问题，在经过大量的尝试之后，我们仍未能给出简洁明了并遵从本书理论体系的解析过程，如第218页习题、第555页49题等，这部分习题就留给读者作进一步的思考和探究吧；\n\n3. 书中针对个别问题的描述较为模糊，我们未予以解答，如第490页习题.\n\n三、 我们是基于自身对《什么是数学》的理解为习题提供解析的，对于有些问题可能尚未做出完美的解答，我们期待能以此书为缘结交更多的数学爱好者，共同研究，不断完善，促使更多的数学爱好者了解数学，感悟数学的魅力，享受与大师隔空对话、沟通的震撼与愉悦.\n\n特别感谢数学家柯朗对一代代读者在思维和方法层面的引领，感谢张饴慈教授把这样的世界级巨著介绍给中国的数学爱好者！在阅读和解题的过程中，我们的团队感受到自身数学素养、能力的提高，对于数学本质的理解也在逐步加深，但更为重要的是，我们仿佛走进了大师的灵魂世界并得以与其进行思想上的触碰.这种感觉令我们心潮澎湃、激情满怀！\n\n参与本书写作的是北京市第二十二中学和长春吉大附中力旺实验中学的两个年轻的教师团队.以李玙、潘宇老师为代表的一批高学历、高素质的青年教师，热爱数学教育，对数学研究饱含热情，他们严谨负责的治学态度和辛勤的付出，充分体现在本书的编写过程中.",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s33738297.jpg"
+      "封面图片": "./assets/covers/35225401.jpg"
     },
     {
       "id": "35383731",
@@ -2988,7 +2988,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.3",
       "评分人数": "574",
       "内容简介": "本书从数学、哲学、计算机科学、神经科学和人工智能等角度，全面阐述了贝叶斯理论背后的基础知识、思维方式和丰富哲理。贝叶斯定理一旦与算法相结合，就不再是一套枯燥的数学理论或认识论，而变成了应用广泛的知识宝库，催生了众多现代数学定理，以及令人称道的实践成果。作者一改传统的数学探讨模式，不仅展现了贝叶斯理论背后的科学思想，还阐述了它与人类思维之间的深刻关系，并对各相关领域和人工智能的发展进行了展望。本书适合喜爱数学、算法、机器学习、人工智能、逻辑学和哲学的大众读者，读者无须过多数学和算法知识就能读懂。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s33843085.jpg"
+      "封面图片": "./assets/covers/35383731.jpg"
     },
     {
       "id": "2060491",
@@ -3014,7 +3014,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.0",
       "评分人数": "2968",
       "内容简介": "《逻辑学导论(第11版》所选用的有关政治、哲学、科学及多领域当代论争的鲜活的论证实例，展示了许多严肃的学者和思想家在解决实际问题的过程中对逻辑原理的应用，使逻辑学习既内容充盈又富有生活气息。书中也选用了许多谬误性论证作为例示与辨谬训练资料，以使学生明了对逻辑法则的忽视或误用如何使论证走入误区。书中也有少量论辩推理的例子，这些例子是为说明逻辑原理而特别编制的，但使本书卓尔不凡的，还是那些精心选自许多不同领域文献的丰富多彩的新颖实例。",
-      "封面图片": "https://img2.doubanio.com/view/subject/s/public/s2525751.jpg"
+      "封面图片": "./assets/covers/2060491.jpg"
     },
     {
       "id": "37016016",
@@ -3037,7 +3037,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.8",
       "评分人数": "23",
       "内容简介": "批判性思维是国外高校普遍开设的基础课程，也是现代人才必备的思维素养。本书是美国高校课堂广泛使用的批判性思维经典教材，也是备受推崇的思维诊断与修炼之书，已重版6次。本书内容翔实，知识讲解系统全面。四位作者用通俗易懂的语言和经过实践证明的方法，帮助读者弥合日常文化和批判性思维之间的鸿沟，培养读者在学习、生活中运用批判性思维的习惯。第7版主要更新内容：&middot;扩充了批判性思维的基本概念；&middot;更新了练习、例句及素材；&middot;新增了对两大逻辑谬误——合成谬误与分解谬误——的解析；&middot;紧跟时代步伐，全面修订了关于媒体和广告的章节。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s34945443.jpg"
+      "封面图片": "./assets/covers/37016016.jpg"
     },
     {
       "id": "35193606",
@@ -3057,7 +3057,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.3",
       "评分人数": "215",
       "内容简介": "本书讲解概率论的基础内容, 包括组合分析、概率论公理、条件概率、离散型随机变量、连续型随机变量、随机变量的联合分布、期望的性质、极限定理和模拟等, 内容丰富, 通俗易懂, 并配有丰富的例子和大量习题, 涉及物理学、生物学、化学、遗传学、博弈论、经济学等多方面的应用，极具启发性。",
-      "封面图片": "https://img2.doubanio.com/view/subject/s/public/s33723911.jpg"
+      "封面图片": "./assets/covers/35193606.jpg"
     },
     {
       "id": "35172355",
@@ -3077,7 +3077,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.3",
       "评分人数": "194",
       "内容简介": "本书是《普林斯顿××读本》系列图书的第二本，该套书的论述风格友好、平易近人，通过作者与读者之间的互动对话和相关示例非常清晰地阐明了数学概念，提供了命题和定量逻辑方面的知识，可以使读者精通自己的数学思路。本书讲解了学习实分析的基础内容，包括基本的数学与逻辑、实数、集合、拓扑、序列等．作者以通俗易懂且略带幽默的口吻讲述了两步式求解方法：首先展示如何回溯到求解问题的关键，之后说明如何严谨规范地写下解题过程。书中还给出了丰富的示例，帮助学生巩固所学知识。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s33702157.jpg"
+      "封面图片": "./assets/covers/35172355.jpg"
     },
     {
       "id": "26899701",
@@ -3101,7 +3101,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.6",
       "评分人数": "1620",
       "内容简介": "本书阐述了求解微积分的技巧，详细讲解了微积分基础、极限、连续、微分、导数的应用、积分、无穷级数、泰勒级数与幂级数等内容，旨在教会读者如何思考问题，从而找到解题所需的知识点，着重训练大家自己解答问题的能力。\n\n本书适用于大学低年级学生、高中高年级学生、想学习微积分的数学爱好者以及广大数学教师。本书既可作为教材、习题集，也可作为学习指南，同时还有利于教师备课。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s29114473.jpg"
+      "封面图片": "./assets/covers/26899701.jpg"
     },
     {
       "id": "10455982",
@@ -3128,7 +3128,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.4",
       "评分人数": "1542",
       "内容简介": "本书是世界著名的数学科普读物，它搜集了许多经典的数学珍品，对整个数学领域中的基本概念与方法，做了精深而生动的阐述。无论是数学专业人士，或是愿意作数学思考者都可以阅读本书。特别对中学数学教师、大学生和高中生，本书是一本极好的参考书。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s27168352.jpg"
+      "封面图片": "./assets/covers/10455982.jpg"
     },
     {
       "id": "36294447",
@@ -3148,7 +3148,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.1",
       "评分人数": "94",
       "内容简介": "沃尔夫奖、高斯奖得主、现代随机分析之父，日本数学大家伊藤清\n\n讲述数学思想与方法，激发关于概率与世界的深层，呈现日本数学发展的另类线索\n\n◎ 编辑推荐\n\n·沃尔夫奖、高斯奖得主，现代随机分析之父，日本数学大家伊藤清，讲述数学思想与方法\n\n·展现数学大师学习数学、走上数学研究道路的经历，以及对数学的科学性与艺术性思考\n\n·收录影响世界的数学成果“伊藤引理”“伊藤积分”的构想过程\n\n◎ 内容简介\n\n本书为日本数学家、沃尔夫奖、高斯奖、京都奖得主伊藤清的数学思想文集。书中梳理了他学习数学、走上数学研究道路的经历，收录了他关于“数学与科学”“直观与逻辑”“纯粹数学与应用数学”“数学的科学性与艺术性”等方面的思考，同时也完整记录了他创立著名的“伊藤引理”的过程与感悟。本书是了解伊藤清数学思想的珍贵资料，也可作为了解概率论相关概念与发展的读本。本书适合数学专业的大学师生阅读，也可作为一般读者了解数学的启蒙读物。\n\n◎ 媒体推荐\n\n伊藤清先生是现代概率论研究的开拓者之一，伊藤积分、伊藤公式已经成为随机分析的根基，伊藤之名也广为人知。2006年，他获得了国际数学家大会（ICM）的首届高斯奖。此外，他还获得了沃尔夫奖、日本文化勋章、京都奖等多项荣誉。\n\n——日本数学会\n\n“伊藤引理”大概是目前世界上应用最为广泛的数学成果。这一成果，其重要性好比微积分基本定理之于古典分析，是随机分析中必不可少之物。\n\n——美国国家科学院",
-      "封面图片": "https://img2.doubanio.com/view/subject/s/public/s34457131.jpg"
+      "封面图片": "./assets/covers/36294447.jpg"
     },
     {
       "id": "36379937",
@@ -3168,7 +3168,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.0",
       "评分人数": "1169",
       "内容简介": "法国数学学会“达朗贝尔奖”得主新作\n\n数学，是理解世界本质与万物关联的工具\n\n◎ 编辑推荐\n\n生活的故事 / 思考的乐趣 / 奇妙的亮点\n\n现实中的挑战像一场突如其来的大雨，让你不知所措吗？\n\n数学如同一把神奇的雨伞，让我们鼓起勇气走向真相。\n\n·学会“解决问题”，体会理解世界的乐趣\n\n什么是数感？大小、多少、高矮，该如何正确度量？\n\n我们眼中的世界是“乘法”的还是“加法”的？\n\n如何合理地论证自己的观点？\n\n·发现生活中的数学，探索世界运转的齿轮\n\n引力、维度、时空、黑洞，人类如何认知、探索这些基本而伟大的概念？\n\n牛顿、伽利略、爱因斯坦、本福特、闵可夫斯基……科学巨人们伟大在哪里？\n\n◎ 书籍推荐\n\n撑开数学之伞，享受思考之趣。\n\n——汤涛院士\n\n作者把数学比喻成一把理解世界的雨伞，实在是太贴切了。不敢探索世界的人，就没办法体会思考的乐趣；而不了解数学思考方法的人，就没办法看得更深远。\n\n——范兴亚，北京四中数学社\n\n幽默、严谨、想象、悬念，全都在这段从超市开始的快乐旅程中。这本书带我们走向无穷和更广阔的世界。易懂的例子、明确的解释、普遍的规律——我从来没有这么喜欢过数学！\n\n——亚马逊读者\n\n“惊讶”是哲学思考的起点，而“惊讶”总在观察世界之后。作者唤醒了我们对周围世界的敬畏，让我们对那些“显而易见”的事情产生好奇和反思。更可贵的是，这本书能引发读者的求知欲：了解更多，培养自己。这本书尤其应该推荐给那些不服输、爱学习的青少年！\n\n——保罗•勒利弗埃尔，CultureTop书评人\n\n◎ 内容简介\n\n在了解这个世界的过程中，现实经常会挑战我们的感官和直觉，让我们震惊不已。这时， 数学就像一把雨伞，当撑开这把雨伞时，我们仿佛进入了一个奇特的世界，有了迈向真相、 行走在谜团中的勇气；当收起这把雨伞时，我们会发现自己的认知已大不一样，所谓的“理 所应当”和“显而易见”将被摒弃，现实背后隐藏的真相将带来巨大的启发。这就是数学的 力量。 从代数、几何到相对论，从温度计到黑洞，作者用简洁而生动的笔触阐释了如何更好地 思索、观察与理解世界。让我们带上好奇心，撑开数学这把大伞，在宇宙的奥秘中漫步，体 会解开疑惑后，如雨过天晴般的愉悦。\n\n本书适合对数学、物理感兴趣的读者阅读。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s34575299.jpg"
+      "封面图片": "./assets/covers/36379937.jpg"
     },
     {
       "id": "26677354",
@@ -3188,7 +3188,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.8",
       "评分人数": "789",
       "内容简介": "《数学女孩》以小说的形式展开，重点描述一群年轻人探寻数学中的美。内容由浅入深，数学讲解部分十分精妙，被称为“绝赞的初等数学科普书”。内容涉及数列和数学模型、斐波那契数列、卷积、调和数、泰勒展开、巴塞尔问题、分拆数等，非常适合对数学感兴趣的初高中生以及成人阅读。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s32311074.jpg"
+      "封面图片": "./assets/covers/26677354.jpg"
     },
     {
       "id": "26681597",
@@ -3207,7 +3207,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.0",
       "评分人数": "315",
       "内容简介": "《数学女孩》系列以小说的形式展开，重点描述一群年轻人探寻数学中的美。内容由浅入深，数学讲解部分十分精妙，被称为“绝赞的数学科普书”。\n\n《数学女孩2：费马大定理》有许多巧思。每一章针对不同议题进行解说，再于最后一章切入正题——费马大定理。作者巧妙地以每一章的概念作为拼图，拼出被称为“世纪谜题”的费马大定理的大概证明。整本书一气呵成，非常适合对数学感兴趣的初高中生以及成人阅读。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s28357769.jpg"
+      "封面图片": "./assets/covers/26681597.jpg"
     },
     {
       "id": "27193490",
@@ -3226,7 +3226,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.7",
       "评分人数": "235",
       "内容简介": "《数学女孩》系列以小说的形式展开，重点描述一群年轻人探寻数学中的美。内容由浅入深，数学讲解部分十分精妙，被称为“绝赞的数学科普书”。\n\n《数学女孩3：哥德尔不完备定理》有许多巧思。每一章针对不同议题进行解说，再于最后一章切入正题——哥德尔不完备定理。作者巧妙地以每一章的概念作为拼图，拼出与塔斯基的形式语言的真理论、图灵机和判定问题一道被誉为“现代逻辑科学在哲学方面的三大成果”的哥德尔不完备定理的大概证明。整本书一气呵成，非常适合对数学感兴趣的初高中生以及成人阅读。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s29603545.jpg"
+      "封面图片": "./assets/covers/27193490.jpg"
     },
     {
       "id": "33444625",
@@ -3248,7 +3248,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.6",
       "评分人数": "122",
       "内容简介": "《数学女孩4：随机算法》以“随机算法”为主题，从纯粹的数学和计算机程序设计两个角度对随机算法进行了细致的讲解。内容涉及排列组合、概率、期望、线性法则、矩阵、顺序查找算法、二分查找算法、冒泡排序算法和快速排序算法等。整本书一气呵成，非常适合对数学和算法感兴趣的初高中生以及成人阅读。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s32318236.jpg"
+      "封面图片": "./assets/covers/33444625.jpg"
     },
     {
       "id": "35385260",
@@ -3268,7 +3268,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.5",
       "评分人数": "113",
       "内容简介": "《数学女孩》系列以小说的形式展开，重点描述一群年轻人探寻数学中的美。内容由浅入深，数学讲解部分十分精妙，被称为“绝赞的数学科普书”。\n\n《数学女孩5：伽罗瓦理论》从鬼脚图讲起，结合二次方程式的求根公式、尺规作图、群和域等知识，最终带领读者进入伽罗瓦理论的世界，还原伽罗瓦短暂的一生中璀璨不朽的数学成就。整本书一气呵成，非常适合对数学感兴趣的初高中生以及成人阅读。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s33843783.jpg"
+      "封面图片": "./assets/covers/35385260.jpg"
     },
     {
       "id": "36072389",
@@ -3288,7 +3288,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.4",
       "评分人数": "68",
       "内容简介": "《数学女孩》系列第六弹！\n\n日本数学会强力推荐，绝赞的数学科普书。\n\n原版全系列累计发行突破57万册！\n\n◎编辑推荐\n\n在动人的故事中走近数学，在青春的浪漫中理解数学。\n\n“她之所以知道很多东西，是因为她一直在学习。这不是理所当然的吗？”\n\n◎内容简介\n\n《数学女孩》系列以小说的形式展开，重点描述一群年轻人探寻数学之美的过程。内容由浅入深，数学讲解部分十分精妙，被称为“绝赞的数学科普书”。《数学女孩6：庞加莱猜想》以百年数学难题“庞加莱猜想”为主题，从柯斯堡七桥问题入手，详细讲解了拓扑学、非欧几何、流形、微分方程、高斯绝妙定理和傅里叶展开式等数学知识，还原了庞加莱猜想的探索历程，带领读者一同追寻“宇宙的形状”。整本书一气呵成，非常适合对数学感兴趣的初高中生以及成人阅读。请翻开本书，一同加入主人公们的探索之旅吧。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s34294387.jpg"
+      "封面图片": "./assets/covers/36072389.jpg"
     },
     {
       "id": "35033507",
@@ -3305,7 +3305,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.7",
       "评分人数": "1638",
       "内容简介": "八年前，“数学之美”系列文章原刊载于谷歌黑板报，获得上百万次点击，得到读者高度评价。读者说，读了“数学之美”，才发现大学时学的数学知识，比如马尔可夫链、矩阵计算，甚至余弦函数原来都如此亲切，并且栩栩如生，才发现自然语言和信息处理这么有趣。\n\n在纸本书的创作中，作者几乎把所有文章都重写了一遍，为的是把高深的数学原理讲得更加通俗易懂，让非专业读者也能领略数学的魅力。读者通过具体的例子学到的是思考问题的方式——如何化繁为简，如何用数学去解决工程问题，如何跳出固有思维不断去思考创新。\n\n本书第一版荣获国家图书馆第八届文津图书奖。第二版增加了针对大数据和机器学习的内容。第三版增加了三章新内容，分别介绍当今非常热门的三个主题：区块链的数学基础，量子通信的原理，以及人工智能的数学极限。",
-      "封面图片": "https://img2.doubanio.com/view/subject/s/public/s33621061.jpg"
+      "封面图片": "./assets/covers/35033507.jpg"
     },
     {
       "id": "25842419",
@@ -3325,7 +3325,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.4",
       "评分人数": "1043",
       "内容简介": "在本书中，史蒂夫·斯托加茨引领我们踏上一段领略最伟大的数学思想的赏心悦目之旅。沿途中你会看到数学如何与文学、哲学、法律、医学、艺术、商业彼此交融，甚至流行文化也能以我们意想不到的方式和数学共舞。\n\n辛普森到底有没有谋杀他的前妻？多长时间、以何种方式翻转你的床垫才会让它的磨损率最小？谷歌搜索引擎是如何找到你想要的网页的？在步入婚姻殿堂之前，你应该和多少位异性约会？不管你相不相信，数学在回答这些问题以及更多其他问题时，都扮演着至关重要的角色。\n\n数学是宇宙万物存在的基础，当然也包括人类，但是我们中却很少有人能很好地掌握这门通用语言，体验它的智慧、美丽和乐趣。这本启迪智慧而又妙趣横生的书旨在对专业、枯燥的数学语言进行翻译，帮助广大对数学感到恐惧、陌生或是不理解的读者，重新认识和欣赏数学之美。\n\n在这段从企鹅吃鱼到无穷大的数学之旅中，每一章都是一道美丽的“风景”：斑马身上的黑白条纹中的正弦波；美国《独立宣言》中欧几里得几何定理的身影；流星雨划过夜空时留下的美丽抛物线；罗密欧和朱丽叶爱情悲剧背后的微积分方程式；拆穿小布什减税计划谎言的长尾分布……\n\n虽然真正喜欢数学、了解数学的人为数不多，但每个人都离不开数学，相信读完这本书后，不少人会从此爱上数学，成为“数学发烧友”。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s27236929.jpg"
+      "封面图片": "./assets/covers/25842419.jpg"
     },
     {
       "id": "35292688",
@@ -3345,7 +3345,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.7",
       "评分人数": "3257",
       "内容简介": "※ 2021年度豆瓣读书·科学新知榜第4位 ※\n\n微积分是人类历史上的伟大思想成就之一，也是数学领域不可或缺的一个重要分支。除此之外，我们更应该关注的事实是：如果没有微积分，人类就不可能发明电视、微波炉、移动电话、GPS、激光视力矫正手术、孕妇超声检查，也不可能发现冥王星、破解人类基因组、治疗艾滋病，以及弄明白如何把5 000首歌曲装进口袋里。 在人类文明进程中的这些具有里程碑意义的发明和发现背后，微积分究竟扮演了什么样的角色？围绕曲线之谜、运动之谜和变化之谜，毕达哥拉斯、阿基米德、伽利略、开普勒、牛顿、莱布尼茨、爱因斯坦、薛定谔等如何用微积分的“钥匙”打开了宇宙奥秘之“锁”？这些谜题的解决方案对人类文明的进程和我们的日常生活又产生了什么样的深远影响？\n\n在《微积分的力量》书中，应用数学家兼“导游”斯托加茨将用一种“讲故事”和“看展览”的方式为你逐一揭晓答案。“我们不必为了理解微积分的重要性而学习如何做运算，就像我们不必为了享用美食而学习如何做佳肴一样。我将借助图片、隐喻和趣闻逸事等，尝试解释你们需要了解的关于微积分的知识。我也会给你们介绍有史以来颇为精致的一些方程和证明，就像我们在参观画展的时候不会错过其中的代表作一样。” 在高中和大学时期，尽管我们中的许多人都对这门课程退避三舍，但斯托加茨用一种新颖独特和接地气儿的方式给我们讲述了微积分的历史。相信在读完《微积分的力量》后，我们都会对微积分有更加立体生动的认知，就像欣赏名画、名曲那样发现微积分之美。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s33823248.jpg"
+      "封面图片": "./assets/covers/35292688.jpg"
     },
     {
       "id": "36052440",
@@ -3365,7 +3365,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "6.9",
       "评分人数": "47",
       "内容简介": "这是国际知名数学家史蒂夫·斯托加茨献给高中数学老师的深情力作。对他们师生来说，微积分不仅仅是数学的一个分支，当人生的一切都在变化时，微积分是他们不变的、共同的热爱。乔夫里老师从职业生涯的鼎盛时期走向退休，参加激流皮划艇比赛时，失去了一个儿子，而学生斯托加茨从高中数学天才成长为常春藤盟校教授，父母突然去世，并陷入注定失败的婚姻......幸运的是，他们躲进了微积分的避风港。直到有一天，他们发现了比微积分问题更深奥且重要的东西......",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s34286415.jpg"
+      "封面图片": "./assets/covers/36052440.jpg"
     },
     {
       "id": "26651221",
@@ -3386,7 +3386,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.9",
       "评分人数": "296",
       "内容简介": "本书使用向量的概念对国内高校工科“线性代数”的课程内容进行了较全面的几何分析。从向量的几何意义开始，分别讲述了向量组、向量空间、行列式、矩阵、线性方程组和二次型的几何意义或几何解释，其中不乏重要概念的物理意义的解释。这本书就像一串项梁，把上百个概念和定理的几何意义串在一起敬献给读者朋友。\n\n本书文字多为作者原创，比如叉积的物理意义，克莱姆法则、雅可比矩阵、相似/合同矩阵、转置矩阵/对偶、矩阵乘积的行列式等系列概念的几何意义等，应用方面如使用矩阵分析的方法分析电子振荡器的工作原理等。\n\n本书图文并茂，思路清晰、语言流畅，概念及定理解释得合理、自然，同时具有通俗性、科普性，由于本书是直接根据线性代数课程的要求进行解释的，除了适合初学者和自学者使用之外，特别适合正在学习或复习线性代数的大学生作为深入思考的辅导书籍使用。",
-      "封面图片": "https://img2.doubanio.com/view/subject/s/public/s28327371.jpg"
+      "封面图片": "./assets/covers/26651221.jpg"
     },
     {
       "id": "30310517",
@@ -3416,7 +3416,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.7",
       "评分人数": "645",
       "内容简介": "本书是一本线性代数的现代教材，给出新的线性代数基本介绍和一些有趣应用，目的是帮助学生掌握线性代数的基本概念及应用技巧，为后续课程的学习和工作实践奠定基础。主要内容包括线性方程组、矩阵代数、行列式、向量空间、特征值与特征向量、正交性和小二乘法、对称矩阵和二次型、向量空间的几何学等。此外，本书包含大量的练习题、习题、例题等，便于读者参考。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s33740396.jpg"
+      "封面图片": "./assets/covers/30310517.jpg"
     },
     {
       "id": "6983584",
@@ -3438,7 +3438,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.1",
       "评分人数": "374",
       "内容简介": "《怎样解题：数学思维的新方法》这本经久不衰的畅销书出自一位著名数学家 G·波利亚的手笔，虽然它讨论的是数学中发现和发明的方法和规律，但是对在其他任何领域中怎样进行正确思维都有明显的指导作用。《怎样解题：数学思维的新方法》围绕“探索法”这一主题，采用明晰动人的散文笔法，阐述了求得一个证明或解出一个未知数的数学方法怎样可以有助于解决任何“推理”性问题——从建造一座桥到猜出一个字谜。一代又一代的读者尝到了本书的甜头，他们在本书的指导下，学会了怎样摒弃不相干的东西，直捣问题的心脏。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s27168353.jpg"
+      "封面图片": "./assets/covers/6983584.jpg"
     },
     {
       "id": "30164963",
@@ -3461,7 +3461,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.9",
       "评分人数": "4272",
       "内容简介": "众所周知，巴菲特每年都会亲自执笔给伯克希尔的股东写一封信，迄今已写了52年。每一封致股东信都洋洋洒洒数万言，信中回顾公司业绩、投资策略，还会就许多热点话题表达观点。\n\n1996年，巴菲特授权劳伦斯·坎宁安教授编撰他的信件，并出版了超级畅销书《巴菲特致股东的信》，书中全部文字原汁原味地保留巴菲特第一人称的叙述，将其投资思想与管理智慧分为公司治理、财务与投资、投资替代品、普通股、兼并与收购、估值与会计、税务等主题。从此坎宁安教授成为巴菲特的御用编辑，并得到巴菲特的授权进入伯克希尔进行深度调研采访，并创作姊妹篇《超越巴菲特的伯克希尔》一书，专门论述伯克希尔的经营管理之道。\n\n相较于前三版，第四版保留了原来的架构和哲学，增加了巴菲特最新的年报内容。这些新增的内容被编入了书中的相应篇章，它们有机地融为一体，丝毫不影响读者在阅读过程中获得对于稳健企业和投资哲学的整体印象。为了帮助读者区分书中哪些部分是新增的内容，在书末的“注释”部分标注了这些内容是选自哪些年度的致股东的信件。\n\n20年来，本书四版获得了无数赞誉，但最有价值的莫过于巴菲特本人的评价：“坎宁安做了一项伟大的工作，他整理呈现了我们的理念。这本书比任何一本关于我的传记都要好，如果让我选一本书去读，那必定是这一本。”",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s29733058.jpg"
+      "封面图片": "./assets/covers/30164963.jpg"
     },
     {
       "id": "1033778",
@@ -3484,7 +3484,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.3",
       "评分人数": "82692",
       "内容简介": "《富爸爸，穷爸爸》是一个真实的故事，作者罗伯特・清崎的亲生父亲和朋友的父亲对金钱的看法截然不同，这使他对认识金钱产生了兴趣，最终他接受了朋友的父亲的建议，也就是书中所说的。“富爸爸”的观念，即不要做金钱的奴隶，要让金钱为我们工作，并由此成为一名极富传奇色彩的成功的投资家。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s11229869.jpg"
+      "封面图片": "./assets/covers/1033778.jpg"
     },
     {
       "id": "6439649",
@@ -3501,7 +3501,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.2",
       "评分人数": "1251",
       "内容简介": "清崎上完大学，有了一份稳定的高薪工作，这是“穷爸爸”一直以来对他的期望；但他牢记“富爸爸”的话：“只有实现了财务自由，才能拥有真正的自由。”于是他毅然辞去工作，走上了投资和创业之路，在47岁时实现了财务自由。从此，他再也不必朝九晚五地被动工作，再也不必量入为出，他可以自由地做自己爱做的事，因为投资会为他带来源源不断的现金流。\n\n书中归纳出了4个现金流象限：雇员、自由职业者、企业主和投资人，只有具备投资人和企业主的技能，才更容易致富；详细介绍了这些观念和技巧，把投资人细分为7个等级，帮你看清自己的财务状况；更列出了7个完整的步骤，指引你走上财务自由之路",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s6640124.jpg"
+      "封面图片": "./assets/covers/6439649.jpg"
     },
     {
       "id": "35128229",
@@ -3521,7 +3521,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.3",
       "评分人数": "128",
       "内容简介": "传统的经济学理论研究理想化的市场，例如亚当·斯密著名的“看不见的手”理论认为，价格本身可以引导资源的有效率配置，无须规制或干预。然而，本书认为，尽管价格能促使市场中的单个主体考虑其所用资源的机会成本，因而在引导资源配置上具有重要作用，但现实经济的复杂性使得仅靠价格无法实现有效率的资源配置。因此，需要有一个设计好的拍卖过程，也即所谓的市场设计，将价格整合进来，以便在满足复杂约束条件的情形下，实现资源的有效率配置。\n\n在本书中，作者引入了一种被称为“背包问题”（Knapsack Problem）的研究方法，阐述了两种基本类型的拍卖——价格递增拍卖和价格递减拍卖，以及他为美国联邦通信委员会设计的“激励性拍卖”，并探讨了他在设计激励性拍卖设计中遇到的问题以及的理论思考。\n\n本书将拍卖理论与实践相结合，为经济学家解决日益复杂的资源配置问题提供了重要新的新视角和新工具。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s34936057.jpg"
+      "封面图片": "./assets/covers/35128229.jpg"
     },
     {
       "id": "34786729",
@@ -3531,7 +3531,7 @@ window.BOOK_CATEGORY_DATA = {
       "出版社": "北京航空航天大学出版社",
       "ISBN": "9787512430402",
       "评分人数": "评价人数不足",
-      "封面图片": "https://img2.doubanio.com/view/subject/s/public/s33451741.jpg"
+      "封面图片": "./assets/covers/34786729.jpg"
     },
     {
       "id": "36673627",
@@ -3548,7 +3548,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.4",
       "评分人数": "2653",
       "内容简介": "为什么不论什么人，都应该了解一点经济金融学知识？\n\n日本、韩国、俄罗斯、英国等国经济的崛起与衰落，带给我们怎样的启示？\n\n通胀、通缩、经济泡沫、汇率这些书本中的概念到底怎样影响我们的生活？\n\n金融财经不无聊，也没有你想得那样复杂，而且，冰冷的数据和规律背后，是充满温度的人间烟火。\n\n本书主要聚焦于宏观经济，以日本、韩国、俄罗斯、英国、欧盟、希腊等国家或地区的经济发展脉络为主线，以各国的经济与金融事件为核心内容，用大家都能理解的语言将复杂的经济学现象及趋势总结出来，手把手教你认清各种经济金融事件背后的底层逻辑，并通过这些内容的输出与解读，帮助读者建立清晰的底层认知框架，在复杂且不确定的表象中做出准确判断。\n\n同时，作者将经常出现在新闻中诸如利率、通货膨胀、通货紧缩、泡沫等出现在文中的概念也一次讲透，以更广阔的视角为读者总结出用以指导自己的经济生活的经济金融的相关知识，在故事中得到启发，从热点事件中学会思考，从而更好地规划自己的工作与生活，并进一步构建自己的底层金融思维能力，做复杂世界的明白人。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s34719607.jpg"
+      "封面图片": "./assets/covers/36673627.jpg"
     },
     {
       "id": "36523692",
@@ -3565,7 +3565,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.8",
       "评分人数": "53",
       "内容简介": "本书是作者从自身作为财经媒体人的视角，对于消费社会中的一些现象提出自身的看法和观点，记录下了作者对这个消费时代的物欲观察。作者在书稿中以“走不开小姐”自称，通过与儿子“好无聊先生”的对话，引出论述的话题，继而讨论在现代消费混沌状态下，一个人如何避免在不知不觉中在不适当之处把钱花光，以及如何花钱（投资），并在每一节的最后给出“如何在这件事上不把银子花光”的建议，笔调轻松，语言简洁，逻辑合理。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s34627838.jpg"
+      "封面图片": "./assets/covers/36523692.jpg"
     },
     {
       "id": "36295222",
@@ -3582,7 +3582,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.1",
       "评分人数": "4273",
       "内容简介": "《投资第1课》是一本为普通投资者写就的入门读物。现代社会是一个分工高度专业化和精细化的社会，任何一个人都不可能、也没必要去学习所有的知识——生病了，找医生；有纠纷，找律师。投资是不是也应该如此？\n\n相比其他行业，投资行业有个很大的不同：作为用户，在绝大多数时间里，都无法评价产品，以及相应服务的好坏。\n\n“短期涨得好，不代表长期能赚钱。我们看到的投资收益，有可能是牛市带来的，有可能是短期市场风格带来的。如果不具备基本的金融素养（Financial Literacy），我们就无法辨别这个结果是能力还是运气，更无法在将来获得这个收益。\n\n更重要的是，即使我们选择了好的投资产品，如果不具备基本的投资知识，也可能会经历’贪婪和恐惧‘，在关键时刻无法拿住”，作者如是说。\n\n本杰明·格雷厄姆曾说：\n\n“投资艺术有一个特点不为大众所知。门外汉只需些许努力与能力，便可以取得令人尊敬（即使并不可观）的结果。但是如果人们想在这个容易获取的标准上更进一步，则需要更多的实践和智慧。”\n\n这本书希望做到的，就是正确地找到这“些许努力”：\n\n1.学习投资的大道以及基本的知识；\n\n2.树立正确的财富观；\n\n3.理解投资为什么可以赚钱、赚的是什么钱；\n\n4.这些钱本质上又是从哪儿来的；\n\n5.如何赚到这些钱。\n\n本书以有知有行 App 专栏《投资第一课》为蓝本，凝聚了孟岩多年实盘投资经验，以及服务用户的体会与心得。经与合伙人张潇雨、有知有行团队不断优化、迭代，本书已成为一本适时、及时的个人资产管理指南。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s34457574.jpg"
+      "封面图片": "./assets/covers/36295222.jpg"
     },
     {
       "id": "35295592",
@@ -3602,7 +3602,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.2",
       "评分人数": "32728",
       "内容简介": "吉娅是一个普通的12岁女孩，一次偶然的机会，她救助了一只受伤的小狗，并给它取名叫“钱钱”。没想到，钱钱居然是一位深藏不露的理财高手，它改变了吉娅一家人的财富命运……\n\n“欧洲理财大师”博多·舍费尔用生动的理财童话，教会你如何从小学会支配金钱，而不是受金钱的支配；如何像富人那样思考，正确地认识和使用金钱；如何进行理财投资，找到积累资产的方法，早日实现财务自由！",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s33789389.jpg"
+      "封面图片": "./assets/covers/35295592.jpg"
     },
     {
       "id": "36076424",
@@ -3619,7 +3619,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.8",
       "评分人数": "1082",
       "内容简介": "本书是一部进行财报解读、财务分析的经典著作，自2014年首次出版以来，常年占据畅销书榜单，受到读者的如潮好评，影响了无数财务行业初学者、投资人和企业管理层，被誉为“读过的财务入门书里最好好的一部”。\n\n全书从解读资产负债表、利润表、现金流量表三大财务报表和它们之间的关系出发，为读者搭建财务报表骨架，剖析财务数据背后的秘密。读完本书，财务行业初学者将轻松掌握财务分析的方法与技巧，投资人能轻松判断企业的价值，企业管理者能轻松看穿企业的管理效率、盈利能力、抗风险能力和未来发展前景。\n\n10年畅销，经典重塑。第三版改写了全部案例，新的案例将更加贴合本书的财务分析框架，使本书教授的财务分析方法更加好用、更易上手。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s34696689.jpg"
+      "封面图片": "./assets/covers/36076424.jpg"
     },
     {
       "id": "34883295",
@@ -3633,7 +3633,7 @@ window.BOOK_CATEGORY_DATA = {
       "装帧": "平装",
       "评分": "7.6",
       "评分人数": "18",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s33661163.jpg"
+      "封面图片": "./assets/covers/34883295.jpg"
     },
     {
       "id": "5922513",
@@ -3650,7 +3650,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.2",
       "评分人数": "76",
       "内容简介": "《百万英镑(珍藏版)》为美国作家马克•吐温短篇讽刺小说集，书中收入了他的代表作，如《百万英镑》、《卡拉维拉斯县驰名的跳蛙》、《哥尔斯密的朋友再度出洋》、《三万元的遗产》等。马克•吐温的作品表达了对普通人、小人物的一种爱。即便是嘲笑揶揄，也常常是善意的，富于同情的。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s10407453.jpg"
+      "封面图片": "./assets/covers/5922513.jpg"
     },
     {
       "id": "24749448",
@@ -3668,7 +3668,7 @@ window.BOOK_CATEGORY_DATA = {
       "定价": "24.00元",
       "评分": "7.8",
       "评分人数": "752",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s33990263.jpg"
+      "封面图片": "./assets/covers/24749448.jpg"
     },
     {
       "id": "27199470",
@@ -3688,7 +3688,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.5",
       "评分人数": "35946",
       "内容简介": "“我”，36岁，美术科班出身，原本爱好抽象画，多年来为了养家糊口成为专业肖像画画家。结婚六周年纪念日前，妻子毫无征兆地提出已有外遇，要求离婚，于是“我”独自离家开车在外游荡了一个半月，最终应好友雨田政彦之邀，住进小田原郊外山间其父雨田具彦的旧居兼画室，期待通过环境的改变调整心情。\n\n奇妙的事件就发生在搬家后不到八个月的时间里。雨田政彦帮“我”介绍了山下绘画班任教的工作，“我”和班里的两位人妻先后成了情人，经神秘邻居免色的精心策划,和班上的少女真理惠也建立了密切联系。房子主人雨田具彦是著名日本画画家，“我”搬进那栋房子后不久，意外在阁楼发现了一幅雨田具彦不为世人所知的大师级作品，名为“刺杀骑士团长”。\n\n由此，“我”被卷入一系列不可思议的事件……\n\n夜半铃声与古庙洞口、神秘邻居免色涉与绘画班女学生秋川真理惠、“骑士团长”与“长面人”、现实世界与隐喻世界……\n\n村上春树用他擅长的层层剥开的写法，将读者步步引入奇妙之境。",
-      "封面图片": "https://img2.doubanio.com/view/subject/s/public/s29687411.jpg"
+      "封面图片": "./assets/covers/27199470.jpg"
     },
     {
       "id": "25878982",
@@ -3705,7 +3705,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.4",
       "评分人数": "175",
       "内容简介": "《古希腊神话故事(超值全彩白金版)》收录流传最广、影响最大的古希腊神话故事。故事情节扑朔迷离，扣人心弦；内容丰富多彩，引人入胜；语言幽默精练，耐人寻味；人物栩栩如生，跃然纸上。《古希腊神话故事(超值全彩白金版)》设计独特，精美图片与文字相辅相成，给读者带来身临其境的感受。图文并茂的编排形式融合新颖独特的版式设计，帮助读者加深对神话故事的认知。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s27273726.jpg"
+      "封面图片": "./assets/covers/25878982.jpg"
     },
     {
       "id": "35473547",
@@ -3724,7 +3724,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.3",
       "评分人数": "631",
       "内容简介": "《局外人》是诺贝尔文学奖得主阿尔贝·加缪的代表作之一。全书讲述了一位对外界冷漠、对生活毫无追求的年轻人，在海边度假时意外卷入一场冲突，犯下杀人罪，不得不走上法庭。最终因在母亲的葬礼上没有流泪而被判处死刑。全书采用第一人称的叙述手法，将主人公内心活动和周围荒诞的环境进行了强烈对比，讽刺了当时社会虚伪和荒谬的实质。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s33906739.jpg"
+      "封面图片": "./assets/covers/35473547.jpg"
     },
     {
       "id": "26698660",
@@ -3744,7 +3744,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.9",
       "评分人数": "89158",
       "内容简介": "在第一次世界大战的硝烟中，每一个迈向死亡的生命都在热烈地生长——威尔士的矿工少年、刚失恋的美国法律系大学生、穷困潦倒的俄国兄弟、富有英俊的英格兰伯爵，以及痴情的德国特工… 从充满灰尘和危险的煤矿到闪闪发光的皇室宫殿，从代表着权力的走廊到爱恨纠缠的卧室，五个家族迥然不同又纠葛不断的命运逐渐揭晓，波澜壮阔地展现了一个我们自认为了解，但从未如此真切感受过的20世纪。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s28668834.jpg"
+      "封面图片": "./assets/covers/26698660.jpg"
     },
     {
       "id": "35250869",
@@ -3763,7 +3763,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.8",
       "评分人数": "1179",
       "内容简介": "有2023年6月16印本  隨書附書籤",
-      "封面图片": "https://img2.doubanio.com/view/subject/s/public/s33756221.jpg"
+      "封面图片": "./assets/covers/35250869.jpg"
     },
     {
       "id": "35948862",
@@ -3780,7 +3780,7 @@ window.BOOK_CATEGORY_DATA = {
       "定价": "28.00",
       "评分": "8.2",
       "评分人数": "297",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s34251619.jpg"
+      "封面图片": "./assets/covers/35948862.jpg"
     },
     {
       "id": "30312130",
@@ -3799,7 +3799,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.1",
       "评分人数": "133",
       "内容简介": "青春的史诗，反抗成人世界的宣言。\n\n每一个人都能在“麦田”里找到自己青春的痕迹。经典“麦田”已经影响几代人，必将影响更多代人，尤其是年轻人。“麦田”让青少年的质问、怀疑和逃避得到应有的承认和发泄。\n\n《麦田里的守望者》是《时代》周刊推荐的百部文学经典之一、20世纪百本优佳英文小说（《现代文库》评）。它曾经是很具挑战性的禁书，如今成为了全世界高校、中学的指定读物。它是史上畅销的书之一，全球发行量超过6000万册，中文版销量逾120万册。\n\n16岁的中学生霍尔顿出身于纽约一个中产阶级家庭。父母、老师要他好好读书以便将来出人头地，而学校里一天到晚干的，就是谈女人、酒和性。他看不惯周围的一切，无心学习，因而老是挨罚。第四次被开除时，他没有回家，只身在纽约城游荡了一天两夜……\n\n《麦田里的守望者》一经问世即在青少年中引起强烈共鸣，一时间，模仿霍尔顿的言行举止成为一种时尚，风衣和反戴的红色鸭舌帽成为美国的流行街景。小说出版后至今影响不衰，全球发行量超过六千万册，被无数中学和高等院校列为必读的课外读物，其主题也深受社会学者重视。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s29926276.jpg"
+      "封面图片": "./assets/covers/30312130.jpg"
     },
     {
       "id": "30381921",
@@ -3819,7 +3819,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.5",
       "评分人数": "145",
       "内容简介": "《麦田里的守望者》是《时代》杂志推荐的百部文学经典之一，被列入20世纪百本最佳英文小说。这部曾经最具挑战性的禁书，如今是全世界高校、中学的指定读物，成为史上最畅销的图书之一。此双语版的中译文经著名译者孙仲旭全面修订。\n\n16岁的中学生霍尔顿出身于纽约一个中产阶级家庭。父母、老师要他好好读书以便将来出人头地，而学校里一天到晚干的，就是谈女人、酒和性。他看不惯周围的一切，无心学习，因而老是挨罚。第四次被开除时，他没有回家，只身在纽约城游荡了一天两夜……\n\n《麦田里的守望者》一经问世即在青少年中引起强烈共鸣，一时间，模仿霍尔顿的言行举止成为一种时尚，风衣和反戴的红色鸭舌帽成为美国的流行街景。小说出版后至今影响不衰，全球发行量超过六千万册，被无数中学和高等院校列为必读的课外读物，其主题也深受社会学者重视。",
-      "封面图片": "https://img2.doubanio.com/view/subject/s/public/s29953241.jpg"
+      "封面图片": "./assets/covers/30381921.jpg"
     },
     {
       "id": "1204073",
@@ -3835,7 +3835,7 @@ window.BOOK_CATEGORY_DATA = {
       "定价": "5.00",
       "评分": "7.8",
       "评分人数": "12",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s2005756.jpg"
+      "封面图片": "./assets/covers/1204073.jpg"
     },
     {
       "id": "34812104",
@@ -3858,7 +3858,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.7",
       "评分人数": "1010",
       "内容简介": "这是一个关于信仰和英雄的故事。\n\n十九世纪的意大利，当少年亚瑟还在为青梅竹马的误会烦恼时，得知敬爱多年的神父竟一直在欺骗自己，心中的偶像瞬间崩塌。沉重的打击令亚瑟愤然离家，唯有对自由的信念支撑自己。\n\n十三年后，一位坚毅冷酷的革命斗士“牛虻”回到意大利，以犀利的讽刺文章抨击教会的统治。一次行动中，牛虻被捕，在狱中见到了前来劝降的神父。原来，牛虻就是曾经的亚瑟，但此时此地，两颗曾经彼此相系的心却因不同的信仰南辕北辙。面对支离破碎的人生，牛虻做出的选择震撼了一代又一代读者。\n\n“我一定要走自己的路，追随我所见到的光明。”\n\n编辑推荐：\n\n- 励志榨泪机，给面对困境坚持勇敢的少年，和仍需被感动的成年人\n\n- 残酷而热烈的信念之书，一百多年来无数读者在此重获力量\n\n- 恨不起来的反派，并不完美的主角\n\n- 爱尔兰女作家伏尼契代表作，影响几代中国读者的外国名著，全球卖出逾450万册\n\n- 口碑译本，刘小枫教授解读推荐",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s33474993.jpg"
+      "封面图片": "./assets/covers/34812104.jpg"
     },
     {
       "id": "27200257",
@@ -3878,7 +3878,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.5",
       "评分人数": "44516",
       "内容简介": "《挪威的森林》是日本作家村上春树所著的一部长篇爱情小说，影响了几代读者的青春名作。故事讲述主角渡边纠缠在情绪不稳定且患有精神疾病的直子和开朗活泼的小林绿子之间，苦闷彷徨，最终展开了自我救赎和成长的旅程。彻头彻尾的现实笔法，描绘了逝去的青春风景，小说中弥散着特有的感伤和孤独气氛。自1987年在日本问世后，该小说在年轻人中引起共鸣，风靡不息。上海译文出版社于2018年2月，推出该书的全新纪念版。",
-      "封面图片": "https://img2.doubanio.com/view/subject/s/public/s34412041.jpg"
+      "封面图片": "./assets/covers/27200257.jpg"
     },
     {
       "id": "26647769",
@@ -3896,7 +3896,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.2",
       "评分人数": "41001",
       "内容简介": "收录《人间失格》《维庸之妻》《Good-bye》《灯笼》《满愿》《美男子与香烟》《皮肤与心》《蟋蟀》《樱桃》",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s34722393.jpg"
+      "封面图片": "./assets/covers/26647769.jpg"
     },
     {
       "id": "5378429",
@@ -3920,7 +3920,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.4",
       "评分人数": "1355",
       "内容简介": "1348年，意大利一城市瘟疫流行，10名青年男女在乡村一所别墅里避难。他们终日游玩，欢宴，每人每天讲一个故事，10天讲了100个故事。故事题材十分广泛，内容也非常丰富，情节曲折离奇，引人入胜，令人有百读不厌之感。作者刻画了千姿百态的人物，有美丽多情的淑女，有淫荡泼辣的寡妇，有风流倜傥的骑士，有贪婪好色的神父，悲欢离合的爱情故事与荒诞不经的轶事传奇穿插在一起，构成了一幅绚丽多彩的画面……\n\n————\n\n因瘟疫而降生的文学神话，与但丁《神曲》齐名的著作\n\n国内首个意大利语直译全本\n\n文艺复兴时期人文主义艺术的样板，欧洲现实主义小说的先驱\n\n乔叟、莎士比亚、莫里哀、拉封丹、济慈均从中汲取创作源泉\n\n————\n\n但丁结束了一个时代，薄伽丘开创了另一时代。\n\n——9世纪意大利评论家 桑克提斯\n\n薄伽丘的《十日谈》，那种接地气、大胆世俗，总让我想起《金瓶梅》。这两个小说在我脑子里是一对姐妹，尽管年代不同。\n\n——作家 苏童",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s4587123.jpg"
+      "封面图片": "./assets/covers/5378429.jpg"
     },
     {
       "id": "26410730",
@@ -3940,7 +3940,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.8",
       "评分人数": "11126",
       "内容简介": "《我是猫》是日本“国民大师”夏目漱石的代表成名作，对日本文学有着极深远的影响。\n\n《我是猫》的写作角度很新颖，从一只猫的视角来观察身边的人和事。这只猫生活在一个教师家中，见识了形形色色各种文人：没心没肺无厘头，唯恐天下不乱的迷亭；古板又一丝不苟，有点不知变通的寒月；理想主义，空有理论不实践的独仙……当然还有猫咪的主人，迂腐没耐心，做事三分钟热度，自命清高的苦沙弥。在猫的眼里，这些人聚在一起成天讨论些没意义的事情，不满现实，也就只会抱怨，像苦沙弥，被私塾的学生恶作剧整得苦不堪言，被邻居嘲笑，却都无可奈何。同时，猫咪也见识到了与苦沙弥不同阶级的另外一些人：一心想把女儿嫁出去，势利眼的“大鼻子”，资本家金田的老婆；跟老婆一个鼻孔出气，知道苦沙弥挖苦阻挠女儿的婚事后还派人陷害的资本家金田；还有一群穷苦出生，为金钱所动，帮助金田家嘲笑陷害苦沙弥的邻居……这些人在猫咪看来也是丑恶不堪的。\n\n整部小说可以总结为五个字“猫眼看世界”，小说中大大小小十几号人物在夏目漱石笔下都是性格鲜明，小说构思奇巧 ，描写夸张，结构灵活，具有鲜明的艺术特色。\n\n日本“国民大师”夏目漱石成名处女作，对鲁迅影响力极大的小说\n\n“人类不可能永远繁荣昌盛下去。嗯，我愿静候属于猫族时代的到来。”——这只猫如是说道\n\n人类一思考，猫君就发笑。夏目漱石笔下这只“还没有名字”的猫应该是史上最毒舌，最会“吐槽”的猫\n\n果麦新经典版的《我是猫》译文轻松幽默，笔触活泼。译者更是从全新的角度解读，让现在的读者，特别是年轻人们能了解，也许这位曾被印在日币千元大钞上的“欧吉桑”只是想给大家写写你们都很熟悉都喜欢的那只猫",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s28124077.jpg"
+      "封面图片": "./assets/covers/26410730.jpg"
     },
     {
       "id": "35092849",
@@ -3959,7 +3959,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "6.8",
       "评分人数": "414",
       "内容简介": "本书所选的故事，体现了希区柯克式悬疑的精髓，故事类型丰富，包含警匪交锋、机智推理、连环设局、情爱阴谋、复仇计划等多种主题，加上曲折离奇的情节、丝丝入扣的描述，让人拍案叫绝。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s33798049.jpg"
+      "封面图片": "./assets/covers/35092849.jpg"
     },
     {
       "id": "35691424",
@@ -3978,7 +3978,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.4",
       "评分人数": "82",
       "内容简介": "★ 毕飞宇、毛姆、芥川龙之介盛赞的“短篇小说之王”，法语翻译泰斗柳鸣九经典译本\n\n☆《羊脂球》 《项链》《我的叔叔于勒》等29篇名作全收录。莫泊桑的小说有时像冰,有时也像冰糖，但总能映照出确切、完全、永恒动人的世间真相。\n\n————————————————\n\n全书由著名法语文学译者柳鸣九精选的29篇莫泊桑经典短篇小说组成。普法战争、小职员生涯和诺曼底故乡的生活，为莫泊桑的创作提供了极为丰富的素材。从乡村故事、市井生活到对战争的深切控诉，勾勒出一幅幅生动的法国社会生活画卷，贵族、官僚、商贾、妓女、公务员、工人、农民、流浪汉等形形色色的人物形象无不跃然纸上。\n\n————————————————\n\n他的小说具有形式的美感和鲜明的爱憎，他之所以是天才，是因为他不是按照他所希望看到的样子，而是按照事物本来的样子来看事物，因而就能揭发暴露事物，而且使得人们爱那值得爱的，恨那值得恨的事物。――列夫·托尔斯泰\n\n除了莫泊桑，我再也找不到更好的老师了——毛姆\n\n莫泊桑像冰,有时也像冰糖。——芥川龙之介\n\n莫泊桑之后，实在没有什么短篇小说可言了，不过大狗叫，小狗也叫，我们总还得汪汪汪地汪一阵子。——契诃夫\n\n每一篇都是一出小小的戏剧，一出小但完整的戏剧，打开一扇令人顿觉醒豁的生活窗口，读他的作品，读他笔下的人物，可以是哭或是笑，但永远是发人深思的。——左拉\n\n作为一个和“自然主义”有着千丝万缕的作家，莫泊桑一点也不“自然主义”。他另类。他独辟蹊径。他没有多余的动作。如果说，左拉钟情的是鲁智深笨重的禅杖，莫泊桑所擅的其实是轻盈的飞镖，“飕”地就是一下。莫泊桑不喜欢对视，他是斜着眼睛看人的；他乜斜着目光，却例无虚发。他只让你躺下，可他从不谑尸，碎尸万段的事情他从来不干。正因为另类，他的前辈法朗士，他的精神领袖左拉，他的文学导师福楼拜，都给了他极高的评价。他配得上那些评价。——毕飞宇\n\n为什么我喜欢莫泊桑？莫泊桑的小说有一条清晰的跑道，跑下去就是莫泊桑风格。但是有一个结尾，就是那条终点线画在哪里？其实每个人都不一样。就像关于一条项链是真项链、假项链的事情，已经构成了那条跑道。但是到了最后，莫泊桑这样写，他就是莫泊桑。换海明威或者换卡佛写，可能是另外的味道，给你悲喜和所谓内心冲突程度有时候会不一样。——苏童",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s34065323.jpg"
+      "封面图片": "./assets/covers/35691424.jpg"
     },
     {
       "id": "27191970",
@@ -3994,7 +3994,7 @@ window.BOOK_CATEGORY_DATA = {
       "定价": "27",
       "评分": "8.3",
       "评分人数": "3611",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s29601792.jpg"
+      "封面图片": "./assets/covers/27191970.jpg"
     },
     {
       "id": "2253381",
@@ -4013,7 +4013,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.4",
       "评分人数": "9269",
       "内容简介": "《战争与和平》是一部宏伟巨著，它以库拉金、包尔康斯基、劳斯托夫、别竺豪夫四家贵族的生活为线索，展示了1805年开始的争夺欧洲战争和1812年的俄国卫国战争时期的历史，从多方面反映了俄国这一重要历史时期中各阶层人民的生活面貌，是一部再现当时社会风貌的恢弘史诗。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s5763936.jpg"
+      "封面图片": "./assets/covers/2253381.jpg"
     },
     {
       "id": "1386052",
@@ -4030,7 +4030,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.4",
       "评分人数": "722",
       "内容简介": "The Lord of the Rings, J.R.R. Tolkien's three-volume epic, is set in the imaginary world of Middle-earth -- home to many strange beings, and most notably hobbits, a peace-loving \"little people,\" cheerful and shy. Since its original British publication in 1954-55, the saga has entranced readers of all ages. It is at once a classic myth and a modern fairy tale. Critic Michael Straight has hailed it as one of the \"very few works of genius in recent literature.\" Middle-earth is a world receptive to poets, scholars, children, and all other people of good will. Donald Barr has described it as \"a scrubbed morning world, and a ringing nightmare world...especially sunlit, and shadowed by perils very fundamental, of a peculiarly uncompounded darkness.\" The story of this world is one of high and heroic adventure. Barr compared it to Beowulf, C.S. Lewis to Orlando Furioso, W.H. Auden to The Thirty-nine Steps. In fact the saga is sui generis -- a triumph of imagination which springs to life within its own framework and on its own terms.  --This text refers to an out of print or unavailable edition of this title.",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s35212825.jpg"
+      "封面图片": "./assets/covers/1386052.jpg"
     },
     {
       "id": "1340583",
@@ -4047,7 +4047,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.6",
       "评分人数": "351",
       "内容简介": "In the third volume of The Lord of the Rings trilogy the good and evil forces join battle, and we see that the triumph of good is not absolute. The Third Age of Middle-earth ends, and the age of the dominion of Men begins. \"An impressive achievement, unique among the imaginative works of our times.\" -- New York Herald Tribune",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s35212830.jpg"
+      "封面图片": "./assets/covers/1340583.jpg"
     },
     {
       "id": "34850394",
@@ -4062,7 +4062,7 @@ window.BOOK_CATEGORY_DATA = {
       "定价": "12.80元",
       "评分人数": "评价人数不足",
       "内容简介": "海丝特因犯通奸罪而受到教会惩罚，却坚决不肯说出孩子的父亲是谁。7年过去了，她用善行赢得了人们的尊敬，使胸前那本来代表耻辱的红字变成了美好德行的象征，而经过多年的窥探，海丝特的丈夫齐灵渥斯发现与妻子通奸的原来是“品德高尚”的牧师。对齐灵渥斯的恐惧和隐瞒罪责的煎熬使牧师的健康每况愈下。在生命的最后时刻，他终于在全体信徒面前，用以生命为代价的忏悔换取了道德上的新生。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s33495483.jpg"
+      "封面图片": "./assets/covers/34850394.jpg"
     },
     {
       "id": "25837863",
@@ -4081,7 +4081,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.6",
       "评分人数": "384",
       "内容简介": "版权页\n\n版次  2005年4月北京第一版\n\n印次  2015年1月第一次印刷",
-      "封面图片": "https://img2.doubanio.com/view/subject/s/public/s33645941.jpg"
+      "封面图片": "./assets/covers/25837863.jpg"
     },
     {
       "id": "26828752",
@@ -4104,7 +4104,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.8",
       "评分人数": "2406",
       "内容简介": "茨威格中短篇小说集，收录《看不见的藏品》《一个女人一生中的二十四小时》《象棋的故事》等代表作。其中《象棋的故事》是茨威格生前发表的最后一部中篇小说。1939年，茨威格携家人逃亡巴西，《象棋的故事》的故事背景就设在开往布宜诺斯艾利斯的轮船上。一个神秘的陌生人因偶然机会与国际象棋世界冠军琴多维奇对弈，居然轻易地赢了他。可就在续弈之时，陌生人遇到了意外情况……这是他下的最后一盘棋。他从哪里来?有过怎样的遭遇?他的故事，让人惊奇，又让人心酸。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s29114410.jpg"
+      "封面图片": "./assets/covers/26828752.jpg"
     },
     {
       "id": "25809012",
@@ -4129,7 +4129,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.8",
       "评分人数": "4022",
       "内容简介": "20世纪最具影响力的心理治疗大师、美国“婚姻教皇”约翰·戈特曼亲密关系四部曲之三，美国亚马逊热销13年，让婚姻持久保鲜的人际关系圣经。\n\n揭示关于爱的谜团：该如何定义爱情？为何有的爱情持久，有的早逝？该如何建立信任、避免不忠与背叛？用科学的答案教你把握爱情的来龙去脉，识别暗示爱情冷却的蛛丝马迹， 修复被生活磨损褪色的关系，让一段感情重新焕发活力。\n\n源自实验室中对近700对伴侣所做的科学研究，收录了独具开创性的理论、大量丰富翔实的案例和测试题，介绍了在婚姻与爱情中如何衡量信任、应对背叛。\n\n适用于已婚、恋爱中的人士及希望提高人际交往技能的人群。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s27256973.jpg"
+      "封面图片": "./assets/covers/25809012.jpg"
     },
     {
       "id": "36150914",
@@ -4152,7 +4152,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.2",
       "评分人数": "43920",
       "内容简介": "本书用“青年与哲人的对话”这一故事形式总结了与弗洛伊德、荣格并称为“心理学三大巨头”的阿尔弗雷德·阿德勒的思想（阿德勒心理学）。\n\n风靡欧美的阿德勒心理学对于“人如何能够获得幸福”这个哲学问题给出了极其简单而又具体的“答案”。\n\n了解了足以被称为“这个世界上的一个真理”的阿德勒思想之后，你的人生会发生什么变化呢？又或者，什么都不会改变？来吧，让我们与青年一起走进这扇“门”！",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s34348664.jpg"
+      "封面图片": "./assets/covers/36150914.jpg"
     },
     {
       "id": "26728136",
@@ -4171,7 +4171,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.3",
       "评分人数": "3209",
       "内容简介": "作为一个遵纪守法的好人，也许我们从来没有想过和“暴力”扯上关系。不过如果稍微留意一下现实生活中的谈话方式，并且用心体会各种谈话方式给我们的不同感受，我们一定会发现，有些话的确伤人！言语上的职责、嘲讽、否定、说教以及任意打断、拒不回应、随意出口的评价和结论给我们带来的情感和精神上的创伤，甚至比肉体的伤害更加令人痛苦。这些无心或有意的语言暴力让人与人变得冷漠、隔阂、敌视。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s28423534.jpg"
+      "封面图片": "./assets/covers/26728136.jpg"
     },
     {
       "id": "21359609",
@@ -4193,7 +4193,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.4",
       "评分人数": "1949",
       "内容简介": "无论从事什么工作，都可能会在会议室对同事、客户讲话，也可能会在大礼堂对着几百人演讲。这样的场合，你能否抓住机会，通过演讲一举赢得支持实现梦想？\n\n本书作者在20多年的实践中，总结出了演讲中普遍适用的原则和方法，同时，科学解释了当众讲话紧张的原因，并揭示出演讲的真谛——与听众分享。在分享精神下，紧张感会自然退去。再辅以恰当方法和技巧，对演讲内容、风格和状态进行调整，就能打动听众，实现演讲的目的。作者受聘成为斯坦福教授后，开设的领导力与沟通力课程被评为最受欢迎的公开课。当今社会，演讲已成为每个人都无法逃避的课程。通过本书教授的方法，每个读者都能实现高效演讲，让成功的可能性无限增大。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s26099244.jpg"
+      "封面图片": "./assets/covers/21359609.jpg"
     },
     {
       "id": "25985683",
@@ -4212,7 +4212,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.7",
       "评分人数": "21147",
       "内容简介": "《人性的弱点》最新中文译本。\n\n本书译自美国西蒙与舒斯特出版公司1937年第一版，正是该公司出版了世界上第一本《人性的弱点》。本书忠实还原戴尔•卡耐基的38篇初始手稿：摒弃后人所有过度解读；特别收录长期湮没的《创造奇迹的信》及《幸福家庭生活的七个法则》篇。\n\n《人性的弱点》作为卡耐基最成功的励志经典，荟萃了卡耐基思想理论最精华的部分。该书在1937年首次出版，刚一上市就风靡全球，几十年间被翻译成全世界几乎所有的主要语言，全球总销量已达1.5亿余册，被视为社交心理和沟通技巧的“圣经”。它改变了千千万万人的命运。发明之王爱迪生、相对论鼻祖爱因斯坦、印度圣雄甘地、“米老鼠”的父亲华特•迪士尼、建筑业奇迹的创造者里维父子、旅馆业巨子希尔顿、白手起家的台湾塑料大王王永庆、麦当劳的创始人雷•克洛克等等，都深受卡内基思想和观点的激励和影响。\n\n本书译自美国西蒙与舒斯特出版公司1937年《人性的弱点》第一版，忠实还原了卡耐基38篇原始手稿。如何与陌生人熟络有方，如何在演讲时口吐莲花，如何与另一半恩爱有加，在书中你能找到立竿见影的处事秘笈。将卡耐基的理论付诸实践，打破思维定势，使成功有迹可循，一起见证赞赏、微笑、真诚、尊重的魔力。\n\n◆除了自由女神，卡耐基就是美国的象征。—— 《纽约时报》\n\n◆由卡耐基开创并倡导的个人成功学，已经成为这个时代有志青年迈向成功的阶梯，通过他的传播和教导，无数人明白了积极生活的意义，并由此改变了他们的命运。——约翰•肯尼迪（美国第35任总统）\n\n◆我从8岁就开始读卡耐基先生的著作，现在的年轻人们，你越早读卡耐基的作品，你的人生就越早获得启发。——沃伦•巴菲特（股神、全球著名投资商）\n\n◆戴尔•卡耐基的这些原则如魔术般令人震惊，他改变了3亿人的命运和生活。——鲁伯特•默多克（美国传媒大亨）\n\n《人性的弱点》是1937年最初首印版本原汁原味的复刻，收录了卡耐基本人、他的朋友为此书所写的内容推荐与背景介绍，并完整保留首版中卡耐基对婚姻与家庭的真知灼见。此外，本版新译的语言风格更贴近当下人们的阅读喜好，在融合时下语言风潮的同时也不失中文特有的韵味。\n\n《人性的弱点》作为一本实用的人际关系著作，从人性本质的角度，挖掘出潜藏在人们体内的弱点，使人们能够充分认识自己，并不断改造自己，从而能有所长进，直至取得最后的成功。在过去的77年里，戴尔•卡耐基的忠告带领着上千万名读者攀登上成功的阶梯，无论在事业方面还是个人生活上，他的箴言不断被一代代人实践与验证。在出版史上，本书创造了全世界图书销售空前的记录。在经济萧条时期之后，本书满足了普遍存在的人性的需要，触动了读者的神经，在当今社会依然有其特有的借鉴价值。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s28324472.jpg"
+      "封面图片": "./assets/covers/25985683.jpg"
     },
     {
       "id": "30430852",
@@ -4230,7 +4230,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.2",
       "评分人数": "13",
       "内容简介": "本书告诉人们如何摆脱忧虑的困扰，并指导人们如何获得快乐，享受快乐的人生。全书共六篇，内容包括：忧虑的真相、剖析忧虑的方法、如何消除忧虑、让自己平安快乐的七种方式等。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s29976242.jpg"
+      "封面图片": "./assets/covers/30430852.jpg"
     },
     {
       "id": "30548224",
@@ -4246,7 +4246,7 @@ window.BOOK_CATEGORY_DATA = {
       "装帧": "平装",
       "定价": "20.00元",
       "评分人数": "评价人数不足",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s35013260.jpg"
+      "封面图片": "./assets/covers/30548224.jpg"
     },
     {
       "id": "33385402",
@@ -4270,7 +4270,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.9",
       "评分人数": "14759",
       "内容简介": "避免情绪化决策，认识情绪化本能，作出相应改变，摆脱非理性的困扰，重新把能量投入建设性的行为中。\n\n避免一分为二：如今不应再把世界分为发达国家和发展中国家。大部分国家都是中等收入国家，而这种传统分类方式很容易让你在现代社会痛失潜在市场；\n\n避免以偏概全：在一些城市街头，你会看到很多盖到一半的房子。很容易认为这是因为盖房子的人失去了资金支持，或是做事毫无计划。其实这是房子主人储存财富的聪明办法；\n\n避免单一视角：美国人均卫生支出名列世界第一。然而美国并非全球最长寿的国家。美国的平均预期寿命只排在第40位；\n\n避免情急生乱：“你必须现在就行动，否则就来不及了！”这句话只会带来压力和焦虑。绝大多数情况下，我们并不需要立即采取行动，以后仍然会有机会。\n\n一旦你拥有了《事实》提供的思维方式，你就能：远离焦虑、变得乐观、充满希望、变得理性、发现潜在的商机、作出有效决策。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s33129140.jpg"
+      "封面图片": "./assets/covers/33385402.jpg"
     },
     {
       "id": "26848036",
@@ -4288,7 +4288,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.5",
       "评分人数": "949",
       "内容简介": "《我们内心的冲突》讨论了人内心的主要的冲突类型和它们的各种表现形式，分析并归纳了各种相互矛盾的态度和倾向，指出了被这些冲突所扰之人旨在解决冲突的努力结果怎样导致失败并陷入恶性循环，提出了解决这些冲突的切实可行的建议和设想。 本书的主旨是为了推动心理分析的发展。它的内容主要来自于对病人和自身的的心理分析的经验总结。本书对致力于提高我们的理论和治疗方法的精神分析工作者有所帮助。",
-      "封面图片": "https://img2.doubanio.com/view/subject/s/public/s29232321.jpg"
+      "封面图片": "./assets/covers/26848036.jpg"
     },
     {
       "id": "30457109",
@@ -4307,7 +4307,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "6.2",
       "评分人数": "1827",
       "内容简介": "《乌合之众》是一部讲透政治、经济、管理的心理学巨著，被誉为群体心理学的开山之作。全书深入浅出地剖析了群体的种种特点及其成因，精致地描述了集体心态，对人们理解集体行为的作用以及对社会心理学的思考发挥了巨大影响。作者在书中以预言家般的洞察力，成功描述了此后一百多年间包括两次世界大战和众多民主革命等几乎所有重大事件。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s34067315.jpg"
+      "封面图片": "./assets/covers/30457109.jpg"
     },
     {
       "id": "26989781",
@@ -4327,7 +4327,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.8",
       "评分人数": "7222",
       "内容简介": "青少年必备的心理学读本，家长与教师了解孩子内心世界的工具书，青少年了解自我、解疑释惑、健康成长的必读书。\n\n畅销80余年的心灵成长读本，自第一版发行已逾八十年，版本无数，本书是译者呕心沥血的版本，译文简洁流畅，十分契合当下的读者受众。\n\n本书的作者阿德勒是个体心理学的创始人，人本主义心理学先驱，现代自我心理学之父。他是弗洛伊德的学生之一，同时也是精神分析学派内部一个反对弗洛伊德的心理学体系的心理学家。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s29383332.jpg"
+      "封面图片": "./assets/covers/26989781.jpg"
     },
     {
       "id": "35377300",
@@ -4347,7 +4347,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.4",
       "评分人数": "1185",
       "内容简介": "《自控力：斯坦福大学广受欢迎的心理学课程》是斯坦福大学广受欢迎心理学课程。\n\n本书为读者提供了清晰的框架，讲述了什么是自控力，自控力如何发生作用，以及为何自控力如此重要，又应该如何培养自控力，拿回人生主导权！\n\n作为一名健康心理学家，凯利•麦格尼格尔博士的工作就是帮助人们管理压力，并在生活中做出积极的改变。多年来，通过观察学生们是如何控制选择的，她意识到，人们关于自控的很多看法实际上妨碍了我们取得成功。例如，把自控力当作一种美德，可能会让初衷良好的目标脱离正轨。所以，麦格尼格尔要求她的学生了解影响自控的生理学基础、心理陷阱和各种社会因素。\n\n凯利•麦格尼格尔吸收了心理学、神经学和经济学等学科的洞见，为斯坦福大学继续教育项目开设了一门叫做“意志力科学”的课程，参与过这门课程的人称其能够“改变一生”。这门课程就是《自控力：斯坦福大学广受欢迎的心理学课程》一书的基础。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s34809926.jpg"
+      "封面图片": "./assets/covers/35377300.jpg"
     },
     {
       "id": "11445548",
@@ -4372,7 +4372,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.4",
       "评分人数": "19109",
       "内容简介": "《自私的基因》是20世纪最经典的著作，这版三十周年纪念版，在前版本基础上有两章增补和修订。我们从哪里来，又将到哪里去。生命有何意义，我们该如何认知自己？《自私的基因》充满想象力。任何生物，包括我们自己，都只是求生的机器。这本书是实实在在的认知科学，复制、变异和淘汰简单的三种机制可以演变出所有大千世界生命现象里的林林总总。\n\n道金斯在《自私的基因》中的突破性贡献在于，把根据自然选择的社会学说的这一重要部分，用简明通俗的形式，妙趣横生的语言介绍给大家，这是第一次。他惊世骇俗地在《自私的基因》中提出：我们生来是自私的。人类窥见了社会关系中基本的对称性和逻辑性，在我们有了更充分的理解之后，我们的政治见解当会重新获得活力，并对心理学的科学研究提供理论上的支柱。在这一过程中，我们也必将对我们受苦受难的许多根源有一个更深刻的理解。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s11214645.jpg"
+      "封面图片": "./assets/covers/11445548.jpg"
     },
     {
       "id": "35178861",
@@ -4392,7 +4392,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.9",
       "评分人数": "614",
       "内容简介": "本书将带我们走进了成功人士的世界，意外揭开一连串令人惊异的统计结果：英超联赛大多数球员都在9月至11月出生；比尔·盖茨和史蒂夫·乔布斯都生于1955年；纽约很多著名律所的开创者竟都是犹太人后裔，并且其祖辈大多在纽约服装行业谋生。\n\n为什么会出现这种情况？原因在于：英超球员的注册时间是每年9月，在同龄球员中，9月出生的人实际上比8月出生的人几乎大了一岁，一岁之差对他们的职业生涯影响巨大；1955年前后正是计算机革命时期，出生太早，无法拥有个人电脑，而出生太晚，计算机革命的时机又被别人占去……因此，那些奇才异类得感谢机遇的眷顾。\n\n另外，他们的成功还需要上辈人的文化熏陶，与文化传承息息相关：中国人的数学优势得益于中国人种植水稻的勤劳精神和汉字读音的简洁明了；20世纪90年代初韩国较高的飞机失事率，也是由韩国上下级之间过于严格的等级制度造成的。\n\n怪才格拉德威尔告诉我们，如果没有机遇、文化和环境因素，即便是智商超过爱因斯坦，也只能做一份平庸的工作。《异类》带领我们找到了成功的根源，发现了更深刻的成功契机，也为社会变革带来新的启示。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s34008404.jpg"
+      "封面图片": "./assets/covers/35178861.jpg"
     },
     {
       "id": "3580750",
@@ -4409,7 +4409,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.3",
       "评分人数": "16818",
       "内容简介": "这部以历史为解读对象的著作中，作者以亦雅亦俗、亦庄亦谐的写作方式，叙述了历史上值得人们思考的大大小小的无数案例，在生动、有趣地讲述官场故事的同时，作者透过历史表象，揭示出隐藏在正式规则之下、实际上支配着社会运行的不成文的规矩，并将其名之日“潜规则”，进而指出潜规则的产生在于现实的利害计算与趋利避害。书中对于潜规则的定义、特征，潜规则阴影下皇帝、官员、百姓的不同处境与抉择，潜规则盛行的社会土壤，以及潜规则何时会萎缩，均有论述。潜规则现象产生、盛行于我国的封建社会，但它一时还难以消失，只有加强社会主义民主，健全社会主义法制，才能最后根除潜规则。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s3637818.jpg"
+      "封面图片": "./assets/covers/3580750.jpg"
     },
     {
       "id": "37153448",
@@ -4427,7 +4427,7 @@ window.BOOK_CATEGORY_DATA = {
       "ISBN": "9787505642232",
       "装帧": "精装",
       "评分人数": "目前无人评价",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s35031283.jpg"
+      "封面图片": "./assets/covers/37153448.jpg"
     },
     {
       "id": "37152361",
@@ -4439,7 +4439,7 @@ window.BOOK_CATEGORY_DATA = {
       "ISBN": "9787505641006",
       "装帧": "精装",
       "评分人数": "评价人数不足",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s35031036.jpg"
+      "封面图片": "./assets/covers/37152361.jpg"
     },
     {
       "id": "37153447",
@@ -4457,7 +4457,7 @@ window.BOOK_CATEGORY_DATA = {
       "ISBN": "9787505642249",
       "装帧": "精装",
       "评分人数": "评价人数不足",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s35031282.jpg"
+      "封面图片": "./assets/covers/37153447.jpg"
     },
     {
       "id": "27140491",
@@ -4473,7 +4473,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.4",
       "评分人数": "4175",
       "内容简介": "艺术普及达人顾爷全新作品，讲述他最向往也最欣赏的艺术时代——文艺复兴。一生未娶的痴情人—波提切利 ，脾气暴躁的肌肉控—米开朗琪罗 ，德艺双馨的实干派—提香，异想天开的梦想家—达芬奇，画如其人的小鲜肉—拉斐尔……\n\n9位骨灰级艺术大咖，9段奇妙的艺术故事，一个需要巨人而且产生巨人的时代，一场“人”代替“神”的艺术轰趴一触即发……",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s29544132.jpg"
+      "封面图片": "./assets/covers/27140491.jpg"
     },
     {
       "id": "36028818",
@@ -4490,7 +4490,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.7",
       "评分人数": "409",
       "内容简介": "☞艺术没有那么高不可攀！《小顾聊绘画·壹》续作，带你零压力了解艺术家！\n\n顾爷以鲜活有趣接地气的讲述，带领读者游览7位著名艺术家的人生长廊，寻找大师作品中的“烟火气”。传奇人物丢勒，叛逆分子库尔贝，谜男子弗美尔，金色画家克利姆特，怪才少年席勒，万人迷马奈，还有被“男神”们包围的女子莫里索。\n\n☞一本忍不住一口气读完的艺术故事集，一场酣畅淋漓的艺术“脱口秀”，让你分分钟爱上艺术！\n\n作者的文风幽默诙谐，用非常直白有趣的语言去讲述每个画家的故事，分析每个重要作品，让读者迅速记住画家及作品的特点。\n\n☞顾爷：全网超百万粉丝拥趸，以“小顾聊绘画”系列开启艺术新型解读\n\n☞“小顾聊绘画”系列人气艺术入门科普读物，新版归来\n\n☞裸脊锁线装帧，180度平铺阅读，全四色印刷\n\n……………\n\n《小顾聊绘画·壹》续作，带你零压力了解艺术家！\n\n《小顾聊绘画·贰》中顾爷继续以艺术爱好者的身份，鲜活有趣接地气地带领读者游览7位著名艺术家的人生长廊，寻找大师作品中的“烟火气”。\n\n传奇人物丢勒，叛逆分子库尔贝，谜男子弗美尔，金色画家克利姆特，怪才少年席勒，万人迷马奈，还有被“男神”们包围的女子莫里索。\n\n一本忍不住一口气读完的艺术故事集，一场酣畅淋漓的艺术“脱口秀”，让你分分钟爱上艺术！",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s34275354.jpg"
+      "封面图片": "./assets/covers/36028818.jpg"
     },
     {
       "id": "36028817",
@@ -4507,7 +4507,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.4",
       "评分人数": "475",
       "内容简介": "☞艺术没有那么高不可攀！一场西方艺术脱口秀，零压力无门槛，带你轻松了解艺术家！\n\n顾爷以一个艺术爱好者的身份，用通俗有趣的语言和闲聊的方式，向读者讲述9位著名艺术家的生平故事：卡拉瓦乔，伦勃朗，透纳，康斯太勃尔，莫奈，雷诺阿，凡·高，德加，塞尚。\n\n☞一本忍不住一口气读完的艺术故事集，一场酣畅淋漓的艺术“脱口秀”，让你分分钟爱上艺术！\n\n作者的文风幽默诙谐，用非常直白有趣的语言去讲述每个画家的故事，分析每个重要作品，让读者迅速记住画家及作品的特点。\n\n☞顾爷：全网超百万粉丝拥趸，以“小顾聊绘画”系列开启艺术新型解读\n\n☞“小顾聊绘画”系列人气艺术入门科普读物，新版归来\n\n☞裸背锁线装帧，180度平铺阅读，全四色印刷\n\n………………\n\n《小顾聊绘画·壹》脱胎自作者在微博上发布的“小顾聊绘画”系列长微博，顾爷以一个艺术爱好者的身份，用一种新型的解读形式向读者讲述9位世界艺术家的生平故事：充满戏剧性的男神卡拉瓦乔，光影大师伦勃朗，站在风口浪尖的奇才透纳，大器晚成为爱而殇的康斯太布尔，一画画就挪不动地方的莫奈，没有乳房就不会画画的雷诺阿，命苦如中药命硬如钻石的凡·高，舞女控德加，还有苹果男塞尚。\n\n艺术家还是那些熟悉的艺术家，他们的人生也还是他们的人生，只是一切因为顾爷的闲聊而变得生动可爱，妙趣横生。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s34275353.jpg"
+      "封面图片": "./assets/covers/36028817.jpg"
     },
     {
       "id": "37153449",
@@ -4525,7 +4525,7 @@ window.BOOK_CATEGORY_DATA = {
       "ISBN": "9787505642225",
       "装帧": "精装",
       "评分人数": "目前无人评价",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s35031284.jpg"
+      "封面图片": "./assets/covers/37153449.jpg"
     },
     {
       "id": "37152360",
@@ -4537,7 +4537,7 @@ window.BOOK_CATEGORY_DATA = {
       "ISBN": "9787505640993",
       "装帧": "精装",
       "评分人数": "目前无人评价",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s35031035.jpg"
+      "封面图片": "./assets/covers/37152360.jpg"
     },
     {
       "id": "36802553",
@@ -4548,7 +4548,7 @@ window.BOOK_CATEGORY_DATA = {
       "ISBN": "9787505641013",
       "装帧": "精装",
       "评分人数": "评价人数不足",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s35031686.jpg"
+      "封面图片": "./assets/covers/36802553.jpg"
     },
     {
       "id": "35791621",
@@ -4565,7 +4565,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.2",
       "评分人数": "1119",
       "内容简介": "★ 一场有梗有料又新潮的国画艺术脱口秀，一本图文并茂、妙趣横生的中国画通史，让你忍不住爱上中国画。\n\n★ 这本书是顾爷首部以通俗讲通史的国画艺术普及读物，从中国存世最早的汉墓帛画，到被称为传说级的艺术品《辋川图》；从现存唯一的隋代手卷到唐朝贵妇日常生活图景……顾爷在书中选取了《清明上河图》《马王堆T形帛画》《洛神赋图》《女史箴图》《簪花仕女图》《游春图》《辋川图》等十几幅颇具代表性的中国传统画进行讲解。他以一贯的幽默表达和脱口秀般的解说，结合当下流行文化，形象刻画出艺术作品中人物的情感、命运及传奇性，多维度地呈现传统艺术的魅力和点睛之处。\n\n【编辑推荐】\n\n★ 有梗有料又新潮的国画艺术脱口秀，一本书让你爱上中国画！\n\n这本书是顾爷首部以通俗讲通史的国画艺术普及读物，从中国存世最早的汉墓帛画，到被称为传说级的艺术品《辋川图》；从现存唯一的隋代手卷到唐朝贵妇日常生活图景……顾爷以一贯的幽默表达和脱口秀般的解说，结合当下流行文化，形象刻画出艺术作品中人物的情感、命运及传奇性，多维度地呈现传统国画的魅力和点睛之处。\n\n★ 顾爷：畅销书作家，超百万粉丝拥趸，开启艺术新型解读的第一人\n\n★ 兼具复古与新潮的设计装帧，高品质精美印刷，随书附赠童年折纸游戏“东南西北”\n\n★ 自2020年5月开始公号连载，每篇阅读量10万+",
-      "封面图片": "https://img2.doubanio.com/view/subject/s/public/s34159731.jpg"
+      "封面图片": "./assets/covers/35791621.jpg"
     },
     {
       "id": "26819477",
@@ -4584,7 +4584,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.9",
       "评分人数": "5947",
       "内容简介": "总有一盏书店的灯光，等待温暖人心。\n\n日本人对书店有两种称呼，“书店（shoten）”和“本屋（honya）”。前者比较书面，后者则偏口语，带着一种亲切感，我们通常会在“本屋”后面加上一个“桑”。我小时候，没事儿就老往离家不远的小书店跑。母亲听到门口穿鞋的动静，问我去哪儿，我总回答：“去本屋桑。”\n\n可是长大后，“本屋桑”渐渐变少了。他们在哪儿呢，他们还好吗？",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s28982109.jpg"
+      "封面图片": "./assets/covers/26819477.jpg"
     },
     {
       "id": "26865749",
@@ -4602,7 +4602,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "6.5",
       "评分人数": "5073",
       "内容简介": "说话不只是一种“感觉”，还是一门“技术”！就像烹饪有食谱一样，说话也有它的“秘方”。古往今来，但凡不通说话之道者，都难成大事，而能成事者，一定在语言方面具有其独特的能力。一句恰到好处的话，甚至可以改变一个人的命运。人际沟通中怎样措辞？怎样把握说话的场合和时机？如何领略说话精髓，悟透说话之道，很快在众人中脱颖而出？\n\n作者通过自己多年来掌握的语言措辞技巧告诉大家该如何修炼说话能力，如何提高自己的说话水平。在本书中，你可以通过熟悉“7个突破口”和“8个技巧”，并阅读大量实践故事，更好地掌握并运用语言措辞的技巧，使自己成为说话高手。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s29020173.jpg"
+      "封面图片": "./assets/covers/26865749.jpg"
     },
     {
       "id": "36141170",
@@ -4625,7 +4625,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.1",
       "评分人数": "1479",
       "内容简介": "《通往奴役之路》一书在哈耶克的学术生涯中占有极其重要地位，这本书为他赢得广泛的注意，他的世界性声誉就是由此奠定的。《通往奴役之路》被翻译成超过20种语言出版，是对古典自由主义和自由意志主义理论的阐述中颇受欢迎的书籍之一。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s34343174.jpg"
+      "封面图片": "./assets/covers/36141170.jpg"
     },
     {
       "id": "21964875",
@@ -4641,7 +4641,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.3",
       "评分人数": "82",
       "内容简介": "《先民的歌唱:诗经》作者是国学大家，《先民的歌唱:诗经》从趣味性和启发性入手，解读了《诗经》中最精彩的篇章，并将《诗经》中的故事重新演绎，使之更加清晰动人。其中还有原文中一些词句的注释，使读者看起来更加立体，语言也明白晓畅，是现代人阅读《诗经》的最佳读本。\n\n海报：",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s26615136.jpg"
+      "封面图片": "./assets/covers/21964875.jpg"
     },
     {
       "id": "30668609",
@@ -4655,7 +4655,7 @@ window.BOOK_CATEGORY_DATA = {
       "定价": "50.00元",
       "评分人数": "评价人数不足",
       "内容简介": "《剑桥雅思核心词汇精讲精练》参考剑桥国际语科库和剑桥学习者语库中的资料，以结合雅思备考、学习语言为原则精心编纂而成。同时，本书还收录了考生所犯的真实错误，以便借鉴。全书分为25个单元，由雅思专家PaulineCullen精心撰写，通过单词和语境相结合的方式加强考生对词汇的记忆。对词汇的讲解深入浅出，旨在提高雅思考生掌握词汇的准确度，是为全球雅思考生量身定做的必备用书。全书的听力部分均配有录音，由外籍专家精心录制，记忆单词与听力练习相结合，帮助考生高效备考。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s34066365.jpg"
+      "封面图片": "./assets/covers/30668609.jpg"
     },
     {
       "id": "1234371",
@@ -4672,7 +4672,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.2",
       "评分人数": "15",
       "内容简介": "外研社·DK·牛津英语图解大词典，ISBN：9787560016252，作者：英国DORLING KINDERSLEY公司，牛津大学出版社编",
-      "封面图片": "https://img2.doubanio.com/view/subject/s/public/s24413181.jpg"
+      "封面图片": "./assets/covers/1234371.jpg"
     },
     {
       "id": "30741467",
@@ -4688,7 +4688,7 @@ window.BOOK_CATEGORY_DATA = {
       "定价": "45.00元",
       "评分": "6.0",
       "评分人数": "35",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s34229173.jpg"
+      "封面图片": "./assets/covers/30741467.jpg"
     },
     {
       "id": "4444915",
@@ -4705,7 +4705,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.7",
       "评分人数": "79",
       "内容简介": "For anyone who has ever searched for the right word at a crucial moment, the revised third edition of this bestselling guide offers a smart and succinct way to say everything\n\nOne million copies sold!\n\nHow to Say It® provides clear and practical guidance for what to say--and what not to say--in any situation. Covering everything from business correspondence to personal letters, this is the perfect desk reference for anyone who often finds themselves struggling to find those perfect words for:\n\n* Apologies and sympathy letters\n\n* Letters to the editor\n\n* Cover letters\n\n* Fundraising requests\n\n* Social correspondence, including invitations and Announcements\n\nThis new edition features expanded advice for personal and business emails, blogs, and international communication.",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s4255767.jpg"
+      "封面图片": "./assets/covers/4444915.jpg"
     },
     {
       "id": "1769237",
@@ -4722,7 +4722,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.6",
       "评分人数": "1375",
       "内容简介": "First time in book form! A successful program for teaching 3,500 vocabulary words that successful people need to know, based on America's #1 bestselling audio vocabulary series.\n\n\"People judge you by the words you use.\"  Millions of Americans know this phrase from radio and print advertising for the  Verbal Advantage  audio series, which has sold over 100,000 copies. Now this bestselling information is available for the first time in book form, in an easy-to-follow, graduated vocabulary building program that teaches an outstanding vocabulary in just ten steps.\n\nUnlike other vocabulary books,  Verbal Advantage  provides a complete learning experience, with clear explanations of meanings, word histories, usages, pronunciation, and more. Far more than a cram session for a standardized test, the book is designed as a lifetime vocabulary builder, teaching a vocabulary shared by only the top percentage of Americans, with a proven method that helps the knowledge last.\n\nA 10-step vocabulary program teaches 500 key words and 3,000 synonyms.\n\nLively, accessible writing from an expert author and radio personality.",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s1640479.jpg"
+      "封面图片": "./assets/covers/1769237.jpg"
     },
     {
       "id": "25977798",
@@ -4738,7 +4738,7 @@ window.BOOK_CATEGORY_DATA = {
       "定价": "USD 7.99",
       "评分": "9.4",
       "评分人数": "2034",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s28065958.jpg"
+      "封面图片": "./assets/covers/25977798.jpg"
     },
     {
       "id": "30208077",
@@ -4761,7 +4761,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.3",
       "评分人数": "5466",
       "内容简介": "作为一部自传体小说，斐德洛的故事，其实正是本书作者罗伯特·M.波西格的人生。\n\n在《柏拉图对话集》中，斐德洛是一个爱好哲学的普通雅典青年。而在本书中，斐德洛重返人间。他曾经是学哲学的学生，同时也是教修辞学的教师，但是由于哲学理念与文化的世界观冲突，他终于因精神崩溃而住院。出院后，他希望从狭窄而受限的自我解脱，于是开始了一场骑着摩托车横跨美国大陆的万里长旅，一路经过复杂经验与反省思考，终于暂时恢复了灵性的完整与清静。\n\n这一回归自己的过程，是通过不断寻求“良质”，即东方哲学里的禅思，并用摩托车维修之道对其进行阐释而实现的。这便是《禅与摩托车维修艺术》一名的由来。\n\n与此同时，书中还批评了西方世界的二分法或二元论，如人文与科技、精神与物质、神秘主义与机械论、艺术与工业、心灵与机械、东方与西方等相对意识。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s29831183.jpg"
+      "封面图片": "./assets/covers/30208077.jpg"
     },
     {
       "id": "2359003",
@@ -4781,7 +4781,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.1",
       "评分人数": "23889",
       "内容简介": "《沉思录》是古罗马皇帝奥勒留写给自己的书，内容大部分是他在鞍马劳顿中写成的。作品来自奥勒留对身羁宫廷的自己和自己所处混乱世界的感受，追求一种冷静而达观的生活。这部著作是斯多葛学派的一个里程碑。",
-      "封面图片": "https://img2.doubanio.com/view/subject/s/public/s2825021.jpg"
+      "封面图片": "./assets/covers/2359003.jpg"
     },
     {
       "id": "34847210",
@@ -4795,7 +4795,7 @@ window.BOOK_CATEGORY_DATA = {
       "ISBN": "9787544766173",
       "定价": "22",
       "评分人数": "评价人数不足",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s34241857.jpg"
+      "封面图片": "./assets/covers/34847210.jpg"
     },
     {
       "id": "26972599",
@@ -4815,7 +4815,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.3",
       "评分人数": "119",
       "内容简介": "《论语》是儒家的语录体著作，用言谈的原态方式记录了孔子的思想，是我们了解和研究孔子思想及儒学理论最基本也是可靠的文献。《大学》和《中庸》是儒家经典中具系统性的两种理论著作。《大学》是“内圣”与“外王”高度统一的政治理论，也就是以“德治”为指导思想的政治哲学；而《中庸》则是协调各种关系以创建和谐社会的人生学说，是儒家论述人生修养境界的一部道德哲学专著。这三部书再加上《孟子》，合称为“四书”，是元、明、清时期科举命题的经典和士人重要的必读之书，在儒学发展史上具有重要的作用和影响。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s33986773.jpg"
+      "封面图片": "./assets/covers/26972599.jpg"
     },
     {
       "id": "35263414",
@@ -4834,7 +4834,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.7",
       "评分人数": "238",
       "内容简介": "本书中“人生的智慧”完全是意识领域里的概念：所谓“人生的智慧”，指的是能够让我们幸福愉快地度过一生的一门艺术。在哲学上也可称之为“幸福论”。本书为人们如何才能拥有“幸福的存在”提供了指导和启发。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s33763658.jpg"
+      "封面图片": "./assets/covers/35263414.jpg"
     },
     {
       "id": "30499773",
@@ -4844,7 +4844,7 @@ window.BOOK_CATEGORY_DATA = {
       "ISBN": "9787506084710",
       "定价": "36.00",
       "评分人数": "评价人数不足",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s33647576.jpg"
+      "封面图片": "./assets/covers/30499773.jpg"
     },
     {
       "id": "35302634",
@@ -4863,7 +4863,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.8",
       "评分人数": "9029",
       "内容简介": "【内容简介】\n\n90年长销经典，诺奖得主罗素风靡东西方的幸福指南。南京大学社会心理学博士、前非诚勿扰学者嘉宾黄菡新译，2110字导读推荐。\n\n《幸福之路》是罗素探索现代社会幸福问题的经典生活哲理书。全书简明扼要地分为“不幸福的原因”和“幸福的原因”两大部分，不去讲高深的哲理 和枯燥的说教，而是直接反思生活中最常破坏幸福感的消极心理因素，如竞争、疲劳、嫉妒、罪恶感、受害妄想等，直接给出获得和提升幸福感的具体生活建议，如通过兴致、情爱、家庭、工作、闲情逸致等。\n\n作者给书中的每个观点都提供了真实的人性经验的支撑和清晰、坦率、真诚的剖析论证；他所开列的药方，也都是亲历亲见，并且实践证明有效提升了他的幸福感，所以具有非常强的实用性。无数感到苦闷而又不甘忍受的男男女女，完全能够借此明察自身的困境，进而找到突围之路，凭着适当的努力变得幸福。是每个人在幸福追寻途中的必备指南。\n\n【学人推荐】\n\n阅读罗素的作品给我带来了无数快乐的时光。\n\n——爱因斯坦\n\n罗素的思考以其清醒、开明和对常识的坚守而独树一帜。\n\n——A.C.格雷林（英国首席幸福经济学家）\n\n罗素正确提问，清晰作答。一部深入人性的悲悯之作。\n\n——理查德·赖亚德（大英帝国司令勋章得主）\n\n作为最近大量出版的自助书籍的原型，很少有像罗素的这本小书一样值得一读。\n\n——丹尼尔·丹尼特（美国艺术与科学院院士）\n\n【媒体推荐】\n\n罗素的书是圣经的现代替代品。——《时代周刊》\n\n他说他写的是常识，实际上是不寻常的智慧。——《观察员》\n\n信念出错、思想混乱的日子里的必需品。——《听众》\n\n快乐指南，罗素已做到最好。——《新闻纪事报》\n\n这本系统化的常识手册，明智而直率，应该为全国的每一位家长、教师、部长和国会议员所阅读。——《大西洋月刊》",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s33788143.jpg"
+      "封面图片": "./assets/covers/35302634.jpg"
     },
     {
       "id": "26817459",
@@ -4880,7 +4880,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.4",
       "评分人数": "509",
       "内容简介": "《庄子》是道家最重要的经典之一，也是中华元典之一，在中国思想史上和文化史上具有举足轻重的地位。台湾著名学者陈鼓应先生研究道家学说有年，在充分吸取前人成果的基础上，结合自己的研究心得，完成了这部今注今译。本书依据王孝鱼校点的郭庆藩《庄子集释》本进行注译，每一篇先解题，而后是原文，注释和今译。陈鼓应先生在注释上下足了功夫，为表明今注有所根据，又附上前人的注解，即达到解释原句难懂的目的，又可把历代各家注《庄》的成绩列示出来。本书面向的读者既有专业人士，也有普通大众。本书1974年由台湾商务印书馆首次印刷，80年代中华书局曾引进出版，在内地产生了很大反响。后来台湾又出版了两次修订版。本版为再次修订的最新版。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s28848970.jpg"
+      "封面图片": "./assets/covers/26817459.jpg"
     },
     {
       "id": "26949210",
@@ -4900,7 +4900,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.2",
       "评分人数": "5252",
       "内容简介": "假设你在桥上，目睹电车即将撞上轨道上的五个人，拯救他们的唯一办法，就是把站在你身旁的一个人推下去，你会怎么选择？\n\n假设博物馆里每一幅画都是相同的红色画布，只有画名和简介不同，策展人说每幅画想传达的意念也有所不同，你可以要求退钱吗？\n\n假设村里的理发师只能帮不自己刮胡子的村民刮胡子，不能帮会自己刮胡子的村民刮胡子，他自己的胡子要由谁来帮他刮？\n\n以上问题都是哲学家精心设计的“思想实验”，因为哲学无法用科学实验来检验其正确性，于是哲学家在脑中设计出具体的假设情境，测试哲学理论是否符合我们对于相关概念的理解，以找出人生根本问题的答案。苏格拉底、柏拉图、萨特、加缪、尼采……众多伟大的哲学家都曾设计过思想实验。新锐哲学家伊夫•博萨尔特精选其中最经典的55则，用清晰易懂的方式加以阐述、推演，引领读者探讨最令人彷徨的人生11大主题。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s29263759.jpg"
+      "封面图片": "./assets/covers/26949210.jpg"
     },
     {
       "id": "6750333",
@@ -4917,7 +4917,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.8",
       "评分人数": "689",
       "内容简介": "《谈美》是朱光潜先生以书信体形式为青年写的一本美学入门书，自问世以来即深受好评，被视为学术性与普及性兼备的经典之作。全书从“要求人生净化，先要求人生美化”的理念出发，顺着美感态度的特性、艺术与人生的距离、美感经验与移情的关系、美感与快感、自然美与艺术美等问题次第展开，最后呼吁人们“慢慢走，欣赏啊”，因为“欣赏之中都寓有创造，创造之中也都寓有欣赏”。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s6913213.jpg"
+      "封面图片": "./assets/covers/6750333.jpg"
     },
     {
       "id": "10487779",
@@ -4934,7 +4934,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.4",
       "评分人数": "485",
       "内容简介": "本书是北京大学教授李零先生讲授《孙子兵法》课程的讲义。作者在书中以生动活泼的语言、丰富具体的资料，向读者展现这部中国古代最伟大兵法著作的内涵，介绍博大精深、源远流长的中国兵学知识，并对军事学、思想史、古代哲学等相关内容进行比较研究，使读者在轻松的阅读中重新全面深入地了解《孙子兵法》，获得更真切的兵学知识。全书分十五讲，约27万字，配图近百幅。本书为该书之精装本。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s9086685.jpg"
+      "封面图片": "./assets/covers/10487779.jpg"
     },
     {
       "id": "35059078",
@@ -4953,7 +4953,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.5",
       "评分人数": "388",
       "内容简介": "《孙子兵法》成书于两千五百年前的春秋末年，是世界上最早的军事理论著作，也是中国古代最伟大的军事战略思想。它被译成日、法、英、俄、德等二十七种语言，在全球已刊印出数千种版本，是世界上影响最大、流传最广的中国古籍之一。\n\n国人对出自《孙子兵法》的名言“出奇制胜”“置之 死地而后生”“知己知彼，胜乃不殆”等都已耳熟能详，但阅读这本“兵学圣典”的意义，更在于学习它那战术背后所拥有的谋略智慧，和高瞻远瞩的战争态度。\n\n它的宏观视角和前瞻性创见使其拥有了跨越时间和术业的魅力，受到政界、军事界、商业界、文化界的推崇。将其奉为圭臬的人不乏帝王如曹操、李世民、拿破仑，美国总统尼克松、克林顿，军事家武田信宏、汤米·弗兰克斯，以及松下电器、索尼公司、本田汽车的创始人等。\n\n《孙子兵法》原文不长，仅有六千余字，分为十三个篇章。本书以内容最完整的南宋《十一家注孙子》为底本，由中国人民解放军军事科学院战略研究员、博士生导师刘庆译注。每章先以红色字体展示兵法原文，在短暂的题解过后，进入逐句翻译和注释分析。希望能以最简洁清晰的方式，呈现中华智慧的风采。\n\n————————————————————————\n\n★中国人民解放军军事科学院战略研究部大校、孙子兵法研究会常务理事、北京大学孙子兵法通识课教授刘庆译注\n\n★红黑双色印刷，三种字体区分原文、翻译和注释，简洁清晰的精装典藏版\n\n★助你“慎战”“速战”“全胜”，“知己知彼，胜乃不殆”\n\n————————————————————————\n\n名人推荐\n\n我推荐这本书成为一切政界人士乃至大学生的必读作品。如果有幸当选总统，我要以法律的名义要求所有官兵每年参加两次《孙子兵法》的考试，要笔试加口试，95分才算及格，考不及格的人要降级处理，想上诉的话就罢免他们的官衔。——美国亚洲问题专家詹姆斯·克拉维尔\n\n《孙子兵法》所提供的是没有时代界限的处事原则，我相信无论对政治家还是对各种企业家来说，它都是可以学习的老师，可以获得指导的经典。——美国总统克林顿\n\n在所有战争研究著作中，《孙子兵法》最佳，《战争论》只能屈居第二。——以色列当代战略学者克里费德\n\n《孙子兵法》是天下第一神灵，我们必须顶礼膜拜，认真背诵，灵活运用，公司才能发达。——松下电器创始人松下幸之助\n\n倘若我早日见到这部兵法，我是不会失败的。——法兰西第一帝国皇帝拿破仑\n\n吾观兵书战策多矣，孙武所著深矣，审计重举，明画深图，不可相诬。——东汉末年魏武帝曹操\n\n朕观诸兵书，无出孙武。——唐太宗李世民\n\n前孙子者，孙子不遗；后孙子者，不遗孙子。——明朝军事学者茅元仪\n\n就中国历史来考究，两千多年的兵书，有十三篇，那十三篇兵书，便成立中国的军事哲学。——孙中山\n\n孙子的规律，“知彼知己，胜乃不殆”至今天仍是科学真理。——毛泽东",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s33638854.jpg"
+      "封面图片": "./assets/covers/35059078.jpg"
     },
     {
       "id": "36245871",
@@ -4969,7 +4969,7 @@ window.BOOK_CATEGORY_DATA = {
       "装帧": "平装",
       "定价": "39.80元",
       "评分人数": "评价人数不足",
-      "封面图片": "https://img2.doubanio.com/view/subject/s/public/s34414711.jpg"
+      "封面图片": "./assets/covers/36245871.jpg"
     },
     {
       "id": "35838340",
@@ -4985,7 +4985,7 @@ window.BOOK_CATEGORY_DATA = {
       "定价": "21.90元",
       "评分": "9.5",
       "评分人数": "25",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s34181892.jpg"
+      "封面图片": "./assets/covers/35838340.jpg"
     },
     {
       "id": "35740201",
@@ -5002,7 +5002,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.4",
       "评分人数": "10",
       "内容简介": "本书为“国学经典三部曲”之一， 由中国人民大学国学院教授、博导黄朴民译注并解读。\n\n全书分为7大部分：系列总序，单本导言，篇章导读，原文，注释，今译，解读。\n\n跟随黄老师系统完成国学学习的入门和进阶，真正领悟孙子的智慧。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s34959527.jpg"
+      "封面图片": "./assets/covers/35740201.jpg"
     },
     {
       "id": "35365678",
@@ -5022,7 +5022,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.8",
       "评分人数": "607",
       "内容简介": "【编辑推荐】\n\n是性行为塑造了人类的文明还是人类文明决定我们的性行为？\n\n为什么只有人类才会大规模的同类相残？\n\n人类——这种全身裸露的猿，在动物学家莫利斯眼里是什么样子？\n\n德斯蒙德•莫利斯的“裸猿三部曲”享誉全球50多年。\n\n50年过去了，但我们依然无法正视那个“动物的”自己。\n\n2012年《新科学家》评选出的“帮助改变世界的十大大众科学书籍”中，第六本是《裸猿》。\n\n评奖语写：“《裸猿》从比较动物学和生物人类学的角度研究原始先民和部落人的行为模式，涉及的主题有人类进化、性行为、育儿、探索、领地、进食、安抚以及人与动物的比较。读者从中顿悟：现代人的行为模式和远古的祖先息息相关，我们的基本行为模式是在树栖猿—地栖猿—狩猎猿的进化过程中确定的。”\n\n【内容简介】\n\n现存的猴类和猿类共有193种，其中的192种全身长毛，唯一例外的物种是一种全身裸露的猿类，即人类。\n\n莫利斯把人类称为“裸猿”，作为动物来研究，从起源、性行为、育儿、探索与游戏、争斗、觅食与进食、梳理与安抚等方面探讨了人类的生物行为。\n\n面对这些基本的问题，裸猿的反应是什么？他的反应与猴类和猿类的反应有何异同之处？他在哪方面有独特之处？他的奇特之处与他的演化过程有何关系？\n\n我们的基因不仅影响我们眼睛的颜色，以及我们的解剖特征，而且在决定行为上起到一定的作用。\n\n每一种动物都从行为模式的继承中获益；没有理由认为，人会有所不同。\n\n【媒体评论】\n\n《裸猿》问世时，诸如此类的提议是不允许的：基因影响人类行为，性行为形塑社会，而不是反过来社会形塑性行为。人类被视为它自己的作品。文化使人之所以成为人——这是昔日的表述，遗传学被排除在论辩的范围之外。打破这一禁忌对莫利斯之类的生物学家显然是重要的一步，无疑，这就是《裸猿》最伟大的贡献。\n\n——弗朗斯•德瓦尔（《黑猩猩的政治》作者）",
-      "封面图片": "https://img2.doubanio.com/view/subject/s/public/s33857411.jpg"
+      "封面图片": "./assets/covers/35365678.jpg"
     },
     {
       "id": "35365677",
@@ -5042,7 +5042,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.9",
       "评分人数": "391",
       "内容简介": "【编辑推荐】\n\n《亲密行为》是“裸猿三部曲”的第三部，动物学家莫里斯在《亲密行为》里解码了人类亲密行为的根源，他认为两性、社交、宠物、恋物、自我安抚，从胎儿到墓地的一切亲密关系都是母婴关系的延续。\n\n【内容简介】\n\n当你是孩子时，你偎依在母亲怀里；\n\n当你恋爱时，你会搂抱你的情人；\n\n朋友相见时，你们会握握手；\n\n感到孤独时，你会伸手摸摸你的狗；\n\n当你默默思考时，你会不自觉地托着头……\n\n人类有寻求亲密行为的本能，当都市生活抑制亲密行为时，就会产生各种代替行为：焦躁不安的成年人，去寻找成人安抚奶嘴——香烟；\n\n用舒服柔软的布料做床褥来代替儿时被母亲怀抱的感觉；\n\n惊恐时用手捂住自己的脸给自己安慰……\n\n莫利斯从动物行为学家的视角，追寻人类从子宫到墓园的亲密行为模式，追溯亲密行为的根源。\n\n他说：出生前和出生后的几个月是亲密关系的种子被种下的时候。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s33857416.jpg"
+      "封面图片": "./assets/covers/35365677.jpg"
     },
     {
       "id": "35365679",
@@ -5062,7 +5062,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.7",
       "评分人数": "304",
       "内容简介": "【编辑推荐】\n\n都说现代都市是水泥丛林，莫利斯认为不是，因为丛林里还有其他物种。\n\n莫利斯说都市就是囚禁人类的动物园，在这个被隔绝的环境里，战争、暴力、自杀、恋物癖等在动物界都不常见的景象频频爆发。\n\n《人类动物园》中，莫利斯从生物学的角度，揭示了现代人的宿命。\n\n德斯蒙德•莫利斯的“裸猿三部曲”享誉全球50多年。\n\n50年过去了，但我们依然无法正视那个“动物的”自己。\n\n【内容简介】\n\n现代都市人口繁盛、规模巨大，无以复加的超级部落把人类囚禁在现代都市这个“人类动物园”里。超级部落人承受着各种各样的压力和紧张：噪音、空气污染、缺少运动、空间拘束、过度拥挤、高度刺激以及孤单和无聊，从而引发了一系列的问题：暴力、战争、自杀、恋物癖，等等。\n\n为什么会这样？有没有出路？\n\n未来的世界越越来越拥挤，原始部落的猎人，乔装打扮成文明开化的超级部落公民，正在苦苦挣扎，试图使自己古老的遗传特征与超常的新环境协调一致。对超级部落人而言，展望未来颇有有趣；但等到我们的孩子成年承担把握时局的责任时，人类面临的问题无疑将是生死攸关的严峻问题了。\n\n【媒体评论】：\n\n不忍释手、引人入胜……莫利斯关注人类的生物学属性与文化之间的张力，其间的关系表现在权力、性行为、地位和战争博弈中。——《纽约时报》\n\n莫利斯的畅销书《裸猿》既使人瞠目结舌，又使人忍俊不禁，现在，他又以《人类动物园》对改变了环境的智人进行反思。他以坚不可摧的观点使一些人感到厌恶，同时又使千百万人拷问自己。上乘之作精美绝伦，没有片刻令人乏味的感觉。 ——《观察家》\n\n你不会放下这本书。——《利物浦每日邮报》",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s33857413.jpg"
+      "封面图片": "./assets/covers/35365679.jpg"
     },
     {
       "id": "26319527",
@@ -5081,7 +5081,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.9",
       "评分人数": "7098",
       "内容简介": "为什么彼此相爱却提不起“性致”？\n\n为什么家庭和睦却总觉得压抑？\n\n为什么初恋的影子总也挥之不去？\n\n为什么有些人只对比自己年龄大的异性有感觉？\n\n这些问题都将在阅读《性学三论》的过程中得到完美解答。\n\n《性学三论》是心理学宗师弗洛伊德奠基之作，也是一部直白易读、写给所有成年人的“性启蒙书”。\n\n本版《性学三论》是迄今唯一德文汉译本，全文无删节，独家收录李银河长文导读。\n\n中国社科院李银河教授读后称赞：“译者中文文笔洗练优美，使人读起来爱不释手。如果有人想读此书，我当然会推荐这个译本。”随后，她特地为本书撰写长文导读，为读者释疑。该篇导读本版独家收录。\n\n《性学三论》是心理学宗师弗洛伊德开性学先河之作。在这部作品中，他首度将精神分析法运用于性研究，通过梳理从幼儿期到青春期，寻常男女性冲动的萌芽和成长，发现并探讨每个人性困惑中的关键心理因素。\n\n这本弗洛伊德著作中罕有的直白、易读的作品，于1905年首次出版，一经问世就受到保守“禁欲主义”之抨击，被斥为“大逆不道”。但作为一部真诚、造福于人的科学著作，其伟大并不会因此黯淡！在这之后的二十余年中，《性学三论》再版四次，直接启蒙了整个现代西方社会对“性”的看法和认知，至今仍为全世界人提供参考和帮助。\n\n本版特别收入《性学三论》实践篇《爱情心理学》《文化的性道德与现代人的精神病》，深度解疑两性生活中常见的性困扰及现代人精神压抑的根源。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s28040203.jpg"
+      "封面图片": "./assets/covers/26319527.jpg"
     },
     {
       "id": "35849108",
@@ -5098,7 +5098,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.5",
       "评分人数": "72",
       "内容简介": "本书是著名作者房昊继《从前有个书生：魏晋篇》之后创作的“北宋篇”。当你拿到这本书时，并不知道它讲述的是谁的故事。几乎每一个故事，都是以“从前有个书生”开头。当这些“书生”的人生轨迹随着作者的笔触缓缓浮现在纸面上时，你才忽然发觉，原来在多年之前，就已经和这些“书生”如此熟悉。甚至，他们曾在某一个时刻给你带来深刻的影响。少年时代课本上的“背诵并默写全文”之后，是一个个感人至深的故事。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s34185668.jpg"
+      "封面图片": "./assets/covers/35849108.jpg"
     },
     {
       "id": "35093474",
@@ -5115,7 +5115,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.3",
       "评分人数": "113",
       "内容简介": "本书稿是网红作者房昊在微博上发表的历史博文合集（有30%未发布内容）经过整理后以时代为纲串联起来的历史普及趣味读物。书稿计划有三到四册。第一册是魏晋篇。多数文章以“从前有个书生”开头，在讲述的过程中不交代人物是谁，以幽默风趣的带有充足网感的笔法讲述人物生平，在文章末尾再揭示谜底，阅读过程既是欣赏也是对读者历史知识水平的考验。目前分为“帝国落日的余晖”“旧时代的残照与风骨”“贵族的高歌”“时代夹缝中的痛苦者”“沉默的耕耘者”“北望神州的喟叹”“令人沉醉的魏晋风度”“乱世里的无名之辈”等八个章节，涉及五十余位历史人物。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s33662294.jpg"
+      "封面图片": "./assets/covers/35093474.jpg"
     },
     {
       "id": "35586217",
@@ -5131,7 +5131,7 @@ window.BOOK_CATEGORY_DATA = {
       "定价": "50",
       "评分人数": "评价人数不足",
       "内容简介": "本书是作者围绕杭州市余杭区良渚镇安溪境内东明山有关明代建文帝隐遁传说和东明寺禅宗史事人物等进行探索研究，是一部有融合趣味性和现实关照的考证著作。全书以东明山东明寺到场开辟缘起探究，着重论述了东明寺开山祖师慧旵禅师的事迹、建文帝遁迹此处的各种传说记载，以及明清围绕东明山的相关人物话题进行了深入研究。以东明山道场的缘起为切入点，运用历史考据的办法，对禅宗在浙江一带的传播历程进行剥丝抽茧的辨析，涉及佛学史上的一些重大问题。并对建文帝隐居东明山的传说进行了考证，还原东明、净慈等名刹供奉建文帝像的始末。全书考证细致，对佛教禅宗相关史事文化娓娓道来，专业性与可读性颇高。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s33989659.jpg"
+      "封面图片": "./assets/covers/35586217.jpg"
     },
     {
       "id": "26803736",
@@ -5148,7 +5148,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.4",
       "评分人数": "964",
       "内容简介": "《国史大纲》著于抗日战争时期，钱穆先生当时任北京大学历史系教授，在战火纷飞中随国立西南联合大学辗转大半个中国。在云南昆明，钱穆开始将主要精力放在了中国通史的考证与写作之上。当时生活的窘困、物资的紧缺以及内忧外患的状况都使钱穆将对中国命运的思考贯穿于了全书始末。钱穆指出，研究中国历史的第一要务，在于能在国家民族内部自身求得其独特精神之所在。他希望作为抗战中流的精英分子能够从这样一部张扬士之人力的史纲里汲取力量前行。\n\n《国史大纲》出版之后，即被列为中华民国国民政府教育部大学用书，风行全国。它是在民族危亡时期，用以唤醒国魂、御敌救国的佳作，表达了炎黄子孙对祖国的深厚之爱情。\n\n钱穆是我国著名的国学大师。其所著《国史大纲》是一部简要的中国通史，因用大学教科书体例写成，不得不力求简要，仅举大纳，删其琐节。内容包括自上古三代以迄二十世纪中叶之中国历史的演变发展，尤其是经济与社会、政治制度、学术思想的状况及其相互影响。全书力求通贯，便于读者理解中国历史上治乱盛衰的原因和国家民族生命精神之根据。本书代表了他对中国通史的研究成果，与其专题史研究相得益彰、相互发明。通过本书，我们可以了解钱穆先生所提倡的史心与史识、智慧与功力至互动。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s28777089.jpg"
+      "封面图片": "./assets/covers/26803736.jpg"
     },
     {
       "id": "30235748",
@@ -5166,7 +5166,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.4",
       "评分人数": "465",
       "内容简介": "1.一部民国时期赫赫有名的“湘西王”陈渠珍进出西藏生死经历的文言笔记体纪实作品。\n\n2.蕴含民族、风俗、地里、社会等各种鲜为人知的详细描述。\n\n3.完整诠释个人命运与时代背景，历险故事与爱情传奇，残酷环境的与战争场面。\n\n这不可多得的奇书讲述了清末民初“湘西王”陈渠珍奉命进藏，一路上历尽艰险、九死一生的故事，以及他与藏族姑娘西原可歌可泣的生死爱情。文中既有惊心动魄的战斗故事，缠绵悱恻之柔情也有古老淳朴的民俗风情；既有荡气回肠之壮美，这还是一部出色的游记文学作品，记载了辛亥革命前后川藏地区的真实情况，描述了藏区的山川地貌、风土人情。书中描述藏区险峻优美的自然风景，古老淳朴的民俗风情，复杂险恶的官场环境，身陷绝境的人性异化，绝地逃生的生存智慧，藏汉人民的深厚情谊，感人至深的爱情绝唱，堪称奇绝。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s32296444.jpg"
+      "封面图片": "./assets/covers/30235748.jpg"
     },
     {
       "id": "25912076",
@@ -5189,7 +5189,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.2",
       "评分人数": "41396",
       "内容简介": "《叫魂:1768年中国妖术大恐慌》讲述的是一个关于“盛世妖术”的故事。在中国的千年帝制时代，乾隆皇帝可谓是空前绝后的一人。他建立并巩固起来的大清帝国达到了权力与威望的顶端。然而整个大清的政治与社会生活却被一股名为“叫魂”的妖术搅得天昏地暗。在1768年由春天到秋天的那几个月里，这股妖风竟然冲击了半个中国，百性为之惶恐，官员为之奔命，连乾隆也为之寝食难安。作者孔飞力细致入微的描写令人颤栗，他生动地再现了各省的恐慌是如何演变成一场全国性的除妖运动。《叫魂:1768年中国妖术大恐慌》也表现出了一种更为宏大的学术视野，在构建以“叫魂”案为中心的“大叙事”的过程中，在方法论的层次上将社会史、文化史、政治史、经济史、区域分析、官僚科层制度分析以及心理分析等研究方法结合在一起。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s27411424.jpg"
+      "封面图片": "./assets/covers/25912076.jpg"
     },
     {
       "id": "10520386",
@@ -5206,7 +5206,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.8",
       "评分人数": "212",
       "内容简介": "本书是傅斯年先生有关中国上古先秦史的研究性论文集,一共收入了五篇代表作：《夷夏东西说》、《姜原》、《周东封与殷遗民》、《大东小东说》、《论所谓五等爵》。篇与篇之间有联系，有系统性，探讨涉及到了中华文化的发端、早期发展、正统传承等史学界长期关注的问题。这几篇都是在发表当时极具新意，对古史研究有突破性和开创性意义的论述，其中的发现使史学界对中国上古史的认识有了系统的脉络可循。",
-      "封面图片": "https://img2.doubanio.com/view/subject/s/public/s24230141.jpg"
+      "封面图片": "./assets/covers/10520386.jpg"
     },
     {
       "id": "33437468",
@@ -5222,7 +5222,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.8",
       "评分人数": "30",
       "内容简介": "了解明史的一本比较权威也比较有趣的读物\n\n内容简介\n\n本书为“新编历史小丛书”中的一本，是作者在原版书的基础上做的新稿。论及了明朝开国其早期的部分历史大事。本书内容以正史为依据，重点突出，有论有据，文章中加注，有助于读者明确出处。语言平实中不乏生动。是了解这一历史时期的一本比较权威也比较有趣的读物。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s32318679.jpg"
+      "封面图片": "./assets/covers/33437468.jpg"
     },
     {
       "id": "26700745",
@@ -5239,7 +5239,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.4",
       "评分人数": "5735",
       "内容简介": "《南渡北归(增订版)(套装共3册)》分为《南渡》《北归》《离别》三部，是著名作家岳南所著首部全景再现20世纪中国最后一批大师命运变迁的史诗巨著。讲述的是上个世纪大批知识分子冒着抗战的炮火由中原迁往西南之地，而后再回归中原的故事。整部作品的时间跨度近一个世纪，所涉人物囊括了二十世纪人文科学领域的大部分大师级人物，如蔡元培、王国维、梁启超、梅贻琦、陈寅恪、钱锺书等。作品对这些知识分子群体命运作了细致的探查与披露，对各种因缘际会和埋藏于历史深处的人事纠葛、爱恨情仇进行了有理有据的释解，读来令人心胸豁然开朗的同时，又不胜唏嘘，扼腕浩叹。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s29417482.jpg"
+      "封面图片": "./assets/covers/26700745.jpg"
     },
     {
       "id": "1203426",
@@ -5256,7 +5256,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.1",
       "评分人数": "59022",
       "内容简介": "《人间词话》一书乃是王氏接受了西洋美学思想之洗礼后，以崭新的眼光对中国旧文学所作的评论，具有划时代的意义，向来极受学术界重视。本书并约请当今著名专家黄霖为之导读，不仅梳理其理论框架，剔抉其精义要眇，更着重揭橥其学术源流、历史文化背景，及撰作者当时特定的情境与心态，从而在帮助读者确切理解原著的同时，凸现词学大师王国维的学术个性。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s1146614.jpg"
+      "封面图片": "./assets/covers/1203426.jpg"
     },
     {
       "id": "36054785",
@@ -5272,7 +5272,7 @@ window.BOOK_CATEGORY_DATA = {
       "定价": "45.00元",
       "评分人数": "评价人数不足",
       "内容简介": "本书主要讲述历史里那些触动人心的友情。\n\n无论是王侯将相，还是游侠书生，这些人有的名垂青史，或被唾骂，或被推崇，还有的人默默无闻，翻遍古籍只有寥寥几笔。可在另一人心中，他们的分量都堪比山河。\n\n书中每一对朋友，彼此的梦想与执着，扶持与背叛，悲歌与慷慨，都透过岁月直击人心，使得承载这份感情的文字也格外扣人心弦。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s34287319.jpg"
+      "封面图片": "./assets/covers/36054785.jpg"
     },
     {
       "id": "26292283",
@@ -5293,7 +5293,7 @@ window.BOOK_CATEGORY_DATA = {
       "定价": "66.00元",
       "评分人数": "评价人数不足",
       "内容简介": "明代梅鷟《尚书考异》一书的问世，被视为尚书学史上的里程碑之作。《四库全书总目》谓：\"宋吴棫、朱子、元吴澄皆尝辨其伪，然但据其难易以决真伪，未及一一尽核其实。鷟是书则以安国《序》并増多之二十五篇悉杂取传记中语以成文，逐条考证，详其所出。\"《尚书考异》一书对《古文尚书》进行了广泛而仔细的辨伪搜证工作，发现《尚书》古文经二十五篇中的文句与先秦两汉文献蹈袭雷同之处甚多。《古文尚书》辨伪工作自此进入了一个新的阶段。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s27996772.jpg"
+      "封面图片": "./assets/covers/26292283.jpg"
     },
     {
       "id": "34431806",
@@ -5310,7 +5310,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.8",
       "评分人数": "9435",
       "内容简介": "本书是刘勃继《战国歧途》后的新作，依然关注古老中国的青春时代。\n\n春秋是礼崩乐坏的时代。以周天子为中心的分封制难以为继，新的集权制度亦未建立。\n\n春秋是承前启后的时代。齐桓晋文称雄称霸，狐偃管仲封侯拜相，孔子老子更是影响深远。乱世丛林，英雄伟人辈出。\n\n一部春秋史，奠定了整部中国史的基础。\n\n面对令人望而生畏的杂多人物和纷繁事件，作者刘勃抽丝剥茧，比勘真假莫辨的史籍记载，吸收新近的考古资料，以诙谐轻松的语言，化芜杂晦涩为起伏跌宕，勾画出一幅春秋时代诸国兴亡变幻的画卷，也留下贵族时代最后的背影，重现他们所面临的困境、挣扎和奋斗。\n\n与之前出版的《读罢春秋不成歌》截然不同，刘勃试图搭建新架构，再写春秋史。从地缘关系视角分析梳理历史发展脉络，是本书写作的一大特色。\n\n内忧外患中，周天子为何突围失败？齐、晋、秦、楚，大国雄主如何博弈？世家贵族，为何在春秋时代渐入黄昏？这些看似是古代中国的独有问题，实际也是现代世界面临的特有挑战。春秋史的激荡，依然能给予我们诸多灵感和想象。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s33298116.jpg"
+      "封面图片": "./assets/covers/34431806.jpg"
     },
     {
       "id": "1836555",
@@ -5327,7 +5327,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.6",
       "评分人数": "6112",
       "内容简介": "《史记》是我国著名史学家司马迁所著的史学巨著，列“二十四史”之首，记载了从传说中的黄帝开始一直到汉武帝元狩元年（前122）三千年左右的历史，被誉为“史家之绝唱，无韵之《离骚》”。读中国历史，不能不读《史记》。《史记（汉）（精装）》是为了满足现代广大读者阅读这部巨著的需求推出的白文普及本。首先，它以中华书局点校本《史记》为底本，可以确保其文字的准确性、可靠性；其次，《史记（汉）（精装）》删除古注，只保留原文，从而保证阅读的连贯性；第三，《史记》中涉及大量古代的人名、地名，不加注明是很难读懂的，因此《史记（汉）（精装）》保留了原点校本人名、地名下加专名线，书名下加波浪线的做法，使读者一目了然。因此，可以说，《史记（汉）（精装）》非常适合普通读者阅读、收藏《史记》这部巨著。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s9077296.jpg"
+      "封面图片": "./assets/covers/1836555.jpg"
     },
     {
       "id": "26929156",
@@ -5345,7 +5345,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.7",
       "评分人数": "338",
       "内容简介": "《史记》是中国纪传体通史，作者司马迁从传说中的黄帝开始，一直写到汉武帝元狩元年（前122年），叙述了我国三千年左右的历史。全书包括本纪十二篇，表十篇，书八篇，世家三十篇，列传七十篇，凡一百三十篇。不仅记述了各阶层重要历史人物的事迹和重要历史事件，而且涉及礼乐制度、天文兵律、社会经济、河渠地理等诸方面的重要论述。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s29715315.jpg"
+      "封面图片": "./assets/covers/26929156.jpg"
     },
     {
       "id": "30560136",
@@ -5356,7 +5356,7 @@ window.BOOK_CATEGORY_DATA = {
       "ISBN": "9787513919425",
       "定价": "21.30",
       "评分人数": "评价人数不足",
-      "封面图片": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif"
+      "封面图片": "./assets/covers/30560136.gif"
     },
     {
       "id": "35068730",
@@ -5371,7 +5371,7 @@ window.BOOK_CATEGORY_DATA = {
       "定价": "128.00",
       "评分人数": "评价人数不足",
       "内容简介": "本书是研究唐代书法家、理论家孙过庭《书谱》的专著，分上下两编。上编为研究部分，论述了《书谱》在书学史上的重要地位及其影响，考辨作者生平、《书谱》名实、《书谱》墨迹及其刻本流传情况，分析了《书谱》产生的时代文化背景。下编《书谱》笺注，广征博引，言之有据。全书考辩精详，条理清晰，文笔流畅，雅俗共赏，具有较高的学术性和可读性。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s33685005.jpg"
+      "封面图片": "./assets/covers/35068730.jpg"
     },
     {
       "id": "36964205",
@@ -5388,7 +5388,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.8",
       "评分人数": "890",
       "内容简介": "从《三国志》等史料记载，到宋元的话本和杂剧，再到明代的长篇小说，以及现代的各种改编作品，三国故事在不同的文化背景下，形成了丰富多彩的文学景观。文史作家刘勃用现代视角“说三分”，透过历史记载、民间故事和演义叙事，全面解析三国故事的丰富内涵，呈现一个立体、多元的三国世界。\n\n☆历史叙事：还原真实的残酷三国\n\n真实的历史，常常比虚构故事更加荒诞。刘勃通过比勘《三国志》《后汉书》《资治通鉴》等史料，还原了三国时期的真实情境，揭示了这段历史的复杂性、多面性，及背后深不可测的残酷黑暗。通过派系斗争、地缘关系等多种角度，本书展示了历史事件中的多方博弈和利益权衡，以及历史人物的多维度复杂形象，为读者提供了立体全面的历史视角。\n\n☆民间叙事：百姓心中的趣味三国\n\n三国故事在民间的流传及演变，常常折射出复杂的社会心理。本书搜罗了大量民间故事，梳理了“桃园结义”“三英战吕布”“七擒孟获”等传奇故事如何出现、流传及变异，也分析了其背后城市游民阶层的情感投射和深层欲望。刘勃还详细剖析了刘备、曹操、诸葛亮、关羽等三国人物的形象演变，并延伸阐述了其背后的社会文化意义。\n\n☆演义叙事：经典文学中的英雄三国\n\n《三国演义》之所以成为经典，离不开其在人物塑造、情节设计、语言运用等方面的高超技艺。刘勃详细分析了诸多经典桥段的文学手法，揭示了罗贯中如何在历史叙事和民间叙事中找到最理想的结合部，给故事赋予更强的戏剧冲突和道德光环；还分析了《三国演义》中的人物塑造，展示了罗贯中如何通过对人物的美化、丑化、强化、弱化，构建出一个正邪分明的英雄三国世界。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s35054495.jpg"
+      "封面图片": "./assets/covers/36964205.jpg"
     },
     {
       "id": "1981042",
@@ -5406,7 +5406,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.1",
       "评分人数": "27362",
       "内容简介": "《万历十五年》是一部改变中国人阅读方式的经典，是美籍华裔历史学家黄仁宇的成名之作，也是他的代表作之一。这部作品融会作者数十年人生经验与治学体会于一体，首次以“大历史观”分析明代社会之症结，观察现代中国之来路，发人深思。\n\n《万历十五年》英文本被美国多所大学采用为教科书，并两次获得美国书卷奖历史类好书的提名；中文本问世后，好评如潮，成为众多作家、学者、企业家、高校师生的案头书，并入选《新周刊》和《书城》“改革开放20年来对中国影响最大的20本书”。另有日文、法文、德文、韩文等版本。\n\n万历十五年，亦即公元1587年，在西欧历史上为西班牙舰队全部出动征英的前一年；而在中国，这平平淡淡的一年中，发生了若干为历史学家所易于忽视的事件。这些事件，表面看来虽似末端小节，但实质上却是以前发生大事的症结，也是将在以后掀起波澜的机缘。在历史学家黄仁宇的眼中，其间的关系因果，恰为历史的重点，而我们的大历史之旅，也自此开始……",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s3670063.jpg"
+      "封面图片": "./assets/covers/1981042.jpg"
     },
     {
       "id": "35563226",
@@ -5426,7 +5426,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.5",
       "评分人数": "211",
       "内容简介": "本书以吟诵中国星象的权威著作《步天歌》为线索，配以作者首创的中国星官形象，通过图解的形式向读者揭示了中国古代星官体系的秘密。书中涵盖了历史典故、诗词歌赋、书画碑拓等中国特有的文化元素，又融合现代天文知识，既饱含文化色彩，又不失科学性、趣味性和生动性，是一部科普与人文相结合的佳作。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s34021404.jpg"
+      "封面图片": "./assets/covers/35563226.jpg"
     },
     {
       "id": "33436921",
@@ -5443,7 +5443,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.7",
       "评分人数": "9047",
       "内容简介": "本书所述自韩、赵、魏三家分晋到秦始皇统一六国的战国历史。作者以《史记》《资治通鉴》《战国策》等史籍为底本，并结合新近考古资料，以年代为经，以国别为纬，考察了商鞅变法、长平之战等决定中国历史命运的事件。\n\n战国历史本来纷繁复杂，加之秦始皇焚烧六国史书，更显扑朔迷离。晋国 的消失，强楚的一蹶不振，田齐的身死国灭乃至西秦最后定鼎天下，在史籍中多有自相矛盾的记述。本书没有照搬史书译文，简单罗列史实，而是利用史籍、研究著作和舆地等资料上下引证，多方比勘，力求再现大变局时代的历史图景。\n\n在这本书中，有邦国兴亡之道，游士沉浮之思，也有英雄失路之悲，展现了一幅革故鼎新的多彩画卷。\n\n本书由读库出品，新版订正了个别讹误。购买请移步读库天猫旗舰店。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s32312678.jpg"
+      "封面图片": "./assets/covers/33436921.jpg"
     },
     {
       "id": "36792415",
@@ -5460,7 +5460,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.3",
       "评分人数": "1675",
       "内容简介": "史学大家钱穆经典常销名著。\n\n十万字讲透两千年中国政治制度因革演变与利害得失。\n\n新增北大国发院院长姚洋，人大、华东师大等高校历史系教授联袂撰写之导读手册。\n\n本书为作者的专题演讲合集，分别就中国汉、唐、宋、明、清五代的政治组织、百官职权、考试监察、财经赋税、兵役义务等种种政治制度作了提要钩玄的概观与比照，叙述因革演变，指陈利害得失。既高屋建瓴的总括了中国历史与政治的精要大义，又点名了近现代国人对传统文化和精神的种种误解。言简 意赅，语重心长，实不失为一部简明的中国政治制度史",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s34815277.jpg"
+      "封面图片": "./assets/covers/36792415.jpg"
     },
     {
       "id": "26992670",
@@ -5477,7 +5477,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.6",
       "评分人数": "7536",
       "内容简介": "反腐“零容忍”、“打虎”无禁区、“猎狐”撒天网、扼“四风”咽喉……党的十八大以来，党中央从全面从严治党的战略高度，顺应人民群众的期待，深入持久开展反腐败斗争，着力构建不敢腐、不能腐、不想腐的体制机制，一批腐败分子相继落马而身陷囹圄。\n\n人们不禁要问：为什么有些人在没有掌权的时候都是能力超群的精英分子而在掌权之后却成了腐败分子，权力到底是催情的春药还是为人民服务的工具？为什么集中全党智慧织就的恢恢天网在某些人手上却成了关猫的牛栏？\n\n本书是一部力透纸背的反腐警示录，通过一群落马官员的口述纪实，描摹他们从破纪到破法的过程，深刻揭示腐败分子矛盾复杂的内心世界，刻画出他们灵魂衰落的轨迹。这是在全面从严治党背景下，把纪律挺在前面，坚持施教于先、以案明纪，通过文学的形式加强纪律教育，引导党员领导干部从“不敢腐”到“不想腐”的一个有效探索和创新，能够增强党风廉政教育的感染力、渗透力和影响力。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s29390166.jpg"
+      "封面图片": "./assets/covers/26992670.jpg"
     },
     {
       "id": "26340672",
@@ -5493,7 +5493,7 @@ window.BOOK_CATEGORY_DATA = {
       "定价": "98.00",
       "评分人数": "评价人数不足",
       "内容简介": "对于一个民族而言，无论是整体还是个人，记忆都是不可或缺的。历史就是民族的记忆。发扬国粹，弘扬传统，中华五千年的辉煌历史才有价值。从众多的对中国文化作出过正面影响的历史人物身上，我们能够看到他们的文化担当和民族气节。《中国历史人物故事（绘画本 锦盒装连环画）》收入历史上20位著名人物，从不同侧面表现他们光辉的一生。有辛弃疾、于谦、郑成功、戚继光、林则徐等爱国将领；顾炎武、黄宗羲等思想家；张衡、李冰等科学家；蔡文姬、华佗、扁鹊、李时珍、黄道婆等人们熟知的人物，集结成一册，以60开平装本的形式出版，更广地将中华传统文化和民族精神传播开去。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s28022675.jpg"
+      "封面图片": "./assets/covers/26340672.jpg"
     },
     {
       "id": "25956218",
@@ -5509,7 +5509,7 @@ window.BOOK_CATEGORY_DATA = {
       "定价": "CNY 48.00",
       "评分": "8.4",
       "评分人数": "34",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s27399135.jpg"
+      "封面图片": "./assets/covers/25956218.jpg"
     },
     {
       "id": "34908314",
@@ -5525,7 +5525,7 @@ window.BOOK_CATEGORY_DATA = {
       "定价": "23.00元",
       "评分人数": "评价人数不足",
       "内容简介": "以先秦铜器铭文为研究对象，结合相关传世文献，借鉴考古学、文字学、历史学、文学的研究方法和成果，从文体学的视角对先秦铜器铭文进行分类研究，考察各类铭文的内容、体制、成因及文体流变。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s35412323.jpg"
+      "封面图片": "./assets/covers/34908314.jpg"
     },
     {
       "id": "35635631",
@@ -5542,7 +5542,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.6",
       "评分人数": "3161",
       "内容简介": "本书是历史写作者刘勃所著的一部孔子传记，也是对《史记·孔子世家》的一次精读。刘勃参照《论语》和《左传》等相关历史资料进行信息比对，将孔子的人生际遇放置在春秋末期的历史背景中进行解读，并展开多重线索的想象与推测，以更多元的视野来诠释孔子的“成圣之路”，为读者理解孔子的选择、思想和境遇开拓出一个丰富的空间，提供了一些既有趣味又有启发意义的思路。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s34929315.jpg"
+      "封面图片": "./assets/covers/35635631.jpg"
     },
     {
       "id": "26296926",
@@ -5559,7 +5559,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.1",
       "评分人数": "470",
       "内容简介": "中国神话传说简明读本\n\n系统研究中国神话第一人袁珂先生经典著作\n\n《中国神话传说》是中国神话学专家袁珂先生一生研究成果的集大成之作。其因专业系统且通俗易懂，出版三十年来，受到了国内外读者的广泛欢迎，并且被翻译成俄、日、韩等多种语言。\n\n1983年，在《中国古代神话》基础上历经 两次重要增补修订而成的《中国神话传说》一书，内容已达原来的四倍，字数六十余万。作者对浩瀚的古文献资料，考辨真伪，订正讹误，加以排比综合，从盘古开天辟地叙述到秦始皇统一六国，把散落在群藉中的吉光片羽遴选出来，熔铸成一个庞大而有机的古神话体系，为读者呈现了一个包罗万象的瑰丽世界，生动地描述了古代中国人的社会生活图系。\n\n为方便广大读者，简明版在《中国神话传说》完整版基础之上，删却注释，并按照神话人物的出场顺序，独立成篇，132篇小故事读来轻松流畅，带领读者步入一个鲜活又多彩的神话世界。\n\n“开辟鸿蒙”这一时期的光景，气势宏伟，波澜壮阔，奇闻异事，层出不穷，毫不逊于希腊、罗马、埃及、印度诸闻名古国的神话传说。而论其自强不息的刚健，战天斗地的勇武，舍己为人的博大和知其不可为而为之的坚韧，种种精神，是为中国古代神话特色，比之诸国，实有过之，并无有及。\n\n——袁珂",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s27979352.jpg"
+      "封面图片": "./assets/covers/26296926.jpg"
     },
     {
       "id": "35230273",
@@ -5577,7 +5577,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.6",
       "评分人数": "7797",
       "内容简介": "★打捞《史记》中消失的《今上本纪》，追寻汉武盛世的真实面貌\n\n★还原司马迁作为历史见证人的视角，看尽大时代中的个人命运\n\n★刘勃最新作品，论文般的历史考据，侦探小说般的阅读快感\n\n这本书写汉武帝时代，但不是全面介绍汉武帝时代。作者刘勃从《史记》的叙述之中，还原司马迁的处境，理解他对许多事件的视角。\n\n在司马迁的见证下，汉武时期的儒臣、名将、酷吏、后宫、游侠、平民命运各异，他个人也成为舞台中的角色。\n\n今人可能怀疑司马迁的视角和书写不够客观，但一个生逢盛世的品格正直、才华横溢、感情充沛的优秀人类的私人记忆，也仍然自有一种打动人心的力量。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s33742504.jpg"
+      "封面图片": "./assets/covers/35230273.jpg"
     },
     {
       "id": "30379284",
@@ -5593,7 +5593,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.7",
       "评分人数": "1104",
       "内容简介": "这是一本历史兼小说类的读物。以北京法源寺为故事背景，讲述一段风云际会的晚清历史。描述了从戊戌变法到辛亥革命前后，康有为、梁启超、谭嗣同、大刀王五等一批仁人志士为振兴中国所做出的努力，塑造了生动又有深度的、高尚且具牺牲精神的人格形象。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s29923417.jpg"
+      "封面图片": "./assets/covers/30379284.jpg"
     },
     {
       "id": "36789840",
@@ -5610,7 +5610,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "6.9",
       "评分人数": "436",
       "内容简介": "小说讲述的是关于两代金融人的职业抉择以及他们的命运起伏，共同坚守职业道德以及维护金融秩序的故事，展现了当代的金融从业人员的经历与日常的生活，直面转型中的中国金融行业，塑造出了一批坚守自己的职业道德，维护金融秩序的青年群体形象。\n\n又是一年毕业季，上海陆家嘴金融城，外省青年陶无忌从基层开始奋斗，他凭借着能力和情商在新人中脱颖而出。银行副总赵辉在陶无忌身上看到了自己年轻时的影子，悉心栽培，但陶无忌的顶头上司兼未来丈人苗彻却嫌弃他心思太过活络，左右逢源。二十年前，赵辉、苗彻等一干青年壮志凌云，想在金融行业闯出一番天地；二十年后，他们步入中年各有成就，却面临各自的难题。经历了职场上的风云变幻，陶无忌在赵辉、苗彻的身上，认识到不可在诱惑和迷雾中失去自我，在情与法之间作出了坚定的选择，成长为新一代金融业秩序的守护者。",
-      "封面图片": "https://img2.doubanio.com/view/subject/s/public/s34797211.jpg"
+      "封面图片": "./assets/covers/36789840.jpg"
     },
     {
       "id": "26925171",
@@ -5627,7 +5627,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.5",
       "评分人数": "21773",
       "内容简介": "本书展现的是中国封建史上社会矛盾空前尖锐的时代，土地兼并使得大量的农民失去了赖以生存的基础，贪墨横行使得大明王朝的统治濒临崩溃。\n\n全书以“扳倒严嵩”为主要线索，全面展现了这一时期的一幅幅历史画面：从朝廷到各级官府惊心动魄的政治斗争，从官场到商场波谲云诡的尔虞我诈，忠勇的官兵和忠义的百姓风起云涌的抗倭之战；国与家命运的休戚与共，敌和友关系的错综变化，大情大我和小情小我的矛盾交织在这里，折射出历史深处的伟大理想和人生命运的严酷现实。\n\n一批赫赫有名的历史人物——海瑞、嘉靖、严嵩、严世藩、徐阶、高拱、张居正、胡宗宪、戚继光、李时珍等，从历史如烟的迷雾中有血有肉地向大家清晰地走来。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s29249996.jpg"
+      "封面图片": "./assets/covers/26925171.jpg"
     },
     {
       "id": "3071976",
@@ -5644,7 +5644,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.3",
       "评分人数": "910",
       "内容简介": "《大明王朝1566》(套装上下卷)解嘉靖皇帝二十余年不上朝的执政之谜，揭奸臣严嵩权极而衰的真实内幕，看清官海瑞舍命相拼的反贪仕途。光明与黑暗并行。清廉与伉腐对决。盘根错节的政治较量，惊心动魄的财权搏杀。",
-      "封面图片": "https://img2.doubanio.com/view/subject/s/public/s5896711.jpg"
+      "封面图片": "./assets/covers/3071976.jpg"
     },
     {
       "id": "26288883",
@@ -5661,7 +5661,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.7",
       "评分人数": "9044",
       "内容简介": "《动物凶猛》是王朔的中篇小说集，是王朔作品精选中的一种，包括《动物凶猛》《顽主》《一点正经没有》等几部中篇小说。\n\n这几篇小说是王氏经典幽默的代表作，在读者之间备受好评，而且大都改编为电影，为观众喜闻乐见。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s28332797.jpg"
+      "封面图片": "./assets/covers/26288883.jpg"
     },
     {
       "id": "34432750",
@@ -5678,7 +5678,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.9",
       "评分人数": "77463",
       "内容简介": "《额尔古纳河右岸》是一部描写鄂温克人生存现状及百年沧桑的长篇小说，展示了弱小民族在严酷的自然环境和现代文明的挤压下的顽强生命力和不屈不挠的民族精神，以及丰富多彩的民族性格和风情。本书获得第七届茅盾文学奖。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s35398737.jpg"
+      "封面图片": "./assets/covers/34432750.jpg"
     },
     {
       "id": "22714154",
@@ -5695,7 +5695,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.6",
       "评分人数": "46243",
       "内容简介": "这是一部地域小说，人物的行走，可找到“有形”地图的对应。这也是一部记忆小说，六十年代的少年旧梦，辐射广泛，处处人间烟火的斑斓记忆，九十年代的声色犬马，是一场接一场的流水席，叙事在两个时空里频繁交替，传奇迭生，延伸了关于上海的“不一致”和错综复杂的局面，小心翼翼的嘲讽，咄咄逼人的漫画，暗藏上海的时尚与流行；昨日的遗漏，或是明天的启示……即使繁花零落，死神到来，一曲终了，人犹未散。\n\n《繁花》让人为之一震，小说的好处自有高人评说----程永新\n\n优雅之野心，当今几乎不可能出现的文体----张辛欣\n\n近年来最有看头的小说---吴亮",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s26037307.jpg"
+      "封面图片": "./assets/covers/22714154.jpg"
     },
     {
       "id": "26285194",
@@ -5712,7 +5712,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.3",
       "评分人数": "6288",
       "内容简介": "鲁迅，一个败落的旧家子弟，一个清末乡镇文人，一个留日学生，一个多半从日译本了解欧美的知识分子，一个几乎终身穿长袍的江南人，一个写出中国第一册现代短篇小说集的文学家，他的小说简约、精炼，在平面范围内追求纵深感。他天然的文字禀赋，至今无人能够超越。\n\n这个版本的《故事新编》精选《鲁迅全集》中想象丰富、精炼生猛的小说18篇， 尤其要向大家推荐的是八个远古传说，无论是从造人造到神烦的女娲，还是一年到头只吃乌鸦肉炸酱面的后羿一家，都让人忍俊不禁，脑洞大开。此外，精选《呐喊》《彷徨》中经典小说作品，相信你读完，会大赞一声：鲁迅先生太酷了！",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s27967429.jpg"
+      "封面图片": "./assets/covers/26285194.jpg"
     },
     {
       "id": "30844338",
@@ -5728,7 +5728,7 @@ window.BOOK_CATEGORY_DATA = {
       "定价": "32.8",
       "评分": "9.1",
       "评分人数": "66",
-      "封面图片": "https://img2.doubanio.com/view/subject/s/public/s33953331.jpg"
+      "封面图片": "./assets/covers/30844338.jpg"
     },
     {
       "id": "30762691",
@@ -5742,7 +5742,7 @@ window.BOOK_CATEGORY_DATA = {
       "定价": "17.70元",
       "评分": "8.8",
       "评分人数": "73",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s35084888.jpg"
+      "封面图片": "./assets/covers/30762691.jpg"
     },
     {
       "id": "27013741",
@@ -5759,7 +5759,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.7",
       "评分人数": "30027",
       "内容简介": "【内容简介】\n\n写出《黄金时代》之前，我从未觉得自己写得好。——王小波\n\n本书收入王小波颇负盛名的三篇小说《黄金时代》《三十而立》《似水流年》，其中《黄金时代》获第13届《联合报》文学奖中篇小说大奖 ！故事以上世纪七八十年代为背景，正面书写对“性爱”“自由”的追求，反思人的生存现状，并彰显了人性中的自由与本真。王小波说：“写《黄金时代》用了我很多时间和才华，写得很精致，倾注了我对小说的许多想法。”\n\n【编辑推荐】\n\n王小波代表作！获第13届台湾联合报文学奖中篇小说大奖，入选《亚洲周刊》“二十世纪中文小说一百强”。特别收入珍贵手稿！\n\n【获奖情况】\n\n第13届《联合报》文学奖中篇小说大奖",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s35402390.jpg"
+      "封面图片": "./assets/covers/27013741.jpg"
     },
     {
       "id": "1130367",
@@ -5776,7 +5776,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.9",
       "评分人数": "3940",
       "内容简介": "《艽野尘梦》，作者“追忆西藏青海经过事迹”、取《诗·小雅·小明》“我征租西，至于艽野”之意为书名，含有青藏高原风尘录的意思；艽：荒远。艽野：指青藏高原。在书中，作者详强地叙术了自己1909年从军，奉赵尔丰命随川军钟颖总进藏，升任管带（营长），参加工布、波宓 等距役，在驻藏期间同当地藏族同胞、官员和和喇嘛来往密切，同藏族姑娘西原结婚，在1911年10月武昌起义爆发、南北响应的消息传到西藏后，出于对波密起义士兵的一些行动不理解，而又顾念个人安危，于是组织湖南同乡士兵和亲信百五十人取道东归而误入大沙漠，断粮七月余，妨饥挨饿，茹毛饮雪，仅七人生还于西安，西原病卒，等经历；描绘了沿途所见的山川景色、人情风俗和社会生活；同时记录了英、俄帝国主义凯觎和争夺我国神圣领土西藏的罪恶和阴谋活动，清政府的日举国腐败，清封疆大吏之间和军队内竞争 权夺权、勾心壮举角的壮举争；记载耻辛亥革命对西藏和川军的重大影响和军中的同盟会员、哥老会 成员在波客乘机发动兵变、杀死协统罗长祷的实况。从文学的角度看，它不失业部写行优美的游记；从史学的角度来看，它又不失为记录清末民袂川边、西藏情况的重要资料。因此，任乃强先生在《弁言》中说：”但觉其人奇、事奇、文奇、既奇且实，实面复娓娓动人，一切为康藏诸游记最。尤以工布波密及绛通沙漠苦征力战之事实，为西陲难得史料。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s6969093.jpg"
+      "封面图片": "./assets/covers/1130367.jpg"
     },
     {
       "id": "35934937",
@@ -5793,7 +5793,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.9",
       "评分人数": "74",
       "内容简介": "众人在百仞滩建城安顿下来，但是这仅仅是占据了一个立足点。虽然与当地人签订了和平条约，但是他们身边依旧是强敌环同。为了尽快打开局面，执委会派出了林佰光为首的工作队，进入苟家庄长期把持的马袅盐场开展工作。通过工作队的工作，争取到盐场里长期被苟家兄弟欺压的灶户们的支持，在打败苟家庄之后 ，在盐场的工作局面打开了更大的局面。工作队为了提高盐场灶户的生活水平和获得更多的食盐作为贸易商品，决定在盐场搞技术革新合作社。工业小组费尽心思，克服各种困难，生产了风车、卤水浓缩等一系列的设备，大幅度的提升了海盐的生产效率。还在盐场办起了学习班，提升了灶户子弟的文化水平，为将来的工作和生产储备更多的人才。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s34480074.jpg"
+      "封面图片": "./assets/covers/35934937.jpg"
     },
     {
       "id": "27194610",
@@ -5808,7 +5808,7 @@ window.BOOK_CATEGORY_DATA = {
       "定价": "98.00元",
       "评分": "9.2",
       "评分人数": "377",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s29612365.jpg"
+      "封面图片": "./assets/covers/27194610.jpg"
     },
     {
       "id": "27127895",
@@ -5825,7 +5825,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.3",
       "评分人数": "9403",
       "内容简介": "《明朝那些事儿(增补版)(套装共9册)》包括：《明朝那些事儿（第1部）》、《明朝那些事儿（第2部）》、《明朝那些事儿（第3部）》、《明朝那些事儿（第4部）》、《明朝那些事儿（第5部）》、《明朝那些事儿（第6部）》、《明朝那些事儿（第7部）》、《明朝那些事儿（第8部）》、《明朝那些事儿（第9部）》共9册。\n\n《明朝那些事儿(增补版)(套装共9册)》全景立体式图文阅读体验，原文一字不少，新增四大板块全新内容——延伸内容、插图、图表、地图。涉及关键词解析、历史背景及相关插图、作战图、形势图、人物关系图等。图解历史，小细节、大事件一目了然，通俗易懂。\n\n《明朝那些事儿(增补版)(套装共9册)》主要讲述的是从1344年到1644年这三百年间关于明朝的一些事情，以史料为基础，以年代和具体人物为主线，并加入了小说的笔法，对明朝十七帝和其他王公权贵和小人物的命运进行全景展示，尤其对官场政治、战争、帝王心术着墨最多，并加入对当时政治经济制度、人伦道德的演义。",
-      "封面图片": "https://img2.doubanio.com/view/subject/s/public/s29531871.jpg"
+      "封面图片": "./assets/covers/27127895.jpg"
     },
     {
       "id": "10517238",
@@ -5842,7 +5842,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.0",
       "评分人数": "87743",
       "内容简介": "《平凡的世界(套装共3册)》是一部现实主义小说，也是小说化的家族史。作家高度浓缩了中国西北农村的历史变迁过程，作品达到了思想性与艺术性的高度统一，特别是主人公面对困境艰苦奋斗的精神，对今天的大学生朋友仍有启迪。这是一部全景式地表现中国当代城乡社会生活的长篇小说。《平凡的 世界(套装共3册)》共三部。作者在近十年问广阔背景上，通过复杂的矛盾纠葛，刻画了社会各阶层众多普通人的形象。劳动与爱情，挫折与追求，痛苦与欢乐，日常生活与巨大社会冲突，纷繁地交织在一起，深刻地展示了普通人在大时代历史进程中所走过的艰难曲折的道路。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s8865866.jpg"
+      "封面图片": "./assets/covers/10517238.jpg"
     },
     {
       "id": "20395131",
@@ -5859,7 +5859,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.7",
       "评分人数": "349",
       "内容简介": "梁羽生编著的《萍踪侠影录》内容介绍：梁羽生的武侠小说，上接《儿女英雄传》以来的侠义小说和民国旧武侠小说，开创新派武侠文学；下启金庸、古龙的一片天地。他这样评价自己在武侠小说界的地位：开风气者，梁羽生；发扬光大者，金庸。在上世纪六七十年代，他和金庸共同扛起了新派武侠小说的大旗，“金梁并称，一时瑜亮”。梁金并世之时，曾主张“侠是下层劳动人民的智慧与品德的化身”，将侠行建立在正义、尊严、爱民的基础上，摒弃了旧派武侠小说一味复仇与嗜杀的倾向，金庸更将之提升为“为国为民，侠之大者”。梁羽生小说以实在的文史知识和古代诗词见称。语言文采飞扬，字里行间透出浓郁的书卷气，故事中常常将诗词歌赋、民歌俗语点缀其间。他的小说技法以传统继承为主，多用章回小说的形式铺张故事，小说回目意境深远，对仗精巧，情节推展明显具有怡荡有致的韵律感，叙事中也带有明显的说书人的口气。其武侠小说中的人物道德色彩浓烈，正邪严格区分。他的武侠作品，每一部都有明确的历史背景，小说情节构置巧妙、稳厚绵密。有人认为梁羽生小说的缺憾在于“乏味”二字，究其原因，可能还是因为梁先生始终保有一种“正统”文人的姿态。梁先生自己也说：“可能我也犯过“离奇”的毛病。但我的作品中“离奇”不是主流，不是我的风格”。一起来翻阅《萍踪侠影录》吧！",
-      "封面图片": "https://img2.doubanio.com/view/subject/s/public/s26169391.jpg"
+      "封面图片": "./assets/covers/20395131.jpg"
     },
     {
       "id": "26739966",
@@ -5876,7 +5876,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.1",
       "评分人数": "1339",
       "内容简介": "此次出版的是阿城先生亲自编订的最新版本，增添了许多以往版本所不具备的内容。\n\n内容包括以往版本都有的《棋王》《树王》《孩子王》三篇中篇小说，以及以往版本所不具备的画家曹力为作者画的漫画像，还包括以往各版本（意大利文版、日文版、旧简体版、台湾繁体版）的序言。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s28642936.jpg"
+      "封面图片": "./assets/covers/26739966.jpg"
     },
     {
       "id": "30254122",
@@ -5893,7 +5893,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.3",
       "评分人数": "111",
       "内容简介": "韩寒长篇小说处女作。主人公林雨翔天资聪颖，加上其父的影响，从小就被誉为“神童”。然而这个极具才气的少年却在初中严重偏科，也因此遇上了影响他一生的老师马德保，还有占据他整个情感生活的女同学Susan。青春年少的他们，与所有同龄人一样有着情窦初开的情怀。有意无意的接触间，爱情的萌芽逐渐开花……本书通过少年林雨翔的视角，向读者揭示了真实的高中生的生活，把亲子关系、师生关系、同学关系的种种矛盾和问题展现开来，体现了学生式的思考、困惑和梦想。\n\n韩寒：“这本书描述的就是我自己初中到高中的经历，主人公的恋爱故事就是我自己的初恋故事。”",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s29849653.jpg"
+      "封面图片": "./assets/covers/30254122.jpg"
     },
     {
       "id": "36955267",
@@ -5910,7 +5910,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.4",
       "评分人数": "1171",
       "内容简介": "身处内忧外患的节点，面对山河破碎、民不聊生的历史境况，绍宋皇帝赵玖决意不再后退，对内重整旗鼓，平息叛乱；对外纵横谋划，积蓄力量，于纷繁芜杂的形势中，开山辟路，激浊扬清，终迎来拨云见日，百事转苏。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s34918397.jpg"
+      "封面图片": "./assets/covers/36955267.jpg"
     },
     {
       "id": "36978324",
@@ -5931,7 +5931,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.6",
       "评分人数": "488",
       "内容简介": "💥稳定9.8分，超8亿人气值\n\n💥阅文大神作家“榴弹怕水”同名小说改编\n\n💥史实考究×细腻演绎\n\n💥一本漫画看尽大宋风云！\n\n---\n\n【内容简介】\n\n一朝醒来，他意外穿越到了南宋时期，成为了历史上臭名昭著的皇帝——宋高宗赵构！正值靖康之变余波未平，金兵肆虐，佞臣横行，大宋王朝陷入了内忧外患的泥潭……面对着风雨飘摇的江山且看二十一世纪大学生如何力挽狂澜带领大宋踏上全新道路!\n\n---\n\n【亮点介绍】\n\n⚔️阅文大神作家小说改编，高口碑历史类国漫扛旗之作\n\n《绍宋》漫画改编自阅文大神作者榴弹怕水同名原作。原著小说在起点小说网获推荐总数突破300万，已正式完结，并于2024年5月出版实体。\n\n漫画版连载于腾讯动漫平台，累计收获41+万收藏、8亿+人气值，入选权谋类榜单TOP10，评分高达9.8分。\n\n.\n\n🩸史实考究×细腻演绎，展现难得一见的烽火大宋\n\n故事背景始于靖康之耻，面对金兵破都、中原腹地遭掠、徽钦二帝被戮，读者与自21世纪穿越而来的主人公一同，直面这段刻骨亡国之痛，在乱世中挣扎与成长。\n\n《绍宋》漫画改编选取了极度写实的风格，细节考究，剧情丰满，展现了历史的厚重和宏大。从战时风貌、群臣百官，到官服甲胄、日常起居均有深入刻画。\n\n.\n\n🛡️生动群像，与各英雄豪杰一同执剑向北\n\n杨沂中、韩世忠、李纲、张浚等这些在《绍宋》中出场的角色，都为历史上真实存在的、赫赫有名的人物。在抗金“主战派”和“主和派”的拉扯斗阵中，权谋、热血、家国情怀淋漓展现！\n\n.\n\n🔥硬派国风直指国漫新高度\n\n在拥有丰富漫画创作经验的李晓楠老师笔下，《绍宋》漫画不拘绳墨，山水壮阔、人物形态恣肆非凡！电影般的分镜与画面，让人沉醉其间。\n\n.\n\n💣单行本扬鞭上线！丰富赠礼打包奉上\n\n《绍宋》漫画单行本整合收录线上连载作品1-12话内容。特邀主笔打造全新封面插画，搭配外封logo烫金，大气磅礴！锁线装订，高清全彩印刷，还原写实派画风独特魅力！\n\n同时纪念收录原作者“榴弹怕水”老师金句【印特签】，本本都有~\n\n【首刷限定加赠】封面同款海报×1张、封面同款透卡×1张\n\n【随书附赠】明信片×2张、藏书票×1张、折立卡×1张、人物书签×2张",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s35019088.jpg"
+      "封面图片": "./assets/covers/36978324.jpg"
     },
     {
       "id": "30197313",
@@ -5948,7 +5948,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.4",
       "评分人数": "3068",
       "内容简介": "他来自农村，生性怯懦，在人才辈出的钢七连显得如此不着调。但就是这种笨拙，让他心无旁骛，让他心思简单，无往而不胜。\n\n从不抱怨，相信别人就像相信自己，承担所有误解，接受一切现实而永不改变内心的信仰。他是当代中国军人最真实的士兵形象，他叫许三多，一名二级士官……",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s34255108.jpg"
+      "封面图片": "./assets/covers/30197313.jpg"
     },
     {
       "id": "36328704",
@@ -5965,7 +5965,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.0",
       "评分人数": "149460",
       "内容简介": "太白金星李长庚最近有点烦。\n\n天庭和西天联合推出了“西天取经”的重大项目，他受命策划九九八十一难，确保唐僧能安全走完流程，平稳取经成佛。老神仙本以为一切尽在掌控中，谁知天大的麻烦才刚刚开始：费用报销、工作汇报、人事安排、各路大仙塞来的条子、各地妖怪暗藏的心思，捋不出的千头万缕，做不完的琐碎繁杂……当大闹天宫的真相重新浮出水面，牵扯出无数因果，李长庚发觉自己成就金仙的道路越加渺茫。\n\n【编辑推荐】\n\n这是每一个成年人应该重读的西游故事。\n\n太白金星李长庚最近有点烦。天庭和西天联合推出了“西天取经”的重大项目，他受命策划九九八十一难，确保项目无虞。老神仙本以为一切尽在掌控中，谁知天大的麻烦才刚刚开始。\n\n项目过程中，如何报销活动费用？如何写工作汇报？如何平衡不同上级的诉求？如何应对突发状况？如何解决人事纠纷？一系列问题在不改变经典著作《西游记》结局的基础上展开了丰富有趣的职场生态，即便李长庚锦囊无数，也不免常常陷入焦虑。\n\n都说神仙要“超脱因果，太上忘情”，都说不要在职场里动感情，太白金星却说，“很多人间执念我们无法理解，但不代表那些痛苦就不存在。”即使得了“仙”“佛”之号，依旧抛不下一个人字，有人，就有抛不下的牵挂、因果与苦乐得失。\n\n打碎无意义的追逐，才是真的得道。\n\n延续《长安的荔枝》小开本双封设计，随书附10张著名画家施晓颉所绘创意插图。\n\n【媒体推荐】\n\n地下取经队伍降妖除魔百般威武，天上神界仙界各怀心思斗智斗勇。现代视角另类演绎西游故事，就算成仙也得讲究职场智慧。\n\n——《收获》杂志",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s34544956.jpg"
+      "封面图片": "./assets/covers/36328704.jpg"
     },
     {
       "id": "36102998",
@@ -5982,7 +5982,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.3",
       "评分人数": "512",
       "内容简介": "《围城》是中国现代文学史上一部风格独特的讽刺小说，钱锺书以他洒脱幽默的文笔，描写了一群知识分子的生活百态，被誉为“新儒林外史”。人生是围城，婚姻是围城，冲进去了，就被生存的种种烦愁包围。\n\n克莱登大学哲学博士方鸿渐留学回国了。他是个没有用的人，在欧洲四年，转了三个学校，改了几回专业，生活散漫，学无所成。因为父亲和老丈人都伸手向他要学位证书，没有办法、只好从爱尔兰骗子手中买了这么个子虚乌有大学的博士学位。他绝不愿意做这事，可是为了尽晚辈的孝心，搞份jia文凭也是心安理得，只要今后自己决不以此招摇撞骗、他没有想到。老丈人已经将他的博士照片和游学履历大肆渲染地登在报刊上了，方鸿渐一下船，来到这个阔别4年又毫无变化的故土，便先见到这份报纸，不由得面红耳赤，十分难堪。\n\n未婚妻和方鸿渐从未见过面，就撒手人寰。他蒙岳父大人资助得以负笈欧洲，所以回国后，先看望了岳父岳母，这才回到家乡见爹娘。他刚进家门，小报记者便闻风而至，摄下了方博士西服革履的仪态，使他成了县里大名鼎鼎的人物，提亲者更是踏破门槛。方鸿渐不喜欢这些土里土气又打扮时髦的女孩们，爱情在他心中仍一是一片空白的领域。春暖花开的时候，方鸿渐拜访了和自己一起留学归来的女博士苏文纨。在苏文纨家，他结识了苏的表妹唐晓芙。她是个天真、直爽的大学生。方鸿渐对唐晓芙一见倾心，堕入了情网，可是苏文纨喜欢方鸿渐。方鸿渐不喜欢苏文纨的做作，但是他总不能狠下心来拒绝，怕伤害了苏小姐……",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s34316418.jpg"
+      "封面图片": "./assets/covers/36102998.jpg"
     },
     {
       "id": "30816634",
@@ -5997,7 +5997,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.1",
       "评分人数": "198",
       "内容简介": "阿Q正传》是鲁迅小说的代表作，以辛亥革命前后的农村未庄为背景，塑造了阿Q这个流浪雇农的典型形象。在小说中，鲁迅挖掘了以阿Q“精神胜利法”为代表的民族性痼疾，对民族劣根性进行了无情的批判。除《阿Q正传》外，本书还精选了鲁迅一些具有代表性的小说，这些作品构思精巧，文笔精妙，内蕴深厚，带有鲜明的时代特色和典型的“鲁迅”特征。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s34000494.jpg"
+      "封面图片": "./assets/covers/30816634.jpg"
     },
     {
       "id": "30197331",
@@ -6014,7 +6014,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "9.7",
       "评分人数": "5199",
       "内容简介": "一群溃兵聚集在西南小镇禅达的收容所里，他们毫无斗志，苟且偷生。\n\n师长虞啸卿重建川军团，将他们招募旗下，但他们清楚自己是炮灰，是不会被历史记住的小人物。\n\n然而，他们终将面对自己内心的梦：再跟日本人开战，像个真正的军人那样！\n\n本书以中国远征军历史为背景，涵盖了远征军遭遇的所有战争形态：遭遇战、阻击战、攻坚战、沙盘战、对峙战、渡江战等，以南天门战役告终。前所未有地描写了惨烈残酷、艰苦卓绝的战争图景。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s35008283.jpg"
+      "封面图片": "./assets/covers/30197331.jpg"
     },
     {
       "id": "37156691",
@@ -6031,7 +6031,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "7.5",
       "评分人数": "1135",
       "内容简介": "马伯庸力荐的历史悬疑小说，“惊人的双线叙事，挥洒千里一气呵成”！\n\n西汉末，东汉末，一阴一阳双线交错，两段人生隔空重合。\n\n公元前74年，昌邑王刘贺入宫继承皇位，27天后被废为庶人，成为两千年来短命皇帝。其间有人盼他死，有人要他活，只有他自己毫不在乎。\n\n公元201年，一批金 饼现世，布衣刘基被迫协助侦查。阳间计，阴间器，一件件奢华殉葬品，牵扯出撼动江东的盗墓计划。\n\n一位荒唐帝，一位弃置身，两段遥遥相隔的人生，渐渐交织于一件件精美器物。如今的海昏侯墓出土文物，也因此重获心跳和体温。\n\n这不仅是充满创意、具有突破性和写作技术的悬疑小说，也是充满知识、考据严密的历史小说。",
-      "封面图片": "https://img1.doubanio.com/view/subject/s/public/s35079540.jpg"
+      "封面图片": "./assets/covers/37156691.jpg"
     },
     {
       "id": "36104107",
@@ -6049,7 +6049,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.5",
       "评分人数": "269653",
       "内容简介": "大唐天宝十四年，长安城的小吏李善德突然接到一个任务：要在贵妃诞日之前，从岭南运来新鲜荔枝。荔枝“一日色变，两日香变，三日味变”，而岭南距长安五千余里，山水迢迢，这是个不可能完成的任务，可为了家人，李善德决心放手一搏：“就算失败，我也想知道，自己倒在距离终点多远的地方。”\n\n《长安的荔枝》是马伯庸备受好评的历史小说。\n\n唐朝诗人杜牧的一句“一骑红尘妃子笑，无人知是荔枝来”一千多年来引发了人们的无限遐想，但鲜荔枝的保鲜时限仅有三天，这场跨越五千余里的传奇转运之旅究竟是如何达成的，谁让杨贵妃在长安吃到了来自岭南的鲜荔枝？作者马伯庸就此展开了一场脑洞非常大的想象。\n\n沿袭马伯庸写作一贯以来的时空紧张感，不仅让读者看到了小人物的乱世生存之道，也感受到了事在人为的热血奋斗。随书附赠“荔枝鲜转运舆图”。\n\n★ 编辑推荐\n\n唐朝诗人杜牧的一句“一骑红尘妃子笑，无人知是荔枝来”惹得世人艳羡杨贵妃上千年，但其中的荔枝是如何从五千余里外的岭南运送到长安城的，却鲜有史书详细记载，脑洞大开的马伯庸以此为蓝本构建了一个大唐社畜李善德拼尽全力做项目的故事，虽是历史小说，读者却能从中看到自己的生活影子，大城市买房落脚、职场情商博弈、不得已的违规逾矩等，小人物的挣扎是那么相似。一项将鲜荔枝运逾千里之距的艰难差事，以微观人事折射大唐宏观社会。\n\n这部口碑非常好的历史小说只花了11天写就，小说刚一连载就获得了广大读者的好评，被数万人点评为神作，推荐值高达96%。微博、抖音、小红书和今日头条，海量读者自发评论和衍生二创。\n\n本书小开本双封设计，随书附赠“荔枝鲜转运舆图”折页插图一张。\n\n★ 媒体推荐\n\n马伯庸把他对历史的熟稔与现实关怀结合在一起，使得文笔能直击人的内心。写的是古人，却经常让我们看到自己。这部《长安的荔枝》就是如此。\n\n——陕西师范大学历史文化学院教授 于赓哲",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s34327482.jpg"
+      "封面图片": "./assets/covers/36104107.jpg"
     },
     {
       "id": "37212965",
@@ -6073,7 +6073,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.8",
       "评分人数": "1822",
       "内容简介": "比尔·盖茨是当代富有影响力、引领变革的商业领袖和慈善家。这本书讲述的便是他的成长故事。 比尔·盖茨在商业领域创造的辉煌早已广为人知。20 岁的他离开哈佛大学，创办了一家日后成为行业巨头的软件公司，改变了整个世界的工作与生活方式。这位亿万富翁随即将注意力转向慈善事业，致力于应对气候变化、全球健康和美国教育领域的重重挑战。",
-      "封面图片": "https://img9.doubanio.com/view/subject/s/public/s35075224.jpg"
+      "封面图片": "./assets/covers/37212965.jpg"
     },
     {
       "id": "1491567",
@@ -6093,7 +6093,7 @@ window.BOOK_CATEGORY_DATA = {
       "评分": "8.6",
       "评分人数": "803",
       "内容简介": "《西行漫记(第2版)》（原名《红星照耀中国》）是美国著名记者埃德加•斯诺的不朽名著。作者于1936年6月至10月对中国西北革命根据地进行了实地考察，根据考察所掌握的第一手材料完成了《西行漫记》的写作。斯诺作为一个西方新闻记者，对中国共产党和中国革命作了客观评价，并向全世界作了公正报道。全书共12篇，主要内容包括：关于红军长征的介绍；对中国共产党和红军主要领导人的采访；中国共产党的抗日政策、红军的军事策略；作者的整个采访经历和感受等。由于斯诺在西北红色区域的冒险中引起的激情和对中国人民的热爱，他用了后半生的几乎全部精力，对中国问题作继续的探索和报道。《西行漫记》先后被译为二十多种文字，几乎传遍了全世界。该书不断地再版和重印，教育了千百万读者和一代又一代的青年，使它成为享有盛誉，家喻户晓的文学作品。",
-      "封面图片": "https://img3.doubanio.com/view/subject/s/public/s1565637.jpg"
+      "封面图片": "./assets/covers/1491567.jpg"
     }
   ]
 };
