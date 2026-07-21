@@ -262,6 +262,7 @@ function cleanBook(book) {
     title: book.title,
     category: book.category,
   };
+  if (book.order !== undefined) next.order = book.order;
   for (const key of METADATA_KEYS) assignIfPresent(next, key, book[key]);
   return next;
 }
@@ -279,6 +280,7 @@ function mergeBooks(existingData, fetchedBooks) {
       merged.push(cleanBook({
         ...fresh,
         category: existing.category || fresh.category,
+        order: existing.order,
       }));
       seen.add(existing.id);
     } else {
