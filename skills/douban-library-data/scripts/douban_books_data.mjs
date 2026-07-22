@@ -2,7 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { inferBookCategory } from "./book_category_rules.mjs";
 
-const METADATA_KEYS = ["作者", "国籍", "译者", "出版社", "出版年", "ISBN", "页数", "装帧", "定价", "原作名", "评分", "评分人数", "内容简介", "封面图片"];
+const METADATA_KEYS = ["作者", "国籍", "译者", "出版社", "出版年", "ISBN", "absItemId", "页数", "装帧", "定价", "原作名", "评分", "评分人数", "内容简介", "封面图片"];
 const args = process.argv.slice(2);
 
 const input = argValue("--input");
@@ -16,15 +16,22 @@ const delayMaxMs = Number(argValue("--delay-max-ms", "0"));
 const retries = Number(argValue("--retries", "2"));
 const skipExisting = args.includes("--skip-existing");
 const replace = args.includes("--replace");
+const audiobookshelfUrl = argValue("--audiobookshelf-url").replace(/\/$/, "");
+const audiobookshelfApiKey = process.env.AUDIOBOOKSHELF_API_KEY?.trim() ?? "";
 
 if (args.includes("--help") || args.includes("-h")) {
-  console.log("Usage: node douban_books_data.mjs (--input books.tsv | --url https://book.douban.com/subject/1084336/) [--out category-manager/books-data.js] [--start 1] [--limit 30] [--delay-ms 3000 | --delay-min-ms 10000 --delay-max-ms 25000] [--retries 2] [--skip-existing] [--replace]");
+  console.log("Usage: node douban_books_data.mjs (--input books.tsv | --url https://book.douban.com/subject/1084336/) [--out category-manager/books-data.js] [--start 1] [--limit 30] [--delay-ms 3000 | --delay-min-ms 10000 --delay-max-ms 25000] [--retries 2] [--skip-existing] [--replace] [--audiobookshelf-url http://server:13378]");
   process.exit(0);
 }
 
 if (!input && !url) {
-  console.error("Usage: node douban_books_data.mjs (--input books.tsv | --url https://book.douban.com/subject/1084336/) [--out category-manager/books-data.js] [--start 1] [--limit 30] [--delay-ms 3000 | --delay-min-ms 10000 --delay-max-ms 25000] [--retries 2] [--skip-existing] [--replace]");
+  console.error("Usage: node douban_books_data.mjs (--input books.tsv | --url https://book.douban.com/subject/1084336/) [--out category-manager/books-data.js] [--start 1] [--limit 30] [--delay-ms 3000 | --delay-min-ms 10000 --delay-max-ms 25000] [--retries 2] [--skip-existing] [--replace] [--audiobookshelf-url http://server:13378]");
   process.exit(1);
+}
+
+if (audiobookshelfUrl && !audiobookshelfApiKey) {
+  console.error("Audiobookshelf matching requires AUDIOBOOKSHELF_API_KEY in the environment; stopping before Douban requests.");
+  process.exit(2);
 }
 
 function argValue(name, fallback = "") {
@@ -87,6 +94,82 @@ function parseNationalityPrefix(value) {
 
 function unique(values) {
   return [...new Set(values.filter(Boolean))];
+}
+
+function normalizeIsbn(value = "") {
+  return String(value).toUpperCase().replace(/[^0-9X]/g, "");
+}
+
+function normalizeTitle(value = "") {
+  return String(value).normalize("NFKC").toLowerCase().replace(/[^\p{L}\p{N}]/gu, "");
+}
+
+function titleMatchScore(left, right) {
+  if (!left || !right) return 0;
+  if (left === right) return 3000 + left.length;
+  if (right.startsWith(left)) return 2000 + left.length;
+  if (left.startsWith(right)) return 1900 + right.length;
+  if (right.includes(left)) return 1000 + left.length;
+  if (left.includes(right)) return 900 + right.length;
+  return 0;
+}
+
+function authorMatchScore(left, right) {
+  const leftValue = normalizeTitle(left);
+  const rightValue = normalizeTitle(right);
+  if (!leftValue || !rightValue) return 0;
+  return leftValue.includes(rightValue) || rightValue.includes(leftValue) ? 100 : 0;
+}
+
+async function fetchAudiobookshelfJson(pathname) {
+  const response = await fetch(new URL(pathname, audiobookshelfUrl), {
+    headers: { Authorization: `Bearer ${audiobookshelfApiKey}` },
+  });
+  const body = await response.text();
+  if (!response.ok) {
+    const authMessage = response.status === 401 || response.status === 403
+      ? "Audiobookshelf authentication/login blocked"
+      : "Audiobookshelf request failed";
+    throw new Error(`${authMessage} (HTTP ${response.status}); stopping before Douban requests.`);
+  }
+  try {
+    return JSON.parse(body);
+  } catch {
+    throw new Error("Audiobookshelf returned a non-API response (possible login page); stopping before Douban requests.");
+  }
+}
+
+async function loadAudiobookshelfIndex() {
+  const { libraries = [] } = await fetchAudiobookshelfJson("/api/libraries");
+  const items = [];
+  for (const library of libraries.filter((item) => item.mediaType === "book")) {
+    let offset = 0;
+    while (true) {
+      const page = await fetchAudiobookshelfJson(`/api/libraries/${encodeURIComponent(library.id)}/items?limit=1000&offset=${offset}`);
+      const results = page.results ?? [];
+      items.push(...results);
+      offset += results.length;
+      if (results.length === 0 || results.length < 1000 || (page.total !== undefined && offset >= page.total)) break;
+    }
+  }
+  return items.map((item) => ({
+    id: item.id,
+    title: item.media?.metadata?.title ?? "",
+    isbn: item.media?.metadata?.isbn ?? "",
+    author: item.media?.metadata?.authorName ?? "",
+  }));
+}
+
+function findAudiobookshelfMatch({ title, isbn, author }, index) {
+  const normalizedIsbn = normalizeIsbn(isbn);
+  const isbnMatches = normalizedIsbn ? index.filter((item) => normalizeIsbn(item.isbn) === normalizedIsbn) : [];
+  const candidates = isbnMatches.length > 0 ? isbnMatches : index;
+  const normalizedTitle = normalizeTitle(title);
+  const ranked = candidates
+    .map((item) => ({ item, score: titleMatchScore(normalizedTitle, normalizeTitle(item.title)) + authorMatchScore(author, item.author) }))
+    .filter(({ score }) => score > 0)
+    .sort((left, right) => right.score - left.score || left.item.title.length - right.item.title.length);
+  return ranked.length > 0 ? ranked[0].item : null;
 }
 
 function valueOrList(values) {
@@ -203,7 +286,7 @@ function assignIfPresent(target, key, value) {
   }
 }
 
-async function fetchBook(row) {
+async function fetchBook(row, audiobookshelfIndex) {
   const subjectId = row.url.match(/subject\/(\d+)/)?.[1] ?? "";
   const html = await fetchHtml(row.url);
   const title = getTitle(html, subjectId) || row.name || `subject-${subjectId}`;
@@ -214,11 +297,16 @@ async function fetchBook(row) {
   const intro = getIntro(html);
   const coverImage = getCoverImage(html);
   const rating = getRatingParts(html);
-  const authorParts = expandAuthors(fieldFromInfo(html, "作者"));
+  const rawAuthor = fieldFromInfo(html, "作者");
+  const authorParts = expandAuthors(rawAuthor);
+  const isbn = fieldFromInfo(html, "ISBN");
+  const audiobookshelfMatch = audiobookshelfIndex.length > 0
+    ? findAudiobookshelfMatch({ title, isbn, author: rawAuthor }, audiobookshelfIndex)
+    : null;
   const category = inferBookCategory({
     title,
     text: [
-      fieldFromInfo(html, "作者"),
+      rawAuthor,
       fieldFromInfo(html, "译者"),
       fieldFromInfo(html, "出版社"),
       fieldFromInfo(html, "原作名"),
@@ -236,7 +324,8 @@ async function fetchBook(row) {
   assignIfPresent(book, "译者", valueOrList(splitMultiValue("译者", fieldFromInfo(html, "译者"))));
   assignIfPresent(book, "出版社", fieldFromInfo(html, "出版社"));
   assignIfPresent(book, "出版年", fieldFromInfo(html, "出版年"));
-  assignIfPresent(book, "ISBN", fieldFromInfo(html, "ISBN"));
+  assignIfPresent(book, "ISBN", isbn);
+  assignIfPresent(book, "absItemId", audiobookshelfMatch?.id);
   assignIfPresent(book, "页数", fieldFromInfo(html, "页数"));
   assignIfPresent(book, "装帧", fieldFromInfo(html, "装帧"));
   assignIfPresent(book, "定价", fieldFromInfo(html, "定价"));
@@ -281,6 +370,7 @@ function mergeBooks(existingData, fetchedBooks) {
         ...fresh,
         category: existing.category || fresh.category,
         order: existing.order,
+        absItemId: fresh.absItemId || existing.absItemId,
       }));
       seen.add(existing.id);
     } else {
@@ -303,6 +393,16 @@ function categoriesFor(existingData, books) {
 }
 
 const existingData = readExistingData(outPath);
+let audiobookshelfIndex = [];
+if (audiobookshelfUrl) {
+  try {
+    audiobookshelfIndex = await loadAudiobookshelfIndex();
+    console.log(`Audiobookshelf: indexed ${audiobookshelfIndex.length} book items`);
+  } catch (error) {
+    console.error(error.message);
+    process.exit(2);
+  }
+}
 const existingIds = new Set((existingData.books ?? []).map((book) => book.id));
 const rows = parseInput().slice(Math.max(start - 1, 0));
 const selectedRows = limit > 0 ? rows.slice(0, limit) : rows;
@@ -319,7 +419,7 @@ for (const [index, row] of selectedRows.entries()) {
   }
 
   try {
-    const book = await fetchBook(row);
+    const book = await fetchBook(row, audiobookshelfIndex);
     fetchedBooks.push(book);
     ok += 1;
     console.log(`${start + index}/${start + selectedRows.length - 1} fetched: ${book.title}-${book.id}`);

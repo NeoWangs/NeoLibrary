@@ -50,6 +50,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "34884901",
+      "absItemId": "8803625a-b93c-4a5b-8fae-5f4c2b925a48",
       "title": "独自上场",
       "category": "传记",
       "order": 2,
@@ -160,6 +161,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "36246525",
+      "absItemId": "ea7856f3-2f7d-43b1-828c-222e4e9b4a75",
       "title": "人类群星闪耀时（原版全译本）",
       "category": "传记",
       "order": 8,
@@ -179,6 +181,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "36672955",
+      "absItemId": "91252f8c-9813-4096-8828-277c5684b725",
       "title": "我看见的世界",
       "category": "传记",
       "order": 9,
@@ -256,6 +259,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "1139360",
+      "absItemId": "f1adfca4-267f-4133-a39c-96ac3f8f8d68",
       "title": "毛泽东选集",
       "category": "传记",
       "order": 13,
@@ -781,6 +785,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "1013208",
+      "absItemId": "5d4fb194-a251-4edf-a2f4-bbb0c19d78ad",
       "title": "如何阅读一本书",
       "category": "工具书",
       "order": 9,
@@ -874,6 +879,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "3414569",
+      "absItemId": "ba2ca0ff-bb9e-446a-b0aa-0bcb7a7486a1",
       "title": "封神演义",
       "category": "古典小说",
       "order": 2,
@@ -984,6 +990,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "26690332",
+      "absItemId": "83a9da8c-c4f4-455f-a24b-2c28f8bb7bf2",
       "title": "三国演义",
       "category": "古典小说",
       "order": 7,
@@ -999,6 +1006,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "3409620",
+      "absItemId": "ba2ca0ff-bb9e-446a-b0aa-0bcb7a7486a1",
       "title": "东周列国志",
       "category": "古典小说",
       "order": 8,
@@ -1034,6 +1042,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "35492898",
+      "absItemId": "407e145a-6972-41a7-b61a-65d58209c6a1",
       "title": "凤凰架构",
       "category": "计算机",
       "order": 2,
@@ -1111,6 +1120,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "35731985",
+      "absItemId": "cde72f5f-e3a0-4131-adc2-cb4e855d4862",
       "title": "人工智能算法图解",
       "category": "计算机",
       "order": 6,
@@ -1221,6 +1231,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "36171345",
+      "absItemId": "e98a9392-2930-4a90-8100-b3068070a43b",
       "title": "深度学习革命",
       "category": "计算机",
       "order": 11,
@@ -1337,6 +1348,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "26979890",
+      "absItemId": "cde72f5f-e3a0-4131-adc2-cb4e855d4862",
       "title": "算法图解",
       "category": "计算机",
       "order": 16,
@@ -1357,6 +1369,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "37053980",
+      "absItemId": "cde72f5f-e3a0-4131-adc2-cb4e855d4862",
       "title": "算法图解（第2版）",
       "category": "计算机",
       "order": 17,
@@ -1437,6 +1450,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "27599381",
+      "absItemId": "c9cbc719-8032-4110-93ed-fffd463cdb3b",
       "title": "怪诞行为学",
       "category": "经济",
       "order": 1,
@@ -1502,6 +1516,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "3151575",
+      "absItemId": "edf4c1a4-e11f-4674-9e71-eaf9eb64e488",
       "title": "激荡三十年",
       "category": "经济",
       "order": 4,
@@ -1519,6 +1534,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "27179563",
+      "absItemId": "2fc18dae-c7df-440a-8abb-0737c17fbc83",
       "title": "激荡十年，水大鱼大",
       "category": "经济",
       "order": 5,
@@ -1560,6 +1576,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "21371574",
+      "absItemId": "1858e12d-01dc-4206-919d-fb74df9f5213",
       "title": "凯恩斯大战哈耶克",
       "category": "经济",
       "order": 7,
@@ -1600,6 +1617,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "26985299",
+      "absItemId": "b19dd6c0-b71b-45ce-9383-c7de897fc3a5",
       "title": "小岛经济学",
       "category": "经济",
       "order": 9,
@@ -1674,6 +1692,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "35546622",
+      "absItemId": "780bec9d-165e-4215-a2cc-0bfa74507791",
       "title": "置身事内",
       "category": "经济",
       "order": 12,
@@ -1728,6 +1747,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "34983165",
+      "absItemId": "ed151747-0663-46cb-b1f6-5062dc39b1b6",
       "title": "流浪地球",
       "category": "科幻小说",
       "order": 3,
@@ -1976,6 +1996,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "26945094",
+      "absItemId": "e9e9d25c-45e3-4810-ac7e-83682c0f6dc9",
       "title": "未来简史",
       "category": "科技",
       "order": 5,
@@ -2110,6 +2131,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "34782541",
+      "absItemId": "c7c87c81-5888-449e-b7e4-f266afc1078b",
       "title": "从一到无穷大",
       "category": "科学",
       "order": 3,
@@ -2130,6 +2152,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "1291204",
+      "absItemId": "21f14874-d157-4a54-9855-26a3250cb81f",
       "title": "哥德尔、艾舍尔、巴赫",
       "category": "科学",
       "order": 4,
@@ -2253,6 +2276,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "36443488",
+      "absItemId": "11c5e2de-e0be-4a66-bb0d-145393980b27",
       "title": "于是一片光明",
       "category": "科学",
       "order": 10,
@@ -2270,6 +2294,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "35131845",
+      "absItemId": "287f351c-fc13-45c3-a38c-74c1a3d5fbe9",
       "title": "宇宙的最后三分钟",
       "category": "科学",
       "order": 11,
@@ -2343,6 +2368,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "35092383",
+      "absItemId": "bb6d03cf-9c5d-49e3-b45e-749e2e97ca50",
       "title": "把自己作为方法",
       "category": "企业管理",
       "order": 3,
@@ -2363,6 +2389,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "35493725",
+      "absItemId": "9034e1d9-f1c4-4cd7-aca5-8b7a78ef2beb",
       "title": "创新的起源",
       "category": "企业管理",
       "order": 4,
@@ -2402,6 +2429,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "10945606",
+      "absItemId": "03e7bd15-4812-4c56-b8e5-8c6097983395",
       "title": "精益创业",
       "category": "企业管理",
       "order": 6,
@@ -2464,6 +2492,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "36057097",
+      "absItemId": "81b0ca3e-d332-4fb0-a374-7b34eefaf18d",
       "title": "小米创业思考",
       "category": "企业管理",
       "order": 9,
@@ -2504,6 +2533,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "26873486",
+      "absItemId": "d5a43184-df05-41ae-8290-7d49b9a3797a",
       "title": "运营之光",
       "category": "企业管理",
       "order": 11,
@@ -2588,6 +2618,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "1088581",
+      "absItemId": "ddcfef90-7272-4b67-9bf2-dd18b9285921",
       "title": "浮生六记",
       "category": "散文",
       "order": 1,
@@ -2679,6 +2710,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "1418180",
+      "absItemId": "1d5d7b5c-935f-403b-bfb2-27b3b8a33b8b",
       "title": "思维的乐趣",
       "category": "散文",
       "order": 6,
@@ -2696,6 +2728,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "35167939",
+      "absItemId": "ef29473c-3c30-42ca-994e-b43ab02be6cb",
       "title": "鳗鱼的旅行",
       "category": "散文",
       "order": 7,
@@ -2736,6 +2769,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "35631904",
+      "absItemId": "46638a83-7444-4324-8e2b-087250c92815",
       "title": "反战之战",
       "category": "世界史",
       "order": 2,
@@ -2776,6 +2810,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "27106738",
+      "absItemId": "fc4ee99e-b2a7-4c04-8349-20e1c02be0e0",
       "title": "霍布斯鲍姆年代四部曲（套装共4册）",
       "category": "世界史",
       "order": 4,
@@ -2854,6 +2889,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "27603635",
+      "absItemId": "e0f43cbd-8037-45b9-98a1-4a80b1229a7e",
       "title": "人类的故事",
       "category": "世界史",
       "order": 8,
@@ -2874,6 +2910,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "25985021",
+      "absItemId": "7f9c3d74-0af3-4a72-be7b-15a459c53465",
       "title": "人类简史",
       "category": "世界史",
       "order": 9,
@@ -2976,6 +3013,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "35383731",
+      "absItemId": "52814ebe-650b-4946-a573-c0446f5ae8b5",
       "title": "贝叶斯的博弈",
       "category": "数学",
       "order": 2,
@@ -3044,6 +3082,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "35193606",
+      "absItemId": "21131817-7cdf-443e-b2f9-582d54bd34ca",
       "title": "普林斯顿概率论读本",
       "category": "数学",
       "order": 5,
@@ -3084,6 +3123,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "26899701",
+      "absItemId": "961e7eba-000b-4c63-bc41-371eb86f2cce",
       "title": "普林斯顿微积分读本 (修订版)",
       "category": "数学",
       "order": 7,
@@ -3312,6 +3352,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "25842419",
+      "absItemId": "3e6f4e27-dbfd-44ce-ae51-59d0fa2901c6",
       "title": "X的奇幻之旅",
       "category": "数学",
       "order": 18,
@@ -3332,6 +3373,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "35292688",
+      "absItemId": "a9361c0a-572a-47df-b9c5-18502d8f1a0c",
       "title": "微积分的力量",
       "category": "数学",
       "order": 19,
@@ -3352,6 +3394,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "36052440",
+      "absItemId": "2f9c4e0e-e73f-4e48-ac40-9688282c97a9",
       "title": "微积分的人生哲学",
       "category": "数学",
       "order": 20,
@@ -3468,6 +3511,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "1033778",
+      "absItemId": "30e5c65e-c4b6-4e47-aeae-9ea221214d69",
       "title": "富爸爸，穷爸爸",
       "category": "投资",
       "order": 2,
@@ -3491,6 +3535,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "6439649",
+      "absItemId": "74a9bfdd-83f2-497d-b656-45b748f4cb1c",
       "title": "富爸爸财务自由之路",
       "category": "投资",
       "order": 3,
@@ -3508,6 +3553,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "35128229",
+      "absItemId": "020d80d5-0145-419b-b297-78cb4b8f908d",
       "title": "价格的发现",
       "category": "投资",
       "order": 4,
@@ -3731,6 +3777,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "26698660",
+      "absItemId": "2d49bbdf-f627-4c22-8f2f-37b2486db26e",
       "title": "巨人的陨落",
       "category": "外国小说",
       "order": 6,
@@ -4136,6 +4183,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "36150914",
+      "absItemId": "148fbac1-13f8-4f43-b150-2339aebb436c",
       "title": "被讨厌的勇气",
       "category": "社科",
       "order": 2,
@@ -4159,6 +4207,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "26728136",
+      "absItemId": "b83a539b-cce4-4f09-b02e-361fb7c924d7",
       "title": "非暴力沟通",
       "category": "社科",
       "order": 3,
@@ -4924,6 +4973,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "10487779",
+      "absItemId": "478f33eb-2161-4602-86e6-e4ef846bcaf6",
       "title": "兵以诈立",
       "category": "哲学",
       "order": 11,
@@ -4941,6 +4991,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "35059078",
+      "absItemId": "a4aab959-56bb-425d-a805-e6da6bb62b4d",
       "title": "孙子兵法",
       "category": "哲学",
       "order": 12,
@@ -4960,6 +5011,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "36245871",
+      "absItemId": "a4aab959-56bb-425d-a805-e6da6bb62b4d",
       "title": "孙子兵法",
       "category": "哲学",
       "order": 13,
@@ -5246,6 +5298,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "1203426",
+      "absItemId": "a4aab959-56bb-425d-a805-e6da6bb62b4d",
       "title": "人间词话",
       "category": "中国史",
       "order": 10,
@@ -5617,6 +5670,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "26925171",
+      "absItemId": "ae78dd34-ccb8-4795-8323-917a866f6372",
       "title": "大明王朝1566",
       "category": "中国小说",
       "order": 3,
@@ -5719,6 +5773,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "30844338",
+      "absItemId": "2f45f59b-7f1c-40d3-b543-b3e9266cdba6",
       "title": "呼兰河传",
       "category": "中国小说",
       "order": 9,
@@ -5815,6 +5870,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "27127895",
+      "absItemId": "c1a9f791-f3fa-4cff-927b-73bb66ad18a9",
       "title": "明朝那些事儿(增补版)(套装共9册)",
       "category": "中国小说",
       "order": 15,
@@ -5832,6 +5888,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "10517238",
+      "absItemId": "c678f2df-3a24-4542-b491-18d129dd96cf",
       "title": "平凡的世界",
       "category": "中国小说",
       "order": 16,
@@ -6080,6 +6137,7 @@ window.BOOK_CATEGORY_DATA = {
     },
     {
       "id": "1491567",
+      "absItemId": "337b9c80-043a-4208-8f1d-5139bc13b154",
       "title": "西行漫记",
       "category": "传记",
       "order": 18,

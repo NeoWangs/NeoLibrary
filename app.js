@@ -2,6 +2,7 @@ const STORAGE_KEY = "douban-category-manager-state-v1";
 const RAIL_STORAGE_KEY = "douban-category-manager-rail-visible-v1";
 const LAYOUT_STORAGE_KEY = "douban-category-manager-layout-v1";
 const BOOK_METADATA_KEYS = ["作者", "国籍", "译者", "原作名", "出版社", "出版年", "ISBN", "页数", "装帧", "定价", "评分", "评分人数", "内容简介", "封面图片"];
+const AUDIOBOOKSHELF_BASE_URL = "http://neoxone.synology.me:8081";
 
 const initialData = window.BOOK_CATEGORY_DATA ?? { appTitle: "藏书阁", categories: [], books: [] };
 let appTitle = metadataText(initialData.appTitle) || "藏书阁";
@@ -330,11 +331,17 @@ function bookCard(book) {
   const rating = bookRating(book) ? `<span class="rating-pill">${escapeHtml(bookRating(book))}</span>` : "";
   const author = metadataText(book["作者"]).trim();
   const title = bookDisplayTitle(book);
+  const audiobookshelfUrl = getAudiobookshelfUrl(book);
+  const titleClass = `book-title${audiobookshelfUrl ? " book-title--audiobookshelf" : ""}`;
+  const titleContent = audiobookshelfUrl
+    ? `<a class="${titleClass}" href="${escapeAttr(audiobookshelfUrl)}" target="_blank" rel="noreferrer" title="在 Audiobookshelf 中打开">${escapeHtml(title)}</a>`
+    : `<span class="${titleClass}">${escapeHtml(title)}</span>`;
   const spineStyle = layoutMode === "spine" ? ` style="${spineStyleVars(book)}"` : "";
 
   return `<div class="book-card" draggable="true" role="button" tabindex="0" data-id="${escapeAttr(book.id)}"${spineStyle} aria-label="查看《${escapeAttr(title)}》详情">
     <div class="book-main">
-      <a class="book-title" href="https://book.douban.com/subject/${escapeAttr(book.id)}/" target="_blank" rel="noreferrer">${escapeHtml(title)}</a>
+      ${titleContent}
+      ${audiobookshelfUrl ? `<span class="book-abs-badge" title="可在 Audiobookshelf 中打开" aria-label="Audiobookshelf 已匹配">ABS</span>` : ""}
       <span class="inline-chip">${escapeHtml(book.id)}</span>
       ${rating}
       ${author ? `<span class="book-author">${escapeHtml(author)}</span>` : ""}
@@ -517,6 +524,7 @@ function closeBookDialog() {
 function bookDialogContent(book) {
   const { rows, synopsis } = bookDetailContent(book);
   const doubanUrl = `https://book.douban.com/subject/${encodeURIComponent(book.id)}/`;
+  const audiobookshelfUrl = getAudiobookshelfUrl(book);
   const title = bookDisplayTitle(book);
   const ratingCount = metadataText(book["评分人数"]);
   const rating = bookRating(book)
@@ -540,7 +548,10 @@ function bookDialogContent(book) {
           <span class="detail-badge">${escapeHtml(book.id)}</span>
           ${isbn ? `<span class="detail-badge">ISBN ${escapeHtml(isbn)}</span>` : ""}
         </div>
-        <a class="detail-link" href="${escapeAttr(doubanUrl)}" target="_blank" rel="noreferrer">打开豆瓣页面</a>
+        <div class="detail-links">
+          <a class="detail-link" href="${escapeAttr(doubanUrl)}" target="_blank" rel="noreferrer">打开豆瓣页面</a>
+          ${audiobookshelfUrl ? `<a class="detail-link detail-link--audiobookshelf" href="${escapeAttr(audiobookshelfUrl)}" target="_blank" rel="noreferrer">在 Audiobookshelf 中打开</a>` : ""}
+        </div>
       </div>
       ${rating}
     </header>
@@ -569,7 +580,7 @@ function bookDetailContent(book) {
       .filter((key) => !hiddenKeys.has(key))
       .map((key) => [key, key === "作者" ? authorWithNationality(book) : book[key]]),
   ];
-  const shownKeys = new Set(["title", "id", "category", ...BOOK_METADATA_KEYS]);
+  const shownKeys = new Set(["title", "id", "category", "absItemId", ...BOOK_METADATA_KEYS]);
   const extraRows = Object.entries(book)
     .filter(([key]) => !shownKeys.has(key))
     .map(([key, value]) => [key, value]);
@@ -578,6 +589,12 @@ function bookDetailContent(book) {
     .filter(([label, value]) => !optionalCompactKeys.has(label) || metadataText(value))
     .map(([label, value]) => ({ label, value }));
   return { rows, synopsis: metadataText(book["内容简介"]) };
+}
+
+function getAudiobookshelfUrl(book) {
+  const itemId = metadataText(book.absItemId).trim();
+  if (!itemId) return "";
+  return `${AUDIOBOOKSHELF_BASE_URL}/audiobookshelf/item/${encodeURIComponent(itemId)}`;
 }
 
 function authorWithNationality(book) {
@@ -862,12 +879,12 @@ function mergeSavedBooks(savedBooks) {
 }
 
 function cleanBook(book) {
-  const allowedKeys = new Set(["id", "title", "category", ...BOOK_METADATA_KEYS]);
+  const allowedKeys = new Set(["id", "title", "category", "absItemId", ...BOOK_METADATA_KEYS]);
   return Object.fromEntries(Object.entries(book).filter(([key]) => allowedKeys.has(key)));
 }
 
 function metadataPayload(book) {
-  return Object.fromEntries(BOOK_METADATA_KEYS.filter((key) => book[key] !== undefined).map((key) => [key, book[key]]));
+  return Object.fromEntries([...BOOK_METADATA_KEYS, "absItemId"].filter((key) => book[key] !== undefined).map((key) => [key, book[key]]));
 }
 
 function metadataText(value) {

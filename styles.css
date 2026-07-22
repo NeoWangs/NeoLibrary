@@ -540,7 +540,7 @@ input {
 
 .book-main {
   display: grid;
-  grid-template-columns: minmax(0, auto) max-content 1fr max-content;
+  grid-template-columns: minmax(0, auto) max-content max-content 1fr max-content;
   gap: 4px;
   align-items: baseline;
   line-height: 1.15;
@@ -562,6 +562,14 @@ input {
   text-underline-offset: 2px;
 }
 
+.book-title--audiobookshelf {
+  color: #a44814;
+}
+
+.book-title--audiobookshelf:hover {
+  color: #76300c;
+}
+
 .inline-chip {
   display: inline-block;
   margin-left: 0;
@@ -571,8 +579,25 @@ input {
   font-weight: 500;
 }
 
+.book-abs-badge {
+  display: none;
+  place-items: center;
+  align-self: center;
+  min-height: 16px;
+  padding: 0 4px;
+  border: 1px solid #8b3d11;
+  border-radius: 3px;
+  background: #b4551a;
+  color: #fffaf3;
+  font-size: 8px;
+  font-weight: 900;
+  letter-spacing: 0.05em;
+  line-height: 1;
+  box-shadow: 1px 1px 0 rgba(71, 32, 8, 0.24);
+}
+
 .rating-pill {
-  grid-column: 4;
+  grid-column: 5;
   justify-self: end;
   min-width: 26px;
   border: 1px solid rgba(15, 118, 110, 0.35);
@@ -761,6 +786,10 @@ input {
   overflow: hidden;
 }
 
+.board.is-spine .book-title--audiobookshelf {
+  color: #fff7ed;
+}
+
 .board.is-spine .book-title:hover {
   color: white;
   text-decoration: none;
@@ -769,6 +798,16 @@ input {
 .board.is-spine .inline-chip,
 .board.is-spine .rating-pill {
   display: none;
+}
+
+.board.is-spine .book-abs-badge {
+  display: inline-grid;
+  flex: none;
+  min-height: 14px;
+  padding: 0 3px;
+  border-color: rgba(255, 250, 243, 0.85);
+  background: rgba(139, 61, 17, 0.92);
+  font-size: 7px;
 }
 
 .board.is-spine .book-author {
@@ -1056,10 +1095,30 @@ input {
   transition: transform 140ms ease, box-shadow 140ms ease, background 140ms ease;
 }
 
+.detail-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.detail-links .detail-link {
+  margin-top: 0;
+}
+
+.detail-link--audiobookshelf {
+  border-color: #8b3d11;
+  background: #b4551a;
+}
+
 .detail-link:hover {
   background: #0b5f59;
   box-shadow: 2px 2px 0 rgba(31, 35, 40, 0.18);
   transform: translate(1px, 1px);
+}
+
+.detail-link--audiobookshelf:hover {
+  background: #8b3d11;
 }
 
 @media (max-width: 860px) {

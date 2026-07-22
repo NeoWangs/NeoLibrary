@@ -1,6 +1,6 @@
 ---
 name: douban-library-data
-description: Fetch Douban Reading book subject pages and update a library shelf web app's books-data.js directly. Use when the user provides book.douban.com subject links, a TSV/table of Douban book links, or asks to crawl Douban book metadata into browser data instead of generating Markdown notes.
+description: Fetch Douban Reading book subject pages and update a library shelf web app's books-data.js directly, optionally enriching books with Audiobookshelf UUIDs as `absItemId` by ISBN and title matching. Use when the user provides book.douban.com subject links, a TSV/table of Douban book links, or asks to crawl Douban book metadata into browser data instead of generating Markdown notes.
 ---
 
 # Douban Library Data
@@ -28,6 +28,16 @@ For one book:
 ```bash
 node skills/douban-library-data/scripts/douban_books_data.mjs --url https://book.douban.com/subject/1084336/ --out books-data.js
 ```
+
+## Match Audiobookshelf UUIDs
+
+To write `absItemId` for matched books, configure `AUDIOBOOKSHELF_API_KEY` through the shell's secret manager and add the Audiobookshelf server URL:
+
+```bash
+node skills/douban-library-data/scripts/douban_books_data.mjs --input douban_books.tsv --out books-data.js --audiobookshelf-url http://server:13378
+```
+
+Validate Audiobookshelf access before requesting any Douban page. Match by exact normalized ISBN first; otherwise use normalized title (exact, prefix, then containment) with author similarity as a tie-breaker. Allow multiple Douban books to use the same `absItemId`. Stop immediately and report an authentication/login block on missing credentials, HTTP 401/403, or a login/non-API response.
 
 Then check the app script:
 
@@ -89,6 +99,7 @@ Each book includes:
   出版社,
   出版年,
   ISBN,
+  absItemId,
   页数,
   装帧,
   定价,
