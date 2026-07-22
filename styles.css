@@ -519,6 +519,32 @@ input {
   transition: transform 140ms ease, border-color 140ms ease, box-shadow 140ms ease;
 }
 
+.book-cover {
+  display: none;
+  margin: 0;
+}
+
+.book-cover-image {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.book-cover-placeholder {
+  display: grid;
+  width: 100%;
+  height: 100%;
+  place-items: center;
+  background:
+    linear-gradient(135deg, rgba(255, 255, 255, 0.17), transparent 55%),
+    #5d3b2c;
+  color: #f6ead4;
+  font-family: "Songti SC", "STSong", serif;
+  font-size: 30px;
+  font-weight: 700;
+}
+
 .book-card:hover {
   border-color: var(--accent);
   box-shadow: 0 5px 14px rgba(38, 35, 28, 0.1);
@@ -824,6 +850,163 @@ input {
   writing-mode: vertical-rl;
   text-orientation: mixed;
   overflow: hidden;
+}
+
+.board.is-cover {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 14px;
+  column-width: auto;
+}
+
+.board.is-cover .category-panel {
+  display: block;
+  min-width: 0;
+  min-height: 0;
+  margin: 0;
+  overflow: hidden;
+  border-color: #6a4933;
+  background: #2f2119;
+  box-shadow: 0 12px 24px rgba(42, 27, 18, 0.22);
+}
+
+.board.is-cover .category-header {
+  position: relative;
+  z-index: 1;
+  border-bottom-color: rgba(242, 207, 148, 0.38);
+  border-left-color: #e4bb76;
+  background:
+    linear-gradient(90deg, rgba(255, 234, 189, 0.13), transparent 46%),
+    #3f2b1f;
+  color: #fff3dc;
+}
+
+.board.is-cover .category-count {
+  color: rgba(255, 239, 210, 0.68);
+}
+
+.board.is-cover .rating-sort-btn,
+.board.is-cover .delete-category-btn {
+  border-color: rgba(255, 237, 204, 0.28);
+  background: rgba(255, 250, 240, 0.1);
+  color: #f6dec0;
+}
+
+.board.is-cover .rating-sort-btn.is-active {
+  border-color: #e7bd7d;
+  background: #d79b4c;
+  color: #2e1d14;
+}
+
+.board.is-cover .book-list {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: 17px 20px;
+  min-height: 205px;
+  padding: 17px 20px 27px;
+  border-bottom: 10px solid #72492e;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.075), transparent 47%),
+    repeating-linear-gradient(180deg, transparent 0 161px, rgba(255, 228, 184, 0.42) 161px 162px, #764b2d 162px 171px, transparent 171px 172px),
+    repeating-linear-gradient(90deg, rgba(255, 218, 160, 0.025) 0 1px, transparent 1px 22px),
+    #2f2119;
+}
+
+.board.is-cover .book-list::after {
+  content: "";
+  position: absolute;
+  z-index: 0;
+  right: 0;
+  bottom: -10px;
+  left: 0;
+  height: 10px;
+  border-top: 1px solid rgba(255, 228, 184, 0.42);
+  background:
+    linear-gradient(180deg, rgba(255, 217, 152, 0.25), transparent 40%),
+    #764b2d;
+  box-shadow: 0 6px 11px rgba(10, 5, 2, 0.42);
+}
+
+.board.is-cover .book-card {
+  position: relative;
+  z-index: 1;
+  flex: 0 0 96px;
+  width: 96px;
+  height: 145px;
+  min-height: 0;
+  padding: 0;
+  border: 1px solid rgba(255, 240, 212, 0.36);
+  border-radius: 4px 4px 1px 1px;
+  background: #493426;
+  box-shadow: 0 6px 13px rgba(8, 4, 1, 0.42);
+  overflow: hidden;
+  transform-origin: bottom center;
+}
+
+.board.is-cover .book-card:hover {
+  z-index: 2;
+  border-color: #ffe0a7;
+  box-shadow: 0 12px 22px rgba(8, 4, 1, 0.52);
+  transform: translateY(-6px);
+}
+
+.board.is-cover .book-cover {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.board.is-cover .book-main {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  display: block;
+  padding: 18px 6px 6px;
+  background: linear-gradient(transparent, rgba(18, 10, 5, 0.96) 56%);
+  transform: translateY(100%);
+  transition: transform 170ms ease;
+}
+
+.board.is-cover .book-card:hover .book-main,
+.board.is-cover .book-card:focus-visible .book-main {
+  transform: translateY(0);
+}
+
+.board.is-cover .book-title {
+  display: -webkit-box;
+  color: #fff8ea;
+  font-family: "Songti SC", "STSong", serif;
+  font-size: 12px;
+  line-height: 1.25;
+  text-decoration: none;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+
+.board.is-cover .book-title:hover {
+  color: #ffe0a7;
+  text-decoration: none;
+}
+
+.board.is-cover .inline-chip,
+.board.is-cover .rating-pill,
+.board.is-cover .book-author,
+.board.is-cover .book-abs-badge {
+  display: none;
+}
+
+.board.is-cover .empty {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  min-height: 150px;
+  border-color: rgba(255, 237, 207, 0.3);
+  background: rgba(255, 251, 241, 0.06);
+  color: rgba(255, 239, 210, 0.7);
 }
 
 .chip,
@@ -1209,6 +1392,23 @@ input {
 }
 
 @media (max-width: 520px) {
+  .board.is-cover .book-list {
+    gap: 22px 14px;
+    min-height: 188px;
+    padding: 14px 15px 24px;
+    background:
+      linear-gradient(180deg, rgba(255, 255, 255, 0.075), transparent 47%),
+      repeating-linear-gradient(180deg, transparent 0 143px, rgba(255, 228, 184, 0.42) 143px 144px, #764b2d 144px 151px, transparent 151px 152px),
+      repeating-linear-gradient(90deg, rgba(255, 218, 160, 0.025) 0 1px, transparent 1px 22px),
+      #2f2119;
+  }
+
+  .board.is-cover .book-card {
+    flex-basis: 86px;
+    width: 86px;
+    height: 130px;
+  }
+
   .detail-hero.has-cover {
     grid-template-columns: 66px minmax(0, 1fr);
   }

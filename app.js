@@ -139,7 +139,7 @@ function hydrateRail() {
 
 function hydrateLayout() {
   const saved = localStorage.getItem(LAYOUT_STORAGE_KEY);
-  setLayoutMode(saved === "spine" ? "spine" : "list", { persist: false, rerender: false });
+  setLayoutMode(["list", "spine", "cover"].includes(saved) ? saved : "list", { persist: false, rerender: false });
 }
 
 function applyAppConfig() {
@@ -193,9 +193,10 @@ function setRailVisible(visible, { persist = true } = {}) {
 }
 
 function setLayoutMode(nextMode, { persist = true, rerender = true } = {}) {
-  layoutMode = nextMode === "spine" ? "spine" : "list";
+  layoutMode = ["list", "spine", "cover"].includes(nextMode) ? nextMode : "list";
   els.board.classList.toggle("is-spine", layoutMode === "spine");
-  els.board.classList.toggle("is-list", layoutMode !== "spine");
+  els.board.classList.toggle("is-cover", layoutMode === "cover");
+  els.board.classList.toggle("is-list", layoutMode === "list");
   els.layoutButtons.forEach((button) => {
     const active = button.dataset.layout === layoutMode;
     button.classList.toggle("is-active", active);
@@ -331,14 +332,19 @@ function bookCard(book) {
   const rating = bookRating(book) ? `<span class="rating-pill">${escapeHtml(bookRating(book))}</span>` : "";
   const author = metadataText(book["作者"]).trim();
   const title = bookDisplayTitle(book);
+  const coverImage = metadataText(book["封面图片"]).trim();
   const audiobookshelfUrl = getAudiobookshelfUrl(book);
   const titleClass = `book-title${audiobookshelfUrl ? " book-title--audiobookshelf" : ""}`;
   const titleContent = audiobookshelfUrl
     ? `<a class="${titleClass}" href="${escapeAttr(audiobookshelfUrl)}" target="_blank" rel="noreferrer" title="在 Audiobookshelf 中打开">${escapeHtml(title)}</a>`
     : `<span class="${titleClass}">${escapeHtml(title)}</span>`;
   const spineStyle = layoutMode === "spine" ? ` style="${spineStyleVars(book)}"` : "";
+  const cover = coverImage
+    ? `<img class="book-cover-image" src="${escapeAttr(coverImage)}" alt="${escapeAttr(`${title} 封面`)}" loading="lazy">`
+    : `<span class="book-cover-placeholder" aria-hidden="true">${escapeHtml(title.slice(0, 1) || "书")}</span>`;
 
   return `<div class="book-card" draggable="true" role="button" tabindex="0" data-id="${escapeAttr(book.id)}"${spineStyle} aria-label="查看《${escapeAttr(title)}》详情">
+    <figure class="book-cover">${cover}</figure>
     <div class="book-main">
       ${titleContent}
       ${audiobookshelfUrl ? `<span class="book-abs-badge" title="可在 Audiobookshelf 中打开" aria-label="Audiobookshelf 已匹配">ABS</span>` : ""}
