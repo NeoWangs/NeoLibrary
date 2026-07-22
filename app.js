@@ -211,9 +211,7 @@ function render() {
   const changed = books.filter(hasCategoryChange);
   const grouped = groupByCategory(visibleBooks);
   const categoryList = orderedCategories();
-  const renderedCategories = activeCategories.size === 0
-    ? categoryList
-    : categoryList.filter((category) => activeCategories.has(category));
+  const renderedCategories = categoryList;
 
   els.bookCount.textContent = String(visibleBooks.length);
   els.categoryCount.textContent = String(categoryList.length);
@@ -249,8 +247,10 @@ function renderNav(categoryList) {
       const additive = event.metaKey || event.ctrlKey;
       window.clearTimeout(navClickTimer);
       navClickTimer = window.setTimeout(() => {
-        selectCategory(button.dataset.category, additive);
+        const category = button.dataset.category;
+        selectCategory(category, additive);
         render();
+        scrollToCategory(category);
       }, 160);
     });
     button.addEventListener("dragstart", (event) => {
@@ -342,9 +342,13 @@ function bookCard(book) {
   const cover = coverImage
     ? `<img class="book-cover-image" src="${escapeAttr(coverImage)}" alt="${escapeAttr(`${title} 封面`)}" loading="lazy">`
     : `<span class="book-cover-placeholder" aria-hidden="true">${escapeHtml(title.slice(0, 1) || "书")}</span>`;
+  const coverAbsBadge = layoutMode === "cover" && audiobookshelfUrl
+    ? `<span class="cover-abs-badge" aria-hidden="true">ABS</span>`
+    : "";
 
   return `<div class="book-card" draggable="true" role="button" tabindex="0" data-id="${escapeAttr(book.id)}"${spineStyle} aria-label="查看《${escapeAttr(title)}》详情">
     <figure class="book-cover">${cover}</figure>
+    ${coverAbsBadge}
     <div class="book-main">
       ${titleContent}
       ${audiobookshelfUrl ? `<span class="book-abs-badge" title="可在 Audiobookshelf 中打开" aria-label="Audiobookshelf 已匹配">ABS</span>` : ""}
@@ -692,6 +696,20 @@ function selectCategory(category, additive = false) {
     next.add(category);
   }
   activeCategories = next;
+}
+
+function scrollToCategory(category) {
+  window.requestAnimationFrame(() => {
+    const target = category === "全部"
+      ? els.board
+      : [...els.board.querySelectorAll(".category-panel")].find((panel) => panel.dataset.category === category);
+    if (!target) return;
+
+    target.scrollIntoView({
+      behavior: window.matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth",
+      block: "start",
+    });
+  });
 }
 
 function toggleRatingSort(category) {
