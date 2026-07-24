@@ -908,13 +908,13 @@ input {
   display: flex;
   flex-wrap: wrap;
   align-items: flex-end;
-  gap: 27px 20px;
-  min-height: 205px;
-  padding: 17px 20px 27px;
+  gap: 27px 8px;
+  min-height: 224px;
+  padding: 17px 16px 27px;
   border-bottom: 10px solid #72492e;
   background:
     linear-gradient(180deg, rgba(255, 255, 255, 0.075), transparent 47%),
-    repeating-linear-gradient(180deg, transparent 0 161px, rgba(255, 228, 184, 0.42) 161px 162px, #764b2d 162px 171px, transparent 171px 172px),
+    repeating-linear-gradient(180deg, transparent 0 180px, rgba(255, 228, 184, 0.42) 180px 181px, #764b2d 181px 190px, transparent 190px 191px),
     repeating-linear-gradient(90deg, rgba(255, 218, 160, 0.025) 0 1px, transparent 1px 22px),
     #2f2119;
 }
@@ -937,9 +937,9 @@ input {
 .board.is-cover .book-card {
   position: relative;
   z-index: 1;
-  flex: 0 0 96px;
-  width: 96px;
-  height: 145px;
+  flex: 0 0 108px;
+  width: 108px;
+  height: 164px;
   min-height: 0;
   padding: 0;
   border: 1px solid rgba(255, 240, 212, 0.36);
@@ -1418,20 +1418,20 @@ input {
 
 @media (max-width: 520px) {
   .board.is-cover .book-list {
-    gap: 22px 14px;
-    min-height: 188px;
-    padding: 14px 15px 24px;
+    gap: 22px 8px;
+    min-height: 198px;
+    padding: 14px 12px 24px;
     background:
       linear-gradient(180deg, rgba(255, 255, 255, 0.075), transparent 47%),
-      repeating-linear-gradient(180deg, transparent 0 143px, rgba(255, 228, 184, 0.42) 143px 144px, #764b2d 144px 151px, transparent 151px 152px),
+      repeating-linear-gradient(180deg, transparent 0 153px, rgba(255, 228, 184, 0.42) 153px 154px, #764b2d 154px 161px, transparent 161px 162px),
       repeating-linear-gradient(90deg, rgba(255, 218, 160, 0.025) 0 1px, transparent 1px 22px),
       #2f2119;
   }
 
   .board.is-cover .book-card {
-    flex-basis: 86px;
-    width: 86px;
-    height: 130px;
+    flex-basis: 92px;
+    width: 92px;
+    height: 140px;
   }
 
   .detail-hero.has-cover {
