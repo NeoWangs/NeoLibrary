@@ -908,6 +908,7 @@ input {
   display: flex;
   flex-wrap: wrap;
   align-items: flex-end;
+  align-content: flex-start;
   gap: 27px 8px;
   min-height: 224px;
   padding: 17px 16px 27px;
