@@ -8,7 +8,11 @@
   </head>
   <body>
     <div class="app-shell">
-      <aside class="rail">
+      <aside id="categoryRail" class="rail" aria-label="分类与数据操作">
+        <div class="rail-mobile-header">
+          <span>分类与工具</span>
+          <button id="closeRailBtn" class="rail-close" type="button" aria-label="收起分类面板">×</button>
+        </div>
         <label class="field">
           <span>搜索</span>
           <input id="searchInput" type="search" autocomplete="off" placeholder="书名、作者、ID">
@@ -31,11 +35,12 @@
           <button id="resetBtn" type="button">重置</button>
         </div>
       </aside>
+      <button id="railBackdrop" class="rail-backdrop" type="button" aria-label="关闭分类面板" tabindex="-1"></button>
 
       <main class="workspace">
         <header class="toolbar">
           <div class="toolbar-title">
-            <button id="toggleRailBtn" class="rail-toggle" type="button" title="隐藏分类列表" aria-label="隐藏分类列表">
+            <button id="toggleRailBtn" class="rail-toggle" type="button" title="隐藏分类列表" aria-label="隐藏分类列表" aria-controls="categoryRail">
               <span class="sidebar-icon" aria-hidden="true">
                 <span></span>
                 <span></span>

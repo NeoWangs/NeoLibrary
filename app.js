@@ -3,6 +3,7 @@ const RAIL_STORAGE_KEY = "douban-category-manager-rail-visible-v1";
 const LAYOUT_STORAGE_KEY = "douban-category-manager-layout-v1";
 const BOOK_METADATA_KEYS = ["作者", "国籍", "译者", "原作名", "出版社", "出版年", "ISBN", "页数", "装帧", "定价", "评分", "评分人数", "内容简介", "封面图片"];
 const AUDIOBOOKSHELF_BASE_URL = "http://neoxone.synology.me:8081";
+const MOBILE_RAIL_BREAKPOINT = 860;
 
 const initialData = window.BOOK_CATEGORY_DATA ?? { appTitle: "藏书阁", categories: [], books: [] };
 let appTitle = metadataText(initialData.appTitle) || "藏书阁";
@@ -14,9 +15,11 @@ let ratingSortedCategories = new Set();
 let layoutMode = "list";
 let query = "";
 let navClickTimer = 0;
+const mobileRailQuery = window.matchMedia(`(max-width: ${MOBILE_RAIL_BREAKPOINT}px)`);
 
 const els = {
   board: document.querySelector("#board"),
+  categoryRail: document.querySelector("#categoryRail"),
   categoryNav: document.querySelector("#categoryNav"),
   searchInput: document.querySelector("#searchInput"),
   newCategoryInput: document.querySelector("#newCategoryInput"),
@@ -26,6 +29,8 @@ const els = {
   importJsonInput: document.querySelector("#importJsonInput"),
   resetBtn: document.querySelector("#resetBtn"),
   toggleRailBtn: document.querySelector("#toggleRailBtn"),
+  closeRailBtn: document.querySelector("#closeRailBtn"),
+  railBackdrop: document.querySelector("#railBackdrop"),
   bookDialog: document.querySelector("#bookDialog"),
   bookDialogBody: document.querySelector("#bookDialogBody"),
   bookDialogClose: document.querySelector("#bookDialogClose"),
@@ -107,7 +112,25 @@ els.resetBtn.addEventListener("click", () => {
   render();
 });
 
-els.toggleRailBtn.addEventListener("click", () => setRailVisible(document.body.classList.contains("rail-hidden")));
+els.toggleRailBtn.addEventListener("click", () => {
+  if (isMobileRail()) {
+    setMobileRailOpen(!document.body.classList.contains("mobile-rail-open"));
+    return;
+  }
+  setRailVisible(document.body.classList.contains("rail-hidden"));
+});
+els.closeRailBtn?.addEventListener("click", () => setMobileRailOpen(false));
+els.railBackdrop?.addEventListener("click", () => setMobileRailOpen(false));
+window.addEventListener("keydown", (event) => {
+  if (event.key === "Escape" && isMobileRail() && document.body.classList.contains("mobile-rail-open")) {
+    setMobileRailOpen(false);
+    els.toggleRailBtn.focus();
+  }
+});
+mobileRailQuery.addEventListener("change", () => {
+  setMobileRailOpen(false);
+  updateRailToggle();
+});
 els.layoutButtons.forEach((button) => {
   button.addEventListener("click", () => setLayoutMode(button.dataset.layout));
 });
@@ -135,6 +158,7 @@ function hydrate() {
 function hydrateRail() {
   const visible = localStorage.getItem(RAIL_STORAGE_KEY);
   setRailVisible(visible !== "false", { persist: false });
+  setMobileRailOpen(false);
 }
 
 function hydrateLayout() {
@@ -185,11 +209,30 @@ function startAppTitleEdit() {
 
 function setRailVisible(visible, { persist = true } = {}) {
   document.body.classList.toggle("rail-hidden", !visible);
-  const label = visible ? "隐藏分类列表" : "显示分类列表";
+  updateRailToggle();
+  if (persist) localStorage.setItem(RAIL_STORAGE_KEY, String(visible));
+}
+
+function isMobileRail() {
+  return mobileRailQuery.matches;
+}
+
+function setMobileRailOpen(open) {
+  const isOpen = Boolean(open) && isMobileRail();
+  document.body.classList.toggle("mobile-rail-open", isOpen);
+  els.categoryRail?.toggleAttribute("inert", isMobileRail() && !isOpen);
+  els.categoryRail?.setAttribute("aria-hidden", String(isMobileRail() && !isOpen));
+  updateRailToggle();
+}
+
+function updateRailToggle() {
+  const visible = isMobileRail()
+    ? document.body.classList.contains("mobile-rail-open")
+    : !document.body.classList.contains("rail-hidden");
+  const label = visible ? "收起分类面板" : "展开分类面板";
   els.toggleRailBtn.title = label;
   els.toggleRailBtn.setAttribute("aria-label", label);
   els.toggleRailBtn.setAttribute("aria-expanded", String(visible));
-  if (persist) localStorage.setItem(RAIL_STORAGE_KEY, String(visible));
 }
 
 function setLayoutMode(nextMode, { persist = true, rerender = true } = {}) {
@@ -251,6 +294,7 @@ function renderNav(categoryList) {
         selectCategory(category, additive);
         render();
         scrollToCategory(category);
+        if (isMobileRail()) setMobileRailOpen(false);
       }, 160);
     });
     button.addEventListener("dragstart", (event) => {
