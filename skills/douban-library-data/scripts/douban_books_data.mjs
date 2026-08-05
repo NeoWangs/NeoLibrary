@@ -340,7 +340,7 @@ async function fetchBook(row, audiobookshelfIndex) {
 function readExistingData(file) {
   if (replace || !fs.existsSync(file)) return { categories: [], books: [] };
   const text = fs.readFileSync(file, "utf8");
-  const json = text.match(/window\.BOOK_CATEGORY_DATA\s*=\s*([\s\S]*);\s*$/)?.[1];
+  const json = text.match(/window\.BOOK_CATEGORY_DATA\s*=\s*([\s\S]*?);?\s*$/)?.[1];
   if (!json) return { categories: [], books: [] };
   return JSON.parse(json);
 }

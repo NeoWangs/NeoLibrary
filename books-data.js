@@ -416,7 +416,7 @@ window.BOOK_CATEGORY_DATA = {
       "ISBN": "9787568026314",
       "定价": "19.30元",
       "评分人数": "目前无人评价",
-      "封面图片": "./assets/covers/31199088.gif"
+      "封面图片": "./assets/covers/31199088.jpg"
     },
     {
       "id": "1467519",
@@ -4610,7 +4610,7 @@ window.BOOK_CATEGORY_DATA = {
       "order": 5,
       "ISBN": "9787510871696",
       "评分人数": "目前无人评价",
-      "封面图片": "./assets/covers/35070713.gif"
+      "封面图片": "./assets/covers/35070713.jpg"
     },
     {
       "id": "3580750",
