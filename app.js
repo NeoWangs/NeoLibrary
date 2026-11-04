@@ -253,7 +253,9 @@ function render() {
   const visibleBooks = books.filter(matchesQuery);
   const changed = books.filter(hasCategoryChange);
   const grouped = groupByCategory(visibleBooks);
-  const categoryList = orderedCategories();
+  const categoryList = orderedCategories().filter(
+    (category) => !query || (grouped.get(category)?.length ?? 0) > 0,
+  );
   const renderedCategories = categoryList;
 
   els.bookCount.textContent = String(visibleBooks.length);
